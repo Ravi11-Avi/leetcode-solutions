@@ -4,14 +4,15 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-1-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-2-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-2-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-0-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
+| 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
 
 ---
-*Last updated: Tue, 28 Jul 2026 20:15:25 GMT*
+*Last updated: Tue, 28 Jul 2026 20:16:05 GMT*
