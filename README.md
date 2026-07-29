@@ -11,10 +11,10 @@
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
-| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `MySQL` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
 
 ---
-*Last updated: Wed, 29 Jul 2026 12:28:25 GMT*
+*Last updated: Wed, 29 Jul 2026 12:28:40 GMT*
