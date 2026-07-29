@@ -19,7 +19,7 @@
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/submissions/2086203209/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
-| 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/submissions/2086202198/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
+| 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Wed, 29 Jul 2026 13:58:37 GMT*
+*Last updated: Wed, 29 Jul 2026 13:58:59 GMT*
