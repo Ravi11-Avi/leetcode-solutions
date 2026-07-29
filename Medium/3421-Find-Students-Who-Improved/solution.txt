@@ -1,0 +1,20 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 3421. Find Students Who Improved
+//  URL      : https://leetcode.com/problems/find-students-who-improved/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : July 29, 2026
+// ═══════════════════════════════════════════════════════
+
+# Write your MySQL query statement below
+Select t1.student_id  , t1.subject, t1.score as first_score , t2.score as latest_score 
+from Scores  t1
+join Scores t2 
+on t1.student_id = t2.student_id 
+and t1.subject = t2.subject 
+where  t2.exam_date  =(
+    select Max(exam_date)
+    from scores
+    where student_id = t2.student_id and subject = t2.subject
+    )   
+  and t1.score <t2.score ;
