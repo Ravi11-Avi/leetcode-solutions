@@ -3,7 +3,7 @@
 --  URL      : https://leetcode.com/problems/find-students-who-improved/
 --  Difficulty : Medium
 --  Language : MySQL
---  Runtime  : 87 ms
+--  Runtime  : 81 ms
 --  Memory   : 0B
 --  Solved   : July 29, 2026
 -- ═══════════════════════════════════════════════════════
@@ -13,4 +13,14 @@ Select t1.student_id  , t1.subject, t1.score as first_score , t2.score as latest
 from Scores  t1
 join Scores t2 
 on t1.student_id = t2.student_id 
-where t1.score >  t2.score & t1.student_id = t2.student_id ;
+and t1.subject = t2.subject 
+WHERE t1.exam_date = (                
+    SELECT MIN(exam_date)
+    FROM Scores
+    WHERE student_id = t1.student_id AND subject = t1.subject
+)   
+AND t2.exam_date = (                    
+    SELECT MAX(exam_date)
+    FROM Scores
+    WHERE student_id = t2.student_id AND subject = t2.subject )
+    and t1.score< t2.score;
