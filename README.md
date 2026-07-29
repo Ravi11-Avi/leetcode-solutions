@@ -20,4 +20,4 @@
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Wed, 29 Jul 2026 12:44:27 GMT*
+*Last updated: Wed, 29 Jul 2026 12:45:42 GMT*
