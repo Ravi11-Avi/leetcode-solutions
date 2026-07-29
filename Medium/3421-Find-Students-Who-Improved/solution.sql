@@ -1,9 +1,9 @@
 -- ═══════════════════════════════════════════════════════
 --  Problem  : 3421. Find Students Who Improved
---  URL      : https://leetcode.com/problems/find-students-who-improved/
+--  URL      : https://leetcode.com/problems/find-students-who-improved/submissions/2086203209/
 --  Difficulty : Medium
 --  Language : MySQL
---  Runtime  : 81 ms
+--  Runtime  : 351 ms
 --  Memory   : 0B
 --  Solved   : July 29, 2026
 -- ═══════════════════════════════════════════════════════
@@ -23,4 +23,5 @@ AND t2.exam_date = (
     SELECT MAX(exam_date)
     FROM Scores
     WHERE student_id = t2.student_id AND subject = t2.subject )
-    and t1.score< t2.score;
+    and t1.score< t2.score
+    ORDER BY t1.student_id ASC, t1.subject ASC;
