@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0196. Delete Duplicate Emails
-//  URL      : https://leetcode.com/problems/delete-duplicate-emails/
+//  URL      : https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : July 29, 2026
