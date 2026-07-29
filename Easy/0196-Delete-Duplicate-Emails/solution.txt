@@ -1,0 +1,16 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0196. Delete Duplicate Emails
+//  URL      : https://leetcode.com/problems/delete-duplicate-emails/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : July 29, 2026
+// ═══════════════════════════════════════════════════════
+
+DELETE FROM Person 
+WHERE id NOT IN (
+    SELECT min_id FROM (
+        SELECT MIN(id) AS min_id 
+        FROM Person 
+        GROUP BY email
+    ) AS temp
+);
