@@ -1,0 +1,24 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0136. Single Number
+//  URL      : https://leetcode.com/problems/single-number/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : July 31, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int singleNumber(int[] nums) {
+        HashMap <Integer, Integer> a =  new HashMap<>();
+
+        for(int i = 0 ;  i < nums.length ; i++){
+            a.put(nums[i],a.getOrDefault(nums[i], 0)+1);
+        }
+
+        for(int i : a.keySet()){
+            if(a.get(i) ==1 ){
+                return i;
+            }
+        }
+        return -1 ;
+    }
+}
