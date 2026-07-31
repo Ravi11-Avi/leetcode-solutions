@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-15-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-16-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-7-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-8-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-9-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -24,8 +24,9 @@
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) | 🟢 Easy | `chooseatype` | Jul 30, 2026 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `Java` | Jul 31, 2026 |
+| 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `chooseatype` | Jul 31, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/submissions/2086203209/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Fri, 31 Jul 2026 08:29:17 GMT*
+*Last updated: Fri, 31 Jul 2026 08:34:25 GMT*
