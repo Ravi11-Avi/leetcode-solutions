@@ -3,7 +3,7 @@
 //  URL      : https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/
 //  Difficulty : Easy
 //  Language : chooseatype
-//  Solved   : July 29, 2026
+//  Solved   : July 31, 2026
 // ═══════════════════════════════════════════════════════
 
 DELETE FROM Person 
