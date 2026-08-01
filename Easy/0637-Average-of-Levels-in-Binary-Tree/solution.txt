@@ -1,0 +1,62 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0637. Average of Levels in Binary Tree
+//  URL      : https://leetcode.com/problems/average-of-levels-in-binary-tree/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : August 1, 2026
+// ═══════════════════════════════════════════════════════
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public List<Double> averageOfLevels(TreeNode root) {
+        List<Double> result  =new  ArrayList<>();
+
+        if (root== null)return null;
+        Queue<TreeNode> queue  = new LinkedList<>();
+        queue.add(root);
+
+        while(!queue.isEmpty()){
+            int levSize  =  queue.size();
+            double levSum = 0.00;
+            
+
+
+            for (int i = 0 ; i < levSize ; i++){
+                TreeNode cuurentNode = queue.poll();
+                levSum += cuurentNode.val ;               
+
+
+
+                if (cuurentNode.left!= null){
+                    queue.add(cuurentNode.left);
+                }
+                if (cuurentNode.right!= null){
+                    queue.add(cuurentNode.right);
+                }
+                
+            }
+
+            double levAVG = levSum/levSize;
+
+            result.add(levAVG);
+
+
+
+        }
+        return result ;
+    }
+}
