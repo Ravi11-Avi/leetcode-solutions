@@ -4,14 +4,14 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.2 MB
+//  Memory   : 42.8 MB
 //  Solved   : August 1, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public boolean predictTheWinner(int[] nums) {
         if (nums.length == 0) return false;
-        if (nums.length ==1 &&nums[0]==0)return false;
+        if (nums.length ==1 )return true;
 
         int p1 = 0;
         int p2 = 0;
