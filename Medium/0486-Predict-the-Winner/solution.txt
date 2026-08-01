@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0486. Predict the Winner
-//  URL      : https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01
+//  URL      : https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 1, 2026
@@ -9,7 +9,7 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
         if (nums.length == 0) return false;
-        if (nums.length ==1 && nums[0]==0)return false;
+        if (nums.length ==1 )return true;
 
         int p1 = 0;
         int p2 = 0;
@@ -21,7 +21,7 @@ class Solution {
                 p2 +=nums[i];
             }
         }
-        if (p1> p2)return true;
+        if (p1>= p2)return true;
 
         return false;
         
