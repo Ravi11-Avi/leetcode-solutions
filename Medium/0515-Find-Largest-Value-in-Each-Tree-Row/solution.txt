@@ -32,7 +32,7 @@ class Solution {
 
         while(!queue.isEmpty()){
             int sizeQ =  queue.size();
-            int max = 0 ;
+            int max = Integer.MIN_VALUE ;
 
             for(int i =  0 ;  i < sizeQ ; i++){
                 TreeNode currentNode = queue.poll();
