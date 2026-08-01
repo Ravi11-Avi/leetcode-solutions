@@ -8,6 +8,8 @@
 
 class Solution {
     public boolean predictTheWinner(int[] nums) {
+        if (nums.length == 0) return false;
+        if (nums.length ==1 && nums[0]==0)return false;
 
         int p1 = 0;
         int p2 = 0;
