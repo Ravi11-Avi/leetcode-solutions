@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 43.1 MB
+//  Memory   : 43 MB
 //  Solved   : August 2, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -38,7 +38,7 @@ class Solution {
 
             for(int i =  0 ;  i < sizeQ ; i++){
                 TreeNode currentNode = queue.poll();
-                if (currentNode.val> max)max = currentNode.val;
+                max =  Math.max(currentNode.val, max);
 
                 if (currentNode.left!= null){
                     queue.add(currentNode.left);
