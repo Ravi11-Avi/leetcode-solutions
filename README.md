@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-20-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-21-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-7-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-13-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-14-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -19,6 +19,7 @@
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `MySQL` | Jul 29, 2026 |
+| 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `Java` | Aug 1, 2026 |
@@ -33,4 +34,4 @@
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Sat, 01 Aug 2026 10:10:43 GMT*
+*Last updated: Sat, 01 Aug 2026 11:55:12 GMT*
