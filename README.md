@@ -4,15 +4,16 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-18-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-19-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-7-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-11-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-12-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `chooseatype` | Jul 30, 2026 |
+| 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
@@ -31,4 +32,4 @@
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Sat, 01 Aug 2026 08:14:46 GMT*
+*Last updated: Sat, 01 Aug 2026 09:30:01 GMT*
