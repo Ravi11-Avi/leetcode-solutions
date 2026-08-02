@@ -17,7 +17,7 @@
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/) | 🟢 Easy | `java` | Aug 2, 2026 |
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
-| 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
+| 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2091774300/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
 | 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | `Java` | Aug 2, 2026 |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
@@ -42,4 +42,4 @@
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Sun, 02 Aug 2026 18:28:32 GMT*
+*Last updated: Sun, 02 Aug 2026 18:28:58 GMT*
