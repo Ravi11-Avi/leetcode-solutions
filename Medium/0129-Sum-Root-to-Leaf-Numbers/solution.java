@@ -1,0 +1,49 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0129. Sum Root to Leaf Numbers
+//  URL      : https://leetcode.com/problems/sum-root-to-leaf-numbers/
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.9 MB
+//  Solved   : August 2, 2026
+// ═══════════════════════════════════════════════════════
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public int sumNumbers(TreeNode root) {
+        int ans =  0;
+        if (root == null)return ans;
+        dfs(root , ans ,0);
+        return ans;
+    }
+
+    public static void dfs(TreeNode node ,  int ans , int currNum){
+        if (node == null)return ;
+
+        currNum = currNum*10 + node.val;
+
+        if (node.left ==  null && node.right == null ){
+            ans+= currNum;
+        }  
+
+        dfs(node.left, ans , currNum);
+        dfs(node.right, ans , currNum);
+
+        currNum /=10;
+    }
+
+}
