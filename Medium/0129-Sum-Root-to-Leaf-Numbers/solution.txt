@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0129. Sum Root to Leaf Numbers
-//  URL      : https://leetcode.com/problems/sum-root-to-leaf-numbers/
+//  URL      : https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2091774300/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 2, 2026
@@ -23,25 +23,23 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        int ans =  0;
-        if (root == null)return ans;
-        dfs(root , ans ,0);
-        return ans;
+        // int ans =  0;
+        // if (root == null)return ans;
+        return dfs(root ,0);
+       
     }
 
-    public static void dfs(TreeNode node ,  int ans , int currNum){
-        if (node == null)return ;
+    public static int dfs(TreeNode node ,   int currNum){
+        if (node == null)return 0 ;
 
         currNum = currNum*10 + node.val;
 
         if (node.left ==  null && node.right == null ){
-            ans+= currNum;
+            return currNum;
         }  
 
-        dfs(node.left, ans , currNum);
-        dfs(node.right, ans , currNum);
+        return dfs(node.left, currNum) +dfs(node.right, currNum);
 
-        currNum /=10;
     }
 
 }
