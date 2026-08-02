@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.9 MB
+//  Memory   : 42.4 MB
 //  Solved   : August 2, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -25,25 +25,23 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        int ans =  0;
-        if (root == null)return ans;
-        dfs(root , ans ,0);
-        return ans;
+        // int ans =  0;
+        // if (root == null)return ans;
+        return dfs(root ,0);
+       
     }
 
-    public static void dfs(TreeNode node ,  int ans , int currNum){
-        if (node == null)return ;
+    public static int dfs(TreeNode node ,   int currNum){
+        if (node == null)return 0 ;
 
         currNum = currNum*10 + node.val;
 
         if (node.left ==  null && node.right == null ){
-            ans+= currNum;
+            return currNum;
         }  
 
-        dfs(node.left, ans , currNum);
-        dfs(node.right, ans , currNum);
+        return dfs(node.left, currNum) +dfs(node.right, currNum);
 
-        currNum /=10;
     }
 
 }
