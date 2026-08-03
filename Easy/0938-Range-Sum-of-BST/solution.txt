@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0938. Range Sum of BST
-//  URL      : https://leetcode.com/problems/range-sum-of-bst/
+//  URL      : https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : August 3, 2026
@@ -23,21 +23,12 @@
  */
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
-        if (root == null) return 0;
-
-
-        return dfs(root, low ,high , 0);
-    }
-
-    public static int dfs (TreeNode node , int low , int high , int total ){
-        if(node== null)return total;
-        
-        if(node.val>= low && node.val<=high ){
-            total+= node.val;
+        if (root== null)return 0;
+        int currval =0;
+        if (root.val <= high && root.val >= low){
+                currval = root.val;
         }
-        total = dfs(node.left,low,high, total);
-        total = dfs(node.right,low,high, total);
 
-        return total;
+        return currval + rangeSumBST(root.left,low, high)+rangeSumBST(root.right,low, high);
     }
 }
