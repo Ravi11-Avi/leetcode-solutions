@@ -41,7 +41,7 @@
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 🟢 Easy | `chooseatype` | Aug 1, 2026 |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
-| 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
+| 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) | 🟢 Easy | `chooseatype` | Jul 30, 2026 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `Java` | Jul 31, 2026 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `chooseatype` | Jul 31, 2026 |
@@ -49,4 +49,4 @@
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Mon, 03 Aug 2026 13:29:32 GMT*
+*Last updated: Mon, 03 Aug 2026 13:29:56 GMT*
