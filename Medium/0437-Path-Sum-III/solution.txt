@@ -27,9 +27,9 @@ class Solution {
         if (root== null)return 0;
         
 
-        int a = dfs(root, targetSum , 0);
-        int b = dfs(root.left, targetSum , 0);
-        int c = dfs(root.right, targetSum , 0);
+        int a = dfs(root, targetSum , 0 );
+        int b = pathSum(root.left, targetSum );
+        int c = pathSum(root.right, targetSum);
 
         return a+b+c;
 
@@ -38,9 +38,13 @@ class Solution {
         if (node == null)return 0 ;
 
         currentSum += node.val;
-        if (currentSum == target) return 1 ;
+        int count = 0;
+        if (currentSum == target) count++ ;
                         
-        return  dfs(node.left ,  target , currentSum)+dfs(node.right ,  target  , currentSum);
+        count +=  dfs(node.left ,  target , currentSum);
+        count += dfs(node.right ,  target  , currentSum);
+
+        return count ;
         
     }
 }
