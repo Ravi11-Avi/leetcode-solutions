@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Memory   : 42.7 MB
 //  Solved   : August 3, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -25,24 +25,28 @@
  */
 class Solution {
     public int pathSum(TreeNode root, int targetSum) {
-        int result =  0 ;
-        if (root== null)return result ;
 
-        dfs(root, targetSum, result , 0);
+        if (root== null)return 0;
+        
 
-        return result ; 
+        int a = dfs(root, targetSum , 0 );
+        int b = pathSum(root.left, targetSum );
+        int c = pathSum(root.right, targetSum);
+
+        return a+b+c;
+
     }
-    public static void dfs (TreeNode node , int target , int result  ,  int currentSum ){
-        if (node == null)return ;
+    public static int dfs (TreeNode node , int target , int currentSum ){
+        if (node == null)return 0 ;
 
         currentSum += node.val;
-        if(node.left ==  null && node.right == null ){
-            if (currentSum == target){
-                result++ ;
-            }
-        }else{
-            dfs(node.left ,  target , result , currentSum);
-            dfs(node.right ,  target , result , currentSum);
-        }
+        int count = 0;
+        if (currentSum == target) count++ ;
+                        
+        count +=  dfs(node.left ,  target , currentSum);
+        count += dfs(node.right ,  target  , currentSum);
+
+        return count ;
+        
     }
 }
