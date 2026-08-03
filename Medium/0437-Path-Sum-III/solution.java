@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0437. Path Sum III
-//  URL      : https://leetcode.com/problems/path-sum-iii/
+//  URL      : https://leetcode.com/problems/path-sum-iii/submissions/2092250296/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.7 MB
+//  Runtime  : 18 ms
+//  Memory   : 45.2 MB
 //  Solved   : August 3, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -29,14 +29,14 @@ class Solution {
         if (root== null)return 0;
         
 
-        int a = dfs(root, targetSum , 0 );
+        int a = dfs(root, targetSum , 0L );
         int b = pathSum(root.left, targetSum );
         int c = pathSum(root.right, targetSum);
 
         return a+b+c;
 
     }
-    public static int dfs (TreeNode node , int target , int currentSum ){
+    public static int dfs (TreeNode node , int target , long currentSum ){
         if (node == null)return 0 ;
 
         currentSum += node.val;
