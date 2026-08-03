@@ -4,15 +4,16 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-37-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-38-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-14-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-23-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-24-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `chooseatype` | Jul 30, 2026 |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/) | 🟢 Easy | `java` | Aug 2, 2026 |
@@ -50,4 +51,4 @@
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Mon, 03 Aug 2026 13:58:07 GMT*
+*Last updated: Mon, 03 Aug 2026 18:16:38 GMT*
