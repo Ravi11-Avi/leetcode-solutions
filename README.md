@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-30-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-31-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-10-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-20-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-21-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -28,6 +28,7 @@
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | `chooseatype` | Aug 2, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | 🟡 Medium | `Java` | Aug 3, 2026 |
+| 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `Java` | Aug 1, 2026 |
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/2090519622/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
@@ -43,4 +44,4 @@
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 
 ---
-*Last updated: Mon, 03 Aug 2026 06:34:47 GMT*
+*Last updated: Mon, 03 Aug 2026 06:50:07 GMT*
