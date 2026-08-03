@@ -1,0 +1,46 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0437. Path Sum III
+//  URL      : https://leetcode.com/problems/path-sum-iii/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : August 3, 2026
+// ═══════════════════════════════════════════════════════
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public int pathSum(TreeNode root, int targetSum) {
+
+        if (root== null)return 0;
+        
+
+        int a = dfs(root, targetSum , 0);
+        int b = dfs(root.left, targetSum , 0);
+        int c = dfs(root.right, targetSum , 0);
+
+        return a+b+c;
+
+    }
+    public static int dfs (TreeNode node , int target , int currentSum ){
+        if (node == null)return 0 ;
+
+        currentSum += node.val;
+        if (currentSum == target) return 1 ;
+                        
+        return  dfs(node.left ,  target , currentSum)+dfs(node.right ,  target  , currentSum);
+        
+    }
+}
