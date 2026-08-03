@@ -4,7 +4,7 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.2 MB
+//  Memory   : 42.5 MB
 //  Solved   : August 3, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -25,21 +25,12 @@
  */
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
-        if (root == null) return 0;
-
-
-        return dfs(root, low ,high , 0);
-    }
-
-    public static int dfs (TreeNode node , int low , int high , int total ){
-        if(node== null)return 0;
-        
-        if(node.val>low && node.val<high ){
-            total+= node.val;
+        if (root== null)return 0;
+        int currval =0;
+        if (root.val <= high && root.val >= low){
+                currval = root.val;
         }
-        dfs(node.left,low,high, total);
-        dfs(node.right,low,high, total);
 
-        return total;
+        return currval + rangeSumBST(root.left,low, high)+rangeSumBST(root.right,low, high);
     }
 }
