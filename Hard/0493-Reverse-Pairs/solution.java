@@ -4,7 +4,7 @@
 //  Difficulty : Hard
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.3 MB
+//  Memory   : 42.4 MB
 //  Solved   : August 4, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -36,10 +36,10 @@
             int j =  mid+1;
 
             for(int i = left; i<= mid ; i++){
-                while(j<= right && nums[i]> 2*nums[j]){
+                while(j<= right && (long)nums[i]> 2L*nums[j]){
                     j++;
                 }
-                count += (j-(mid-1));
+                count += (j-(mid+1));
 
             }
             return count;
