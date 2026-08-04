@@ -1,0 +1,34 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 3731. Find Missing Elements
+//  URL      : https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : August 4, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public List<Integer> findMissingElements(int[] nums) {
+       List<Integer> aa =  new ArrayList<>();
+
+       int len =  nums.length;
+
+       int min = Integer.MAX_VALUE;
+       int max = Integer.MIN_VALUE;
+       HashSet<Integer> set =  new HashSet<>();
+
+       for (int i :  nums){
+            if (i < min)min = i ;
+            if (i > max)max = i ;
+            set.add(i);
+       }   
+
+
+
+       for (int i  = min ;  i <=max ; i++){
+            if (!set.contains(i)){
+                aa.add(i);
+            }
+       }
+       return aa;
+    }
+}
