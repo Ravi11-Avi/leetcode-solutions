@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-42-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-15-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-43-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-16-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-27-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -53,6 +53,7 @@
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/submissions/2086203209/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `Java` | Aug 4, 2026 |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Tue, 04 Aug 2026 09:57:10 GMT*
+*Last updated: Tue, 04 Aug 2026 10:03:33 GMT*
