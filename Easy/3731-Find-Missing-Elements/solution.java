@@ -16,15 +16,18 @@ class Solution {
 
        int min = Integer.MAX_VALUE;
        int max = Integer.MAX_VALUE;
+       HashSet<Integer> set =  new HashSet<>();
 
        for (int i :  nums){
         if (i < min)min = i ;
-        if (i < max)max = i ;
-       }
+        if (i > max)max = i ;
+        set.add(i);
+       }   
+
 
 
        for (int i  = min ;  i < nums.length ; i++){
-            if (!aa.contains(i)){
+            if (!set.contains(i)){
                 aa.add(i);
                 break;
             }
