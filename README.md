@@ -4,10 +4,10 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-44-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-45-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-17-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-26-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-1-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -38,6 +38,7 @@
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `Java` | Aug 1, 2026 |
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | `Java` | Aug 4, 2026 |
+| 0493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | `chooseatype` | Aug 4, 2026 |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/2090519622/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | 🟡 Medium | `Java` | Aug 2, 2026 |
 | 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
@@ -57,4 +58,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Tue, 04 Aug 2026 14:00:59 GMT*
+*Last updated: Tue, 04 Aug 2026 14:01:42 GMT*
