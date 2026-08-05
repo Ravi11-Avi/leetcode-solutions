@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-45-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-46-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-17-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-26-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-27-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -30,6 +30,7 @@
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | `chooseatype` | Aug 2, 2026 |
@@ -58,4 +59,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Tue, 04 Aug 2026 14:02:13 GMT*
+*Last updated: Wed, 05 Aug 2026 12:23:41 GMT*
