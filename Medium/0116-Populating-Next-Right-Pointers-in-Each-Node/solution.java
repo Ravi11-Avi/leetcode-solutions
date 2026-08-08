@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0116. Populating Next Right Pointers in Each Node
-//  URL      : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+//  URL      : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/2099413443/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Runtime  : 3 ms
+//  Memory   : 46.4 MB
 //  Solved   : August 8, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -38,15 +38,19 @@ class Solution {
         Queue<Node> queue =  new LinkedList<>();
         queue.offer(root);
 
-        if (!queue.isEmpty()){
+        while(!queue.isEmpty()){
             int sizee =  queue.size();
 
             for (int i = 0  ;  i < sizee ; i++){
                 Node curr  = queue.poll();
 
+                if(i< sizee-1){
+                    curr.next  =  queue.peek();
+                }
 
-                if (curr.left!=  null)queue.offer(root.left);
-                if (curr.right!=  null)queue.offer(root.right);
+
+                if (curr.left!=  null)queue.offer(curr.left);
+                if (curr.right!=  null)queue.offer(curr.right);
             }
         }
         return root;
