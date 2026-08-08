@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-58-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-59-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-19-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-37-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-38-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -26,6 +26,7 @@
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | `chooseatype` | Aug 8, 2026 |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | `Java` | Aug 8, 2026 |
+| 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | `chooseatype` | Aug 8, 2026 |
 | 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2091774300/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
 | 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | `Java` | Aug 2, 2026 |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | `Java` | Jul 30, 2026 |
@@ -71,4 +72,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sat, 08 Aug 2026 17:21:28 GMT*
+*Last updated: Sat, 08 Aug 2026 17:26:32 GMT*
