@@ -22,20 +22,17 @@
  * }
  */
 class Solution {
-    private TreeNode ss = null;
+    private TreeNode ss = null;  
     public void flatten(TreeNode root) {
-        if (root== null) return;
+        if (root== null) return  ; 
 
         flatten(root.right);
         flatten(root.left);
 
-        root.left  =  null;
-        root.right =  ss;
-        ss =  root;
-
-
-
-
-
+        root.left =  null;
+        root.right = ss;
+        ss = root;
     }
+
+    
 }
