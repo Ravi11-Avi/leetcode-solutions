@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0662. Maximum Width of Binary Tree
-//  URL      : https://leetcode.com/problems/maximum-width-of-binary-tree/
+//  URL      : https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/2099514696/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 9, 2026
