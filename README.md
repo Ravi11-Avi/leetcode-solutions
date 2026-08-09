@@ -63,7 +63,7 @@
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2095386723/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
-| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2099966096/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) | 🟢 Easy | `chooseatype` | Jul 30, 2026 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `Java` | Jul 31, 2026 |
@@ -76,4 +76,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sun, 09 Aug 2026 06:04:02 GMT*
+*Last updated: Sun, 09 Aug 2026 06:04:33 GMT*
