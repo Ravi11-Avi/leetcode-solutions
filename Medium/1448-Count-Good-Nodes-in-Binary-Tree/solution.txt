@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1448. Count Good Nodes in Binary Tree
-//  URL      : https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+//  URL      : https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2099966096/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 9, 2026
@@ -25,7 +25,7 @@ class Solution {
     public int goodNodes(TreeNode root) {
 
 
-        return dfs(root, 0);
+        return dfs(root, Integer.MIN_VALUE);
     }
     public static int dfs(TreeNode node , int currMax ){
         if (node == null)return 0 ; 
