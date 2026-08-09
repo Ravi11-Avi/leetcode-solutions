@@ -1,0 +1,51 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1448. Count Good Nodes in Binary Tree
+//  URL      : https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.5 MB
+//  Solved   : August 9, 2026
+// ═══════════════════════════════════════════════════════
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public int goodNodes(TreeNode root) {
+
+
+        return dfs(root, Integer.MIN_VALUE);
+    }
+    public static int dfs(TreeNode node , int currMax ){
+        if (node == null)return 0 ; 
+
+        int maxNow = 0 ;
+        if (node.val>= currMax ){
+            currMax = node.val;
+            maxNow =1;
+        }
+
+        int lc = dfs(node.left, currMax);
+        int rc = dfs(node.right, currMax);
+
+
+        return maxNow+lc+rc;
+
+    }
+
+
+
+}
