@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-67-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-19-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-68-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-20-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-46-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
@@ -69,6 +69,7 @@
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `chooseatype` | Aug 10, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2099966096/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | `Java` | Aug 9, 2026 |
+| 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | 🟢 Easy | `Java` | Aug 10, 2026 |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) | 🟢 Easy | `chooseatype` | Jul 30, 2026 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `Java` | Jul 31, 2026 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `chooseatype` | Jul 31, 2026 |
@@ -80,4 +81,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Mon, 10 Aug 2026 11:58:52 GMT*
+*Last updated: Mon, 10 Aug 2026 13:04:14 GMT*
