@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1971. Find if Path Exists in Graph
-//  URL      : https://leetcode.com/problems/find-if-path-exists-in-graph/
+//  URL      : https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/2101556362/
 //  Difficulty : Easy
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Runtime  : 146 ms
+//  Memory   : 276.3 MB
 //  Solved   : August 10, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -36,7 +36,7 @@ class Solution {
 
         for (int nei :  graph.get(node)){
             if (!visted[nei]){
-                dfs(graph , nei , destination , visted);
+                if(dfs(graph , nei , destination , visted))return true;
             }
         }
 
