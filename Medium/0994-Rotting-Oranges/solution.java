@@ -1,0 +1,63 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0994. Rotting Oranges
+//  URL      : https://leetcode.com/problems/rotting-oranges/
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.4 MB
+//  Solved   : August 10, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int orangesRotting(int[][] grid) {
+        int row =  grid.length;
+        int col =  grid[0].length ;
+
+        Queue<int[]> q =  new LinkedList<>();
+
+        int fresh = 0 ;
+
+        for (int i = 0 ; i< row ; i++){
+            for (int j = 0; j< col ; j++){
+                if (grid[i][j]== 2){
+                    q.offer(new int[]{i,j});
+                }else if (grid[i][j]==1 ) fresh++;
+            }
+        }
+        if (fresh == 0) return 0 ;
+        
+        int time = 0 ;
+
+        int[][] dir = {{-1,0},{1,0},{0,1},{0,-1}};
+
+        while(!q.isEmpty()){
+            int size =  q.size();
+            Boolean RTM =  false;
+
+            for(int i  =  0 ; i < size ; i ++){
+                int [] curr =  q.poll();
+                 
+                int cr =  curr[0];
+                int cc =  curr[1];
+
+
+            for (int[] d : dir ){
+                int nr =  d[0]+ cr;
+                int nc =  d[1]+ cc;
+
+                if (nr>=0 && nc >= 0&& nc< col && nr < row && grid[nr][nc]==1){
+                    grid[nr][nc]= 2;
+                    q.offer(new int[]{nr, nc});
+                    fresh--;
+                    RTM=  true;
+                }
+
+                if (RTM) time++;
+            }
+            }
+
+
+        }
+        return time ;
+    }
+}
