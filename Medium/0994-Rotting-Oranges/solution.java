@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0994. Rotting Oranges
-//  URL      : https://leetcode.com/problems/rotting-oranges/
+//  URL      : https://leetcode.com/problems/rotting-oranges/submissions/2101489244/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.4 MB
+//  Runtime  : 2 ms
+//  Memory   : 44.2 MB
 //  Solved   : August 10, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -32,7 +32,7 @@ class Solution {
 
         while(!q.isEmpty()){
             int size =  q.size();
-            Boolean RTM =  false;
+            boolean RTM =  false;
 
             for(int i  =  0 ; i < size ; i ++){
                 int [] curr =  q.poll();
@@ -52,12 +52,14 @@ class Solution {
                     RTM=  true;
                 }
 
-                if (RTM) time++;
+                
             }
             }
+            if (RTM) time++;
+
 
 
         }
-        return time ;
+        return fresh ==0 ? time : -1 ;
     }
 }
