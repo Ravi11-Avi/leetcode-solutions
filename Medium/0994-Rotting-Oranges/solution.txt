@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0994. Rotting Oranges
-//  URL      : https://leetcode.com/problems/rotting-oranges/
+//  URL      : https://leetcode.com/problems/rotting-oranges/submissions/2101489244/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 10, 2026
