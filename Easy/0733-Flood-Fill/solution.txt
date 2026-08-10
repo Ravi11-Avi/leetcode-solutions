@@ -1,0 +1,36 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0733. Flood Fill
+//  URL      : https://leetcode.com/problems/flood-fill/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : August 10, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+
+        
+        int OriginalCol  = image[sr][sc];
+
+        if (OriginalCol!= color){
+            dfs(image , sr, sc ,OriginalCol, color);    
+        }
+
+        return image;
+    }
+
+    public void dfs(int[][] image, int r, int c, int OriginalCol , int color) {
+
+
+        if (r<0 || c<0|| r>= image.length || c>= image[0].length ) return ;
+
+        if (OriginalCol != image[r][c]  ) return;
+
+        image[r][c]= color;
+
+         dfs(image , r-1, c ,OriginalCol, color);
+         dfs(image , r+1, c ,OriginalCol, color);
+         dfs(image , r, c-1 ,OriginalCol, color);
+         dfs(image , r, c+1 ,OriginalCol, color);
+    }
+}
