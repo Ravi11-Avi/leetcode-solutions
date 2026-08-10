@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-66-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-67-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-19-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-45-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-46-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -66,6 +66,7 @@
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | `Java` | Aug 10, 2026 |
+| 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | `chooseatype` | Aug 10, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2099966096/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) | 🟢 Easy | `chooseatype` | Jul 30, 2026 |
@@ -79,4 +80,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Mon, 10 Aug 2026 11:55:24 GMT*
+*Last updated: Mon, 10 Aug 2026 11:57:54 GMT*
