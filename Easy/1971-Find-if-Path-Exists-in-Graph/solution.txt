@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1971. Find if Path Exists in Graph
-//  URL      : https://leetcode.com/problems/find-if-path-exists-in-graph/
+//  URL      : https://leetcode.com/problems/find-if-path-exists-in-graph/description/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : August 10, 2026
