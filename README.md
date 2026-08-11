@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-70-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-22-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-71-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-23-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-46-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
 
@@ -47,6 +47,7 @@
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | `chooseatype` | Aug 2, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
+| 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 🟢 Easy | `chooseatype` | Aug 11, 2026 |
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `Java` | Aug 1, 2026 |
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | `Java` | Aug 4, 2026 |
@@ -83,4 +84,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Mon, 10 Aug 2026 13:51:49 GMT*
+*Last updated: Tue, 11 Aug 2026 04:49:39 GMT*
