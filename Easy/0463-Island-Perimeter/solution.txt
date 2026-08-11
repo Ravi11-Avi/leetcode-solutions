@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0463. Island Perimeter
-//  URL      : https://leetcode.com/problems/island-perimeter/
+//  URL      : https://leetcode.com/problems/island-perimeter/submissions/2102402056/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : August 11, 2026
@@ -9,17 +9,18 @@
 class Solution {
     public int islandPerimeter(int[][] grid) {
 
-        boolean founffirst =  false ;
         int ans = 0;
         for( int i = 0 ; i< grid.length ; i++){
             for (int j = 0 ; j < grid[0].length ; j++){
 
                 if(grid[i][j]== 1){
-                      if (!founffirst){
-                        ans +=4;
-                        founffirst = true;
-                    }else{
-                        ans +=2;
+                            ans +=4;
+
+                        
+                      if (i>0 && grid[i-1][j]==1){
+                        ans-=2;
+                    }if (j>0 && grid[i][j-1]==1){
+                        ans -=2;
                     }
                 }
                   
