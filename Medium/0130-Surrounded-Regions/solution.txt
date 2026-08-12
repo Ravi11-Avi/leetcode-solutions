@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0130. Surrounded Regions
-//  URL      : https://leetcode.com/problems/surrounded-regions/
+//  URL      : https://leetcode.com/problems/surrounded-regions/submissions/2104190318/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 12, 2026
@@ -16,7 +16,7 @@ class Solution {
             if (board[i][0]=='O')dfs(i,0,board);
             if (board[i][col-1]=='O')dfs(i,col-1,board);
         }
-        for (int i = 0 ; i < row ; i++){
+        for (int i = 0 ; i < col ; i++){
             if (board[0][i]=='O')dfs(0,i,board);
             if (board[row-1][i]=='O')dfs(row-1,i,board);
         }
@@ -33,7 +33,7 @@ class Solution {
     }
 
     public void dfs(int row , int col , char [][] board){
-        if (row <0 || col < 0|| row >=board.length || col >= board[0].length || board[row][col]== 'X' )return;
+        if (row <0 || col < 0|| row >=board.length || col >= board[0].length || board[row][col]!= 'O' )return;
 
         board[row][col]= 'U';
 
