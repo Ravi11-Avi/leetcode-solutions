@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-74-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-75-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-24-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-47-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-48-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -37,6 +37,7 @@
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `MySQL` | Jul 29, 2026 |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `Java` | Aug 12, 2026 |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
@@ -87,4 +88,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Wed, 12 Aug 2026 11:56:22 GMT*
+*Last updated: Wed, 12 Aug 2026 11:57:27 GMT*
