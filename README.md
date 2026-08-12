@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-78-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-79-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-25-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-50-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-51-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -68,6 +68,7 @@
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 🟢 Easy | `chooseatype` | Aug 1, 2026 |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/2099514696/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/2099514696/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
+| 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | `Java` | Aug 5, 2026 |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2095386723/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
@@ -91,4 +92,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Wed, 12 Aug 2026 13:02:14 GMT*
+*Last updated: Wed, 12 Aug 2026 13:20:41 GMT*
