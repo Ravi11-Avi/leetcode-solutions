@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-77-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-24-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-78-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-25-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-50-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-3-red?style=flat-square)
 
@@ -33,6 +33,7 @@
 | 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | `Java` | Aug 2, 2026 |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | `Java` | Aug 12, 2026 |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/2104190318/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
+| 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/2104190318/) | 🟢 Easy | `unknown` | Aug 12, 2026 |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
@@ -90,4 +91,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Wed, 12 Aug 2026 13:01:05 GMT*
+*Last updated: Wed, 12 Aug 2026 13:02:14 GMT*
