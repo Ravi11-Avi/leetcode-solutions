@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-83-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-25-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-84-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-26-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-53-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-5-red?style=flat-square)
 
@@ -76,6 +76,7 @@
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | 🔴 Hard | `Java` | Aug 13, 2026 |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/submissions/2105369443/) | 🔴 Hard | `chooseatype` | Aug 13, 2026 |
+| 0833 | [Bus Routes](https://leetcode.com/problems/bus-routes/submissions/2105369443/) | 🟢 Easy | `unknown` | Aug 13, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `Java` | Aug 10, 2026 |
@@ -96,4 +97,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Thu, 13 Aug 2026 11:46:46 GMT*
+*Last updated: Thu, 13 Aug 2026 13:12:56 GMT*
