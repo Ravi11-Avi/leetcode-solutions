@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0815. Bus Routes
-//  URL      : https://leetcode.com/problems/bus-routes/
+//  URL      : https://leetcode.com/problems/bus-routes/submissions/2105369443/
 //  Difficulty : Hard
 //  Language : chooseatype
 //  Solved   : August 13, 2026
@@ -22,6 +22,8 @@ class Solution {
                 map.get(stop).add(i);
             }
         }
+
+        if (!map.containsKey(source)|| !map.containsKey(target))return -1;
 
         Queue<Integer> queue =  new LinkedList<>();
 
