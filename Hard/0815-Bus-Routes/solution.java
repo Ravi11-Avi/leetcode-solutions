@@ -4,7 +4,7 @@
 //  Difficulty : Hard
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Memory   : 41.6 MB
 //  Solved   : August 13, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -25,9 +25,12 @@ class Solution {
             }
         }
 
+        if (!map.containsKey(source)|| !map.containsKey(target))return -1;
+
         Queue<Integer> queue =  new LinkedList<>();
 
         queue.offer(source);
+        stopVisited.add(source);
 
         int bustaken =0;
 
@@ -48,8 +51,9 @@ class Solution {
                         busVisited.add(bus);
                     }
                 }
-                bustaken ++;
             }
+             bustaken ++;
+
         }
 
         return -1;
