@@ -75,7 +75,7 @@
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2095386723/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | 🔴 Hard | `Java` | Aug 13, 2026 |
-| 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | 🔴 Hard | `chooseatype` | Aug 13, 2026 |
+| 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/submissions/2105369443/) | 🔴 Hard | `chooseatype` | Aug 13, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `Java` | Aug 10, 2026 |
@@ -96,4 +96,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Thu, 13 Aug 2026 11:45:49 GMT*
+*Last updated: Thu, 13 Aug 2026 11:46:46 GMT*
