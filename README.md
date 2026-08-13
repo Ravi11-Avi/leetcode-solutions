@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-85-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-86-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-26-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-54-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-55-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-5-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -63,6 +63,7 @@
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | 🟡 Medium | `Java` | Aug 2, 2026 |
 | 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | `Java` | Aug 13, 2026 |
+| 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | `chooseatype` | Aug 13, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
@@ -98,4 +99,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Thu, 13 Aug 2026 13:57:59 GMT*
+*Last updated: Thu, 13 Aug 2026 13:58:51 GMT*
