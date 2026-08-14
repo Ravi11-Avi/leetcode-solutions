@@ -1,0 +1,33 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 3090. Maximum Length Substring With Two Occurrences
+//  URL      : https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/?envType=daily-question&envId=2026-08-14
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : August 14, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int maximumLengthSubstring(String s) {
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        int left = 0 ;  
+        int right =0 ;
+        int max = 0 ;
+        while (right < s.length()){
+           char rightchar = s.charAt(right);
+
+           map.put(rightchar ,map.getOrDefault(rightchar, 0)+1);
+
+            while (map.get(rightchar)>2){
+                char leftchar = s.charAt(left);
+                map.put(leftchar ,map.getOrDefault(leftchar, 0)-1);
+                left++;
+            }
+
+            max = Math.max(max, right -left+1);
+            right ++;
+        }
+
+        return max;
+    }
+}
