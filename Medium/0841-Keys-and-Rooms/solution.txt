@@ -1,0 +1,36 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0841. Keys and Rooms
+//  URL      : https://leetcode.com/problems/keys-and-rooms/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : August 14, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public boolean canVisitAllRooms(List<List<Integer>> rooms) {
+       Queue<Integer> queue =  new LinkedList<>();
+       int n  =  rooms.size();
+       boolean[] visited =  new boolean[n];
+
+       queue.offer(0);
+       visited[0]= true;
+       int count =1;
+
+       while(!queue.isEmpty()){
+        int curr =  queue.poll();
+
+        for (int key : rooms.get(curr) ){
+            if (!visited[key]){
+                visited[key]= true;
+                queue.offer(key);
+                count++;
+            }
+        }
+       }
+       return count== n;
+
+
+
+
+    }
+}
