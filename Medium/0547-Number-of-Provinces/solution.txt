@@ -1,0 +1,40 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0547. Number of Provinces
+//  URL      : https://leetcode.com/problems/number-of-provinces/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : August 14, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int findCircleNum(int[][] isConnected) {
+        int n =  isConnected.length;
+
+        boolean[] visted =  new boolean[n];
+
+        Queue<Integer> queue = new LinkedList<>();
+        int count = 0 ;
+
+        for (int i = 0 ;  i < n ; i++){
+            if (!visted[i]){
+                queue.offer(i);
+                count++;
+                visted[i]= true;
+
+                while(!queue.isEmpty()){
+                    int curr =  queue.poll();
+
+                    for(int j = 0; j< n ; j++){
+                        if (isConnected[curr][j]==1 && !visted[j]){
+                            queue.offer(j);
+                            visted[j]= true;
+                            
+                        }
+                    }
+                }
+            }
+        }
+        return count;
+        
+    }
+}
