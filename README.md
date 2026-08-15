@@ -11,7 +11,7 @@
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/) | 🟢 Easy | `chooseatype` | Aug 15, 2026 |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/) | 🟢 Easy | `chooseatype` | Aug 16, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `Java` | Jul 30, 2026 |
@@ -103,4 +103,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sat, 15 Aug 2026 12:45:50 GMT*
+*Last updated: Sat, 15 Aug 2026 19:25:24 GMT*
