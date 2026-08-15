@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0001. Two Sum
+//  URL      : https://leetcode.com/problems/two-sum/submissions/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : August 15, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        
+    }
+}
