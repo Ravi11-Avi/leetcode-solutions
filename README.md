@@ -4,13 +4,14 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-89-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-27-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-90-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-28-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-57-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-5-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/) | 🟢 Easy | `chooseatype` | Aug 15, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `Java` | Jul 30, 2026 |
@@ -102,4 +103,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Fri, 14 Aug 2026 14:02:44 GMT*
+*Last updated: Sat, 15 Aug 2026 12:45:50 GMT*
