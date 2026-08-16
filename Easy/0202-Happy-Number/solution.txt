@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0202. Happy Number
+//  URL      : https://leetcode.com/problems/happy-number/submissions/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : August 16, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public boolean isHappy(int n) {
+        
+    }
+}
