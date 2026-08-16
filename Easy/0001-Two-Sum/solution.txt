@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0001. Two Sum
-//  URL      : https://leetcode.com/problems/two-sum/submissions/
+//  URL      : https://leetcode.com/problems/two-sum/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : August 16, 2026
@@ -8,6 +8,20 @@
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+
+       HashMap <Integer, Integer> map  = new HashMap<>();
+
+       for (int i =  0 ; i < nums.length ; i++){
+        int col =  target - nums[i];
+
+        if (map.containsKey(col)){
+            return new int []{map.get(col),i};
+        }
+
+        map.put(nums[i],i);
+       }
+
+       return new int []{};
         
     }
 }
