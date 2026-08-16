@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-93-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-29-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-94-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-30-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-59-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-5-red?style=flat-square)
 
@@ -43,6 +43,7 @@
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `Java` | Aug 12, 2026 |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/submissions/) | 🟢 Easy | `chooseatype` | Aug 16, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
@@ -106,4 +107,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sun, 16 Aug 2026 10:37:14 GMT*
+*Last updated: Sun, 16 Aug 2026 10:42:26 GMT*
