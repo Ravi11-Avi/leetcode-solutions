@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0127. Word Ladder
-//  URL      : https://leetcode.com/problems/word-ladder/
+//  URL      : https://leetcode.com/problems/word-ladder/submissions/2110146172/
 //  Difficulty : Hard
 //  Language : chooseatype
 //  Solved   : August 17, 2026
@@ -22,8 +22,9 @@ class Solution {
         int wordcount = 1;
 
         while (!queue.isEmpty()) {
+            int size =  queue.size();
 
-            for(int j = 0 ; j < queue.size(); j++){
+            for(int j = 0 ; j <size; j++){
                 String curr = queue.poll();
 
                 if (curr.equals(endWord))
