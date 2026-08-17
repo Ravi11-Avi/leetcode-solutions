@@ -1,0 +1,58 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0127. Word Ladder
+//  URL      : https://leetcode.com/problems/word-ladder/
+//  Difficulty : Hard
+//  Language : chooseatype
+//  Solved   : August 17, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+
+        Set<String> set = new HashSet<>(wordList);
+        Queue<String> queue = new LinkedList<>();
+        if (!set.contains(endWord)) {
+            return 0;
+        }
+
+        queue.offer(beginWord);
+        set.remove(beginWord);
+
+
+        int wordcount = 1;
+
+        while (!queue.isEmpty()) {
+
+            for(int j = 0 ; j < queue.size(); j++){
+                String curr = queue.poll();
+
+                if (curr.equals(endWord))
+                    return wordcount;
+
+                char[] wordchar = curr.toCharArray();
+
+                for (int i = 0; i < wordchar.length; i++) {
+                    char ch = wordchar[i];
+
+                    for (char c = 'a'; c <= 'z'; c++) {
+                        wordchar[i] = c;
+                        String newword = new String(wordchar);
+
+                        if (set.contains(newword)) {
+                            queue.offer(newword);
+                            set.remove(newword);
+                        }
+                    }
+                wordchar[i] = ch;
+                }
+                
+
+            }
+              wordcount++;  
+        
+
+        }
+
+    return 0;
+
+}}
