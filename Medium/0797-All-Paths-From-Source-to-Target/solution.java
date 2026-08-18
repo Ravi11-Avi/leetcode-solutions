@@ -1,0 +1,39 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0797. All Paths From Source to Target
+//  URL      : https://leetcode.com/problems/all-paths-from-source-to-target/
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.7 MB
+//  Solved   : August 18, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
+        List<List<Integer> > ans  =  new ArrayList<>();
+        int target =  graph.length-1;
+        List<Integer> graphpath =  new ArrayList<>();
+
+        dfs(graph,0, ans , graphpath, target );
+        return ans;
+    }
+
+    public static void dfs(int[][]graph ,int CurrNode , List<List<Integer> > ans, List<Integer> graphpath, int target ){
+
+        if (CurrNode == target){
+            ans.add(new ArrayList<>(CurrNode));
+            return ;
+        }
+
+        for (int NextNode: graph[CurrNode]){
+            graphpath.add(NextNode);
+
+            dfs(graph,NextNode, ans , graphpath, target);
+            graphpath.remove(graphpath.size()-1);
+
+
+
+        }
+
+    }
+}
