@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-99-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-30-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-100-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-31-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-62-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -43,6 +43,7 @@
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `MySQL` | Jul 29, 2026 |
+| 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | `chooseatype` | Aug 18, 2026 |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `Java` | Aug 12, 2026 |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
@@ -112,4 +113,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Tue, 18 Aug 2026 01:48:58 GMT*
+*Last updated: Tue, 18 Aug 2026 13:01:38 GMT*
