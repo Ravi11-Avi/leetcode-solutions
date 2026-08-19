@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-101-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-102-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-31-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-63-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-64-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -97,6 +97,7 @@
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `Java` | Aug 10, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `chooseatype` | Aug 10, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `Java` | Aug 19, 2026 |
+| 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `chooseatype` | Aug 19, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2099966096/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/2101556362/) | 🟢 Easy | `Java` | Aug 10, 2026 |
@@ -114,4 +115,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Wed, 19 Aug 2026 14:14:09 GMT*
+*Last updated: Wed, 19 Aug 2026 14:16:05 GMT*
