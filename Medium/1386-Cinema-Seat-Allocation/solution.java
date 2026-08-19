@@ -1,0 +1,43 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1386. Cinema Seat Allocation
+//  URL      : https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.7 MB
+//  Solved   : August 19, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
+        HashMap<Integer,Set<Integer>> map =  new HashMap<>();
+
+
+        for(int[] resSeat : reservedSeats){
+             int row = resSeat[0];
+             int col = resSeat[1];
+             map.putIfAbsent(row, new HashSet<>());
+             map.get(row).add(col);
+        }
+
+        int count  =  n *2 ; 
+
+        for (int row : map.keySet() ){
+            Set<Integer> reserved = map.get(row);
+
+            boolean left =  !reserved.contains(2)&&!reserved.contains(3)&&!reserved.contains(4)&&!reserved.contains(5);
+            boolean middle =  !reserved.contains(4)&&!reserved.contains(5)&&!reserved.contains(6)&&!reserved.contains(7);
+            boolean right  =  !reserved.contains(6)&&!reserved.contains(7)&&!reserved.contains(8)&&!reserved.contains(9);
+        if (!left) count -=2;
+        if (!middle) count -=2;
+        if (!right) count -=2;
+        }
+
+
+        
+
+        return count;
+}
+       
+    }
+    
