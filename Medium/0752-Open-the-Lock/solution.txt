@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0752. Open the Lock
-//  URL      : https://leetcode.com/problems/open-the-lock/
+//  URL      : https://leetcode.com/problems/open-the-lock/submissions/2115193309/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 21, 2026
@@ -14,6 +14,7 @@ class Solution {
         for (String each : deadends){
             seen.add(each);
         }
+        if (seen.contains("0000")) return-1;
 
         HashMap<Character, List<Character>>  map =  new HashMap<>();
 
