@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-104-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-105-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-33-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-64-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-65-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -86,6 +86,7 @@
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | `Java` | Aug 5, 2026 |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2095386723/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
+| 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | 🟡 Medium | `chooseatype` | Aug 21, 2026 |
 | 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | `Java` | Aug 18, 2026 |
 | 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | `chooseatype` | Aug 18, 2026 |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | 🔴 Hard | `Java` | Aug 13, 2026 |
@@ -117,4 +118,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Thu, 20 Aug 2026 08:28:16 GMT*
+*Last updated: Fri, 21 Aug 2026 15:18:10 GMT*
