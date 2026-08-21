@@ -86,7 +86,7 @@
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | `Java` | Aug 5, 2026 |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2095386723/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
-| 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | 🟡 Medium | `chooseatype` | Aug 21, 2026 |
+| 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/submissions/2115193309/) | 🟡 Medium | `chooseatype` | Aug 21, 2026 |
 | 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/submissions/2115193309/) | 🟡 Medium | `Java` | Aug 21, 2026 |
 | 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | `Java` | Aug 18, 2026 |
 | 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | `chooseatype` | Aug 18, 2026 |
@@ -119,4 +119,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Fri, 21 Aug 2026 15:19:39 GMT*
+*Last updated: Fri, 21 Aug 2026 15:20:14 GMT*
