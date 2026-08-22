@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-107-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-34-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-108-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-66-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -116,8 +116,9 @@
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-06) | 🟢 Easy | `chooseatype` | Aug 6, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/submissions/2086203209/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22) | 🟢 Easy | `chooseatype` | Aug 22, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `Java` | Aug 4, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sat, 22 Aug 2026 07:46:03 GMT*
+*Last updated: Sat, 22 Aug 2026 08:34:37 GMT*
