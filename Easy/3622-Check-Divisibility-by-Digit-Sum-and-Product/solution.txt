@@ -1,0 +1,27 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 3622. Check Divisibility by Digit Sum and Product
+//  URL      : https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : August 22, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public boolean checkDivisibility(int n) {
+        int sum =  0;
+        int product =  1 ; 
+        int nums = n ;
+
+        while (nums> 0){
+            int digit =  nums%10;
+            sum +=digit;
+            product*= digit;
+
+            nums /=10;
+        }
+
+        return n%(sum+product)==0;
+
+        
+    }
+}
