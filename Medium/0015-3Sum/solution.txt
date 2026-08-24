@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0015. 3Sum
+//  URL      : https://leetcode.com/problems/3sum/submissions/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : August 25, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+        
+    }
+}
