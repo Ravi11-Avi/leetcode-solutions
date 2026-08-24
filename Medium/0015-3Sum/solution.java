@@ -1,0 +1,51 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0015. 3Sum
+//  URL      : https://leetcode.com/problems/3sum/
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 1 ms
+//  Memory   : 42.8 MB
+//  Solved   : August 25, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>> na =  new ArrayList<>();
+        Arrays.sort(nums);
+        for(int i = 0 ; i < nums.length ;  i ++){
+            int l = i+1;
+            int r = nums.length -1 ; 
+
+            if(i > 0 && nums[i] == nums[i - 1])
+                continue;
+
+            while(l< r){
+                int sum =  nums[i]+ nums[l]+nums[r];
+
+                if (sum >0){
+                    r--;
+                }else if (sum < 0){
+                    l++;
+                }else if(sum == 0){
+
+                        na.add(Arrays.asList(
+                        nums[i],
+                        nums[l],
+                        nums[r]
+                    ));
+                
+                    
+                    l++;
+                    r--;
+                    while(l < r && nums[l] == nums[l - 1])
+                        l++;
+
+                    while(l < r && nums[r] == nums[r + 1])
+                        r--;
+                }
+            }
+        }
+        return na;
+        
+    }
+}
