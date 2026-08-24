@@ -13,7 +13,7 @@
 |---|---------|------------|----------|--------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `chooseatype` | Aug 16, 2026 |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2108190875/) | 🟢 Easy | `Java` | Aug 16, 2026 |
-| 0015 | [3Sum](https://leetcode.com/problems/3sum/submissions/) | 🟡 Medium | `chooseatype` | Aug 25, 2026 |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/submissions/2118950902/) | 🟡 Medium | `chooseatype` | Aug 25, 2026 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `Java` | Aug 25, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
@@ -123,4 +123,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Mon, 24 Aug 2026 20:42:27 GMT*
+*Last updated: Mon, 24 Aug 2026 20:42:44 GMT*
