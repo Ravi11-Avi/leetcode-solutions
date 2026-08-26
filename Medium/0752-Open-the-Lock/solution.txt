@@ -3,7 +3,7 @@
 //  URL      : https://leetcode.com/problems/open-the-lock/submissions/2115193309/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 21, 2026
+//  Solved   : August 27, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
