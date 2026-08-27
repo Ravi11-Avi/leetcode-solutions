@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-111-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-112-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-69-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-70-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -108,6 +108,7 @@
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/2101556362/) | 🟢 Easy | `Java` | Aug 10, 2026 |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
 | 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | 🟡 Medium | `Java` | Aug 27, 2026 |
+| 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | 🟡 Medium | `chooseatype` | Aug 27, 2026 |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/?envType=daily-question&envId=2026-08-12) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) | 🟢 Easy | `chooseatype` | Jul 30, 2026 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `Java` | Jul 31, 2026 |
@@ -124,4 +125,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Thu, 27 Aug 2026 09:34:19 GMT*
+*Last updated: Thu, 27 Aug 2026 09:50:56 GMT*
