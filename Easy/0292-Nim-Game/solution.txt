@@ -8,10 +8,11 @@
 
 class Solution {
     public boolean canWinNim(int n) {
-        if (n%3 <3 &&(n/3)%2 == 0){
-            return true;
-        }else{
-            return false;
-        }
+        // if (n%3 <3 &&(n/3)%2 == 0){
+        //     return true;
+        // }else{
+        //     return false;
+        // }
+        return n% 4 !=0;
     }
 }
