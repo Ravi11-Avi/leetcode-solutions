@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-112-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-113-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-70-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -59,6 +59,7 @@
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | `chooseatype` | Aug 2, 2026 |
+| 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `Java` | Aug 28, 2026 |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `chooseatype` | Aug 16, 2026 |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `Java` | Aug 16, 2026 |
 | 0403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | `chooseatype` | Aug 11, 2026 |
@@ -125,4 +126,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Thu, 27 Aug 2026 09:50:56 GMT*
+*Last updated: Fri, 28 Aug 2026 15:28:41 GMT*
