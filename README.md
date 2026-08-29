@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-117-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-118-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-38-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-72-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-73-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -23,6 +23,7 @@
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `chooseatype` | Jul 30, 2026 |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
+| 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
@@ -130,4 +131,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sat, 29 Aug 2026 08:10:12 GMT*
+*Last updated: Sat, 29 Aug 2026 09:27:20 GMT*
