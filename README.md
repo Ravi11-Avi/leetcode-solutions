@@ -37,7 +37,7 @@
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | `chooseatype` | Aug 8, 2026 |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/2099413443/) | 🟡 Medium | `Java` | Aug 8, 2026 |
-| 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | `chooseatype` | Aug 8, 2026 |
+| 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | `Java` | Aug 17, 2026 |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/submissions/2110146172/) | 🔴 Hard | `chooseatype` | Aug 17, 2026 |
 | 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2091774300/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
@@ -132,4 +132,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sat, 29 Aug 2026 09:27:39 GMT*
+*Last updated: Sat, 29 Aug 2026 09:28:52 GMT*
