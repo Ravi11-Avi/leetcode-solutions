@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0079. Word Search
-//  URL      : https://leetcode.com/problems/word-search/?envType=problem-list-v2&envId=depth-first-search
+//  URL      : https://leetcode.com/problems/word-search/submissions/2123531324/?envType=problem-list-v2&envId=depth-first-search
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 29, 2026
@@ -28,6 +28,7 @@ class Solution {
 
         if (cr< 0 || cr>= board.length || cc< 0 || cc>= board[0].length ||board[cr][cc]!= word.charAt(idx)) return false ;
 
+        char temp = board[cr][cc];
         board[cr][cc]= '#';
         
 
@@ -36,6 +37,7 @@ class Solution {
                         dfs(board ,word,  cr, cc+1 , idx+1 )||
                         dfs(board ,word,  cr, cc-1 , idx+1 );
 
+        board[cr][cc] =  temp;
         
         return found;
     }
