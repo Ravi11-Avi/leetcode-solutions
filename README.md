@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-116-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-37-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-117-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-38-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-72-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -30,6 +30,7 @@
 | 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 🟡 Medium | `Java` | Aug 7, 2026 |
 | 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/2098045007/) | 🟡 Medium | `chooseatype` | Aug 8, 2026 |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
+| 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/?envType=problem-list-v2&envId=depth-first-search) | 🟢 Easy | `chooseatype` | Aug 29, 2026 |
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/) | 🟢 Easy | `java` | Aug 2, 2026 |
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | `chooseatype` | Aug 8, 2026 |
@@ -129,4 +130,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sat, 29 Aug 2026 06:28:40 GMT*
+*Last updated: Sat, 29 Aug 2026 08:10:12 GMT*
