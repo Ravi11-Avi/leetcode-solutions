@@ -1,0 +1,57 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0099. Recover Binary Search Tree
+//  URL      : https://leetcode.com/problems/recover-binary-search-tree/?envType=problem-list-v2&envId=depth-first-search
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : August 29, 2026
+// ═══════════════════════════════════════════════════════
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+
+    private TreeNode prev =  null;
+    private TreeNode first =  null;
+    private TreeNode sec =  null;
+    public  void inorder(TreeNode root){
+        if(root ==  null) return ;
+
+        inorder(root.left);
+
+        if (prev != null &&  root.val < prev.val){
+            if (first == null){
+                first = prev;
+            }
+
+            sec = root;
+        }
+
+        prev = root;
+        inorder(root.right);
+
+
+    }
+    public void recoverTree(TreeNode root) {
+        prev = null;
+        first = null;
+        sec = null;
+        inorder(root);
+
+        int temp = first.val;
+        first.val  =  sec.val;
+        sec.val =  temp;   
+    }
+}
