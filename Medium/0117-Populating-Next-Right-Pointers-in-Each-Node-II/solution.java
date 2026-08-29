@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0117. Populating Next Right Pointers in Each Node II
-//  URL      : https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/?envType=problem-list-v2&envId=depth-first-search
+//  URL      : https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/2123690461/?envType=problem-list-v2&envId=depth-first-search
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.8 MB
+//  Runtime  : 2 ms
+//  Memory   : 46.1 MB
 //  Solved   : August 29, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -41,12 +41,16 @@ class Solution {
 
         while(!queue.isEmpty()){
             int size = queue.size();
+            Node prev =  null;
 
             for (int i = 0 ; i < size ; i++){
 
                 Node curr = queue.poll();
                 
-                if (i< size-1)curr.next = queue.poll();
+                if (i< size-1)curr.next = queue.peek();
+                if (prev!=  null) prev.next =  curr;
+
+                prev =  curr;
 
 
                 if (curr.left != null)queue.offer(curr.left);
