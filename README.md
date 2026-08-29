@@ -17,7 +17,7 @@
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `Java` | Aug 25, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
-| 0079 | [Word Search](https://leetcode.com/problems/word-search/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
+| 0079 | [Word Search](https://leetcode.com/problems/word-search/submissions/2123531324/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `Java` | Aug 29, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `chooseatype` | Jul 30, 2026 |
@@ -129,4 +129,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sat, 29 Aug 2026 06:27:23 GMT*
+*Last updated: Sat, 29 Aug 2026 06:28:40 GMT*
