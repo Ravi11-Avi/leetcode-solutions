@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0116. Populating Next Right Pointers in Each Node
-//  URL      : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+//  URL      : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/?envType=problem-list-v2&envId=depth-first-search
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 8, 2026
+//  Solved   : August 29, 2026
 // ═══════════════════════════════════════════════════════
 
 /*
