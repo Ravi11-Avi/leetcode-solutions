@@ -1,0 +1,36 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 2091. Removing Minimum and Maximum From Array
+//  URL      : https://leetcode.com/problems/removing-minimum-and-maximum-from-array/?envType=daily-question&envId=2026-08-30
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : August 30, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int minimumDeletions(int[] nums) {
+        int minidx = 0;
+        int maxidx = 0;
+        int minN =  Integer.MAX_VALUE;
+        int maxN =  Integer.MIN_VALUE;
+
+        for (int i =  0 ; i < nums.length ; i ++){
+            if (nums[i]> maxN){
+                maxidx = i;
+                maxN=nums[i];
+            }
+            if (nums[i]< minN){
+                minidx = i;
+                minN=nums[i];
+            }
+
+        }
+        
+            int left  = Math.min(minidx, maxidx);
+            int right  = Math.max(minidx, maxidx);
+
+            int remfront = right+1;
+            int remback = nums.length - left;
+            int remboth = (left+1)+(nums.length -right);
+        return Math.min(remfront,Math.min(remback,remboth));
+    }
+}
