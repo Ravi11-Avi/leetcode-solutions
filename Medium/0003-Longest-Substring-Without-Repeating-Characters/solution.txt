@@ -1,0 +1,37 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0003. Longest Substring Without Repeating Characters
+//  URL      : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : August 31, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+
+        HashSet<Character> ch =  new HashSet<>();
+        int left = 0;
+        int right= 0; 
+        int max = 0 ; 
+        
+
+        while(right <= s.length()-1){
+            if(ch.contains(s.charAt(right))){
+                ch.remove(s.charAt(left));
+                left++;
+
+            }else{
+                ch.add(s.charAt(right));
+                right++;
+                
+            }
+
+            int currwindow =  right-left;
+            if (max<currwindow )max =currwindow;
+
+        }
+
+
+        return max;
+    }
+}
