@@ -4,15 +4,16 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-122-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-123-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-38-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-77-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-78-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `chooseatype` | Aug 16, 2026 |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2108190875/) | 🟢 Easy | `Java` | Aug 16, 2026 |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/submissions/2118950902/) | 🟡 Medium | `chooseatype` | Aug 25, 2026 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `Java` | Aug 25, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
@@ -135,4 +136,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Sun, 30 Aug 2026 08:09:31 GMT*
+*Last updated: Sun, 30 Aug 2026 20:15:38 GMT*
