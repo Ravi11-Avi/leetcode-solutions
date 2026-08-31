@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Memory   : 42.7 MB
 //  Solved   : August 31, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -20,12 +20,10 @@ class Solution {
 
             if (nums[right]< nums[mid]){
                 left = mid+1;
-            }else if(nums[left]> nums[mid]){
-                right = mid;
             }else{
-                return nums[left];
+                right = mid;
             }
         }
-        return 1;
+        return nums[left];
     }
 }
