@@ -86,7 +86,7 @@
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | `Java` | Aug 13, 2026 |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | `chooseatype` | Aug 13, 2026 |
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | `chooseatype` | Aug 14, 2026 |
-| 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | `Java` | Aug 31, 2026 |
+| 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2125775033/) | 🟡 Medium | `Java` | Aug 31, 2026 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
@@ -138,4 +138,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Mon, 31 Aug 2026 06:25:55 GMT*
+*Last updated: Mon, 31 Aug 2026 06:26:29 GMT*
