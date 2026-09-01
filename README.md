@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-128-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-129-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-38-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-83-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-84-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -17,6 +17,7 @@
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/submissions/2118950902/) | 🟡 Medium | `chooseatype` | Aug 25, 2026 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `Java` | Aug 25, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `Java` | Sep 1, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/submissions/2123531324/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
@@ -141,4 +142,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Tue, 01 Sep 2026 09:33:22 GMT*
+*Last updated: Tue, 01 Sep 2026 09:33:41 GMT*
