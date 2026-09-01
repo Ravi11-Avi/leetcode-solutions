@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-129-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-130-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-38-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-84-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-85-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -70,6 +70,7 @@
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2096745552/) | 🟡 Medium | `Java` | Aug 6, 2026 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
+| 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | `chooseatype` | Aug 2, 2026 |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `Java` | Aug 28, 2026 |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `chooseatype` | Aug 28, 2026 |
@@ -142,4 +143,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Tue, 01 Sep 2026 09:40:18 GMT*
+*Last updated: Tue, 01 Sep 2026 10:23:15 GMT*
