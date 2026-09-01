@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0049. Group Anagrams
-//  URL      : https://leetcode.com/problems/group-anagrams/
+//  URL      : https://leetcode.com/problems/group-anagrams/submissions/2127050794/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 1, 2026
@@ -15,7 +15,7 @@ class Solution {
         for(String s : strs){
             int[] avl = new int[26];
             for (char c : s.toCharArray()){
-                avl[c-'a']= 1;
+                avl[c-'a']++;
             }
  
             StringBuilder sb  = new StringBuilder();
