@@ -16,7 +16,7 @@
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/submissions/2118950902/) | 🟡 Medium | `chooseatype` | Aug 25, 2026 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `Java` | Aug 25, 2026 |
-| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2127050794/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `Java` | Sep 1, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
@@ -142,4 +142,4 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 
 ---
-*Last updated: Tue, 01 Sep 2026 09:33:41 GMT*
+*Last updated: Tue, 01 Sep 2026 09:40:18 GMT*
