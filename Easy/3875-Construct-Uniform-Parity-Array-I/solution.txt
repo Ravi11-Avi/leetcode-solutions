@@ -1,0 +1,16 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 3875. Construct Uniform Parity Array I
+//  URL      : https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : September 2, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public boolean uniformArray(int[] nums1) {
+        return true;
+
+        
+
+    }
+}
