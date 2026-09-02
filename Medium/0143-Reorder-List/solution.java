@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.4 MB
+//  Memory   : 42.3 MB
 //  Solved   : September 2, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -24,7 +24,7 @@ class Solution {
         ListNode prev =  null ; 
         ListNode curr =  node;
 
-        while(curr.next!=null && curr !=null){
+        while( curr !=null){
             ListNode Nextcurr = curr.next;
             curr.next=prev;
             prev =curr;
@@ -58,6 +58,7 @@ class Solution {
             ListNode temp2 =  p2.next;
 
             p1.next  = p2;
+            if (temp1 == null) break;
             p2.next= temp1;
 
             p1= temp1 ;
