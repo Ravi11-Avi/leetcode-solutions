@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0034. Find First and Last Position of Element in Sorted Array
-//  URL      : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+//  URL      : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 43 MB
+//  Memory   : 48 MB
 //  Solved   : September 2, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -26,11 +26,11 @@ class Solution {
                 position  =  mid;
 
                 if(searchIn){
-                    mid = mid-1;
+                    right = mid-1;
                 }else{
-                    mid = mid+1;
+                    left = mid+1;
                 }
-            }else if(mid> target   ){
+            }else if(nums[mid]< target   ){
                 left = mid+1;
             }
             else{
