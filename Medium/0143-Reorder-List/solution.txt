@@ -1,0 +1,68 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0143. Reorder List
+//  URL      : https://leetcode.com/problems/reorder-list/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 2, 2026
+// ═══════════════════════════════════════════════════════
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+
+    public static ListNode reverse(ListNode node){
+        ListNode prev =  null ; 
+        ListNode curr =  node;
+
+        while( curr !=null){
+            ListNode Nextcurr = curr.next;
+            curr.next=prev;
+            prev =curr;
+            curr=Nextcurr;
+
+        }
+        return prev;
+    }
+    public void reorderList(ListNode head) {
+         if (head == null || head.next == null || head.next.next == null) {
+            return;
+        }
+        
+        ListNode fast = head;
+        ListNode slow = head;
+        ListNode pre =  null;
+
+        while (fast != null && fast.next!=null){
+            pre = slow;
+            fast =  fast.next.next;
+            slow = slow.next;
+        }
+
+        pre.next = null;
+
+        ListNode p1 =  head;
+        ListNode p2  = reverse(slow);
+
+        while (p1 != null && p2!=null){
+            ListNode temp1 =  p1.next;
+            ListNode temp2 =  p2.next;
+
+            p1.next  = p2;
+            if (temp1 == null) break;
+            p2.next= temp1;
+
+            p1= temp1 ;
+            p2 =  temp2;
+            
+        }
+     
+    }
+}
