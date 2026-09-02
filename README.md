@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-131-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-132-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-39-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-85-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-86-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -45,6 +45,7 @@
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | `Java` | Aug 17, 2026 |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/submissions/2110146172/) | 🔴 Hard | `chooseatype` | Aug 17, 2026 |
+| 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | `Java` | Sep 2, 2026 |
 | 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2091774300/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
 | 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | `Java` | Aug 2, 2026 |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | `Java` | Aug 12, 2026 |
@@ -144,4 +145,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 02 Sep 2026 09:59:08 GMT*
+*Last updated: Wed, 02 Sep 2026 10:04:56 GMT*
