@@ -17,7 +17,7 @@
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/submissions/2118950902/) | 🟡 Medium | `chooseatype` | Aug 25, 2026 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `Java` | Aug 25, 2026 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `Java` | Sep 2, 2026 |
-| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
+| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2127050794/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `Java` | Sep 1, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
@@ -150,4 +150,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 02 Sep 2026 11:36:43 GMT*
+*Last updated: Wed, 02 Sep 2026 11:37:01 GMT*
