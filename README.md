@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-139-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-40-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-140-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-41-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-92-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -112,7 +112,8 @@
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2095386723/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | `chooseatype` | Sep 3, 2026 |
-| 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/2130940755/) | 🟢 Easy | `Java` | Sep 4, 2026 |
+| 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/) | 🟢 Easy | `java` | Sep 4, 2026 |
+| 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/2129864009/) | 🟢 Easy | `unknown` | Sep 4, 2026 |
 | 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/submissions/2115193309/) | 🟡 Medium | `chooseatype` | Aug 27, 2026 |
 | 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/submissions/2115193309/) | 🟡 Medium | `Java` | Aug 21, 2026 |
 | 0753 | [0](https://leetcode.com/problems/open-the-lock/submissions/2115193309/) | 🟢 Easy | `unknown` | Aug 22, 2026 |
@@ -152,4 +153,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 04 Sep 2026 17:01:09 GMT*
+*Last updated: Fri, 04 Sep 2026 17:03:00 GMT*
