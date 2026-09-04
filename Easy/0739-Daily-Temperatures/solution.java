@@ -1,10 +1,8 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0739. Daily Temperatures
-//  URL      : https://leetcode.com/problems/daily-temperatures/submissions/2130940755/
+//  URL      : https://leetcode.com/problems/daily-temperatures/submissions/
 //  Difficulty : Easy
-//  Language : Java
-//  Runtime  : 60 ms
-//  Memory   : 107.5 MB
+//  Language : java
 //  Solved   : September 4, 2026
 // ═══════════════════════════════════════════════════════
 
