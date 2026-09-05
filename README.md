@@ -102,7 +102,7 @@
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
-| 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | `Java` | Sep 5, 2026 |
+| 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/submissions/2131699039/) | 🟡 Medium | `Java` | Sep 5, 2026 |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | `chooseatype` | Sep 5, 2026 |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 🟢 Easy | `chooseatype` | Aug 1, 2026 |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/2099514696/) | 🟡 Medium | `Java` | Aug 9, 2026 |
@@ -155,4 +155,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 05 Sep 2026 12:29:03 GMT*
+*Last updated: Sat, 05 Sep 2026 12:29:30 GMT*
