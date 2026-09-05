@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-143-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-144-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-41-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-95-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-96-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -83,6 +83,7 @@
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `chooseatype` | Aug 16, 2026 |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `Java` | Aug 16, 2026 |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | `Java` | Sep 5, 2026 |
+| 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | `chooseatype` | Sep 5, 2026 |
 | 0403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | `chooseatype` | Aug 11, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
@@ -156,4 +157,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 05 Sep 2026 12:44:00 GMT*
+*Last updated: Sat, 05 Sep 2026 12:44:43 GMT*
