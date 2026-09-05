@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-145-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-146-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-41-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-97-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-98-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -69,6 +69,7 @@
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/submissions/) | 🟢 Easy | `chooseatype` | Aug 16, 2026 |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `Java` | Sep 5, 2026 |
+| 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `chooseatype` | Sep 5, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
@@ -158,4 +159,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 05 Sep 2026 13:16:00 GMT*
+*Last updated: Sat, 05 Sep 2026 13:17:05 GMT*
