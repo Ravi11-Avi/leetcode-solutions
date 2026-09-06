@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0380. Insert Delete GetRandom O(1)
-//  URL      : https://leetcode.com/problems/insert-delete-getrandom-o1/
+//  URL      : https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2132891040/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 6, 2026
