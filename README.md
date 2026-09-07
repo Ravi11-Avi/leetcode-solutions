@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-148-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-149-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-41-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-100-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-101-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -59,6 +59,7 @@
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | `Java` | Sep 2, 2026 |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/submissions/2128334669/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
+| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | `chooseatype` | Sep 7, 2026 |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | `Java` | Aug 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
@@ -161,4 +162,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 06 Sep 2026 13:35:58 GMT*
+*Last updated: Mon, 07 Sep 2026 12:31:41 GMT*
