@@ -1,0 +1,61 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0417. Pacific Atlantic Water Flow
+//  URL      : https://leetcode.com/problems/pacific-atlantic-water-flow/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 8, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+
+
+    public List<List<Integer>> pacificAtlantic(int[][] height) {
+        
+
+        List<List<Integer>> result =  new ArrayList<>();
+        int row =  height.length;
+        int col = height[0].length;
+
+        boolean[][] pacifi = new boolean[row][col];
+        boolean[][] atlantic = new boolean[row][col];
+
+        for (int r = 0 ; r < row ; r++){
+            dfs(r,0, pacifi , height , height[r][0]);
+            dfs(r,col-1, atlantic , height , height[r][col-1]);
+        }
+
+        for (int c= 0 ; c < col ; c++){
+            dfs(0,c, pacifi , height , height[0][c]);
+            dfs(row-1,c, atlantic , height , height[row-1][c]);
+        }
+
+
+
+        for (int i = 0 ;  i < row ; i ++){
+            for (int j  = 0 ; j < col ; j++){
+                if (atlantic[i][j]&& pacifi[i][j]){
+                    result.add(Arrays.asList(i, j));
+                }
+            }
+        }
+
+        return result ;
+        
+    }
+
+    
+    public static void dfs(int row, int col, boolean[][]visted , int[][]height ,int prevHeight){
+            
+            if (row< 0 || col<0 || row >= height.length || col >= height[0].length || visted[row][col]|| height[row][col]<prevHeight ){
+                return;
+            }
+            visted[row][col]= true ;
+
+            dfs(row-1, col , visted , height ,height[row][col]);
+            dfs(row+1, col , visted , height ,height[row][col]);
+            dfs(row, col+1 , visted , height ,height[row][col]);
+            dfs(row, col -1, visted , height ,height[row][col]);
+
+
+    }
+}
