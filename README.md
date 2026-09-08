@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-151-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-41-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-152-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-42-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-103-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -161,7 +161,8 @@
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22) | 🟢 Easy | `chooseatype` | Aug 22, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `Java` | Aug 4, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/?envType=daily-question&envId=2026-09-08) | 🟢 Easy | `chooseatype` | Sep 8, 2026 |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Mon, 07 Sep 2026 13:37:44 GMT*
+*Last updated: Tue, 08 Sep 2026 04:59:29 GMT*
