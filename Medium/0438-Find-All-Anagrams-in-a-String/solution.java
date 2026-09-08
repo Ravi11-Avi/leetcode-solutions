@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0438. Find All Anagrams in a String
-//  URL      : https://leetcode.com/problems/find-all-anagrams-in-a-string/
+//  URL      : https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.4 MB
+//  Runtime  : 12 ms
+//  Memory   : 46.9 MB
 //  Solved   : September 8, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -24,13 +24,18 @@ class Solution {
         while ( r< s.length() ){
             window[s.charAt(r)-'a']++;
 
-            if (l-r+1 == p.length()){
-                arr.add(l);
-                l++;
-            }
-            window[s.charAt(r)-'a']--;
+            if (r-l+1 == p.length()){
 
+                if(Arrays.equals(window, freq)){
+                    arr.add(l);
+                }
+                window[s.charAt(l)-'a']--;
+
+                l++;
+                
+            }
             r++;
+            
 
         }
         return arr;
