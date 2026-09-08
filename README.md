@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-154-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-155-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-42-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-105-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-106-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -92,6 +92,7 @@
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2132891040/) | 🟡 Medium | `chooseatype` | Sep 6, 2026 |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2132891040/) | 🟡 Medium | `Java` | Sep 6, 2026 |
 | 0403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | `chooseatype` | Aug 11, 2026 |
+| 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | `chooseatype` | Sep 8, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | 🟡 Medium | `Java` | Sep 8, 2026 |
@@ -167,4 +168,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 08 Sep 2026 06:31:16 GMT*
+*Last updated: Tue, 08 Sep 2026 08:46:01 GMT*
