@@ -94,7 +94,7 @@
 | 0403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | `chooseatype` | Aug 11, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
-| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 🟡 Medium | `Java` | Sep 8, 2026 |
+| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | 🟡 Medium | `Java` | Sep 8, 2026 |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 🟡 Medium | `chooseatype` | Sep 8, 2026 |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/submissions/2102402056/) | 🟢 Easy | `chooseatype` | Aug 11, 2026 |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 🟢 Easy | `Java` | Aug 11, 2026 |
@@ -167,4 +167,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 08 Sep 2026 06:25:24 GMT*
+*Last updated: Tue, 08 Sep 2026 06:28:44 GMT*
