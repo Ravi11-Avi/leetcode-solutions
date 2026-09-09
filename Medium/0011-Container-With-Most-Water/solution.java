@@ -4,18 +4,18 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.5 MB
+//  Memory   : 42 MB
 //  Solved   : September 9, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public int maxArea(int[] height) {
         int i = 0;
-        int j = 0 ; 
+        int j =  height.length -1; 
         int max= 0 ;
 
         while (i< j){
-            int wid = i-1;
+            int wid = i-j;
 
             int cm =  Math.min(height[i], height[j])* wid;
 
