@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-160-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-161-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-42-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-111-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-112-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -86,6 +86,7 @@
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `Java` | Aug 28, 2026 |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `chooseatype` | Aug 28, 2026 |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | `Java` | Sep 9, 2026 |
+| 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `chooseatype` | Aug 16, 2026 |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `Java` | Aug 16, 2026 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | `Java` | Sep 8, 2026 |
@@ -173,4 +174,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 09 Sep 2026 10:25:52 GMT*
+*Last updated: Wed, 09 Sep 2026 11:12:45 GMT*
