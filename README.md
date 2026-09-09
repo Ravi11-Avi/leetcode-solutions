@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-161-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-162-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-42-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-112-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-113-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -20,6 +20,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2127050794/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `Java` | Sep 1, 2026 |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/submissions/2123531324/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
@@ -174,4 +175,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 09 Sep 2026 11:12:45 GMT*
+*Last updated: Wed, 09 Sep 2026 12:20:08 GMT*
