@@ -172,10 +172,10 @@
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22) | 🟢 Easy | `chooseatype` | Aug 22, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `Java` | Aug 4, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
-| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/?envType=daily-question&envId=2026-09-08) | 🟢 Easy | `chooseatype` | Sep 8, 2026 |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/?envType=daily-question&envId=2026-09-09) | 🟢 Easy | `chooseatype` | Sep 9, 2026 |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/submissions/2136196230/?envType=daily-question&envId=2026-09-09) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/submissions/2136196230/?envType=daily-question&envId=2026-09-09) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 09 Sep 2026 13:35:57 GMT*
+*Last updated: Wed, 09 Sep 2026 13:40:20 GMT*
