@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-166-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-167-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-42-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-117-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-118-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -146,6 +146,7 @@
 | 0833 | [Bus Routes](https://leetcode.com/problems/bus-routes/submissions/2105369443/) | 🟢 Easy | `unknown` | Aug 13, 2026 |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 🟡 Medium | `chooseatype` | Aug 14, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `Java` | Sep 9, 2026 |
+| 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `Java` | Aug 10, 2026 |
@@ -179,4 +180,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 09 Sep 2026 14:16:42 GMT*
+*Last updated: Wed, 09 Sep 2026 14:17:26 GMT*
