@@ -1,16 +1,14 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 3870. Count Commas in Range
-//  URL      : https://leetcode.com/problems/count-commas-in-range/?envType=daily-question&envId=2026-09-08
+//  URL      : https://leetcode.com/problems/count-commas-in-range/?envType=daily-question&envId=2026-09-09
 //  Difficulty : Easy
 //  Language : chooseatype
-//  Solved   : September 8, 2026
+//  Solved   : September 9, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public int countCommas(int n) {
         if (n< 999) return 0;
-        else{
-            return n-999;
-        }
+        else return n-999;
     }
 }
