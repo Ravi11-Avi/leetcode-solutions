@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0011. Container With Most Water
+//  URL      : https://leetcode.com/problems/container-with-most-water/submissions/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 9, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int maxArea(int[] height) {
+        
+    }
+}
