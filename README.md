@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-157-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-158-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-42-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-108-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-109-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -167,7 +167,8 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `Java` | Aug 4, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/?envType=daily-question&envId=2026-09-08) | 🟢 Easy | `chooseatype` | Sep 8, 2026 |
+| 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/?envType=daily-question&envId=2026-09-09) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 08 Sep 2026 12:07:03 GMT*
+*Last updated: Wed, 09 Sep 2026 09:55:03 GMT*
