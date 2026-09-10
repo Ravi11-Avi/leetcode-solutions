@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-167-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-42-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-168-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-43-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-118-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -149,6 +149,7 @@
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
+| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | `Java` | Sep 10, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `Java` | Aug 10, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `chooseatype` | Aug 10, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `Java` | Aug 19, 2026 |
@@ -180,4 +181,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 09 Sep 2026 14:17:26 GMT*
+*Last updated: Thu, 10 Sep 2026 09:21:49 GMT*
