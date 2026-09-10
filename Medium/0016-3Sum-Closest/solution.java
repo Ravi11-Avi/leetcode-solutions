@@ -3,15 +3,16 @@
 //  URL      : https://leetcode.com/problems/3sum-closest/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 41.7 MB
+//  Runtime  : 1 ms
+//  Memory   : 43 MB
 //  Solved   : September 10, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public int threeSumClosest(int[] nums, int t) {
         
-        int closer  = Integer.MAX_VALUE;
+        int closer  = nums[0] + nums[1] + nums[2];
+        Arrays.sort(nums);
 
         for(int i = 0 ; i < nums.length-2; i ++){
             int l = i+1;
@@ -20,11 +21,12 @@ class Solution {
             while (l< r){
 
                 int sum  = nums[l]+ nums[i]+ nums[r];
-                if (closer>Math.abs(t-sum))closer = Math.abs(t-sum);
+                if (Math.abs(t-closer)>Math.abs(t-sum))closer = sum;
 
 
                 if (sum> t)r--;
-                else l++;
+                else if (sum< t)l++;
+                else return sum;
 
             }
         }
