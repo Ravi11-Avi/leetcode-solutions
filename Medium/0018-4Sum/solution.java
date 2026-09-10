@@ -1,0 +1,43 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0018. 4Sum
+//  URL      : https://leetcode.com/problems/4sum/submissions/2137479175/
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 21 ms
+//  Memory   : 45.8 MB
+//  Solved   : September 10, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+        List<List<Integer>> result =  new ArrayList<>();
+        Arrays.sort(nums);
+
+        for (int i = 0 ; i < nums.length-3 ; i++){
+
+            if(i > 0 && nums[i]== nums[i-1]) continue;
+            for (int j = i+1 ; j< nums.length-2 ; j++){
+                if(j > i+1 && nums[j]== nums[j-1]) continue;
+
+                int l = j+1, r = nums.length-1;
+
+                while(l< r){
+                    long sum    = (long) nums[i]+ nums[j]+ nums[l]+ nums[r];
+
+                    if (sum == target){
+                        result.add(Arrays.asList(nums[i],nums[j], nums[l], nums[r]));
+
+                        while(l< r && nums[l] == nums[l+1])l++;
+                        while(l< r && nums[r]== nums[r-1])r--;
+                        l++;
+                        r--;
+                    }else if (sum > target) r--;
+                    else l++;
+                }
+
+            }
+        }
+
+        return result;
+    }
+}
