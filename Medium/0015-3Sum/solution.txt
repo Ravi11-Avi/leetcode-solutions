@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0015. 3Sum
-//  URL      : https://leetcode.com/problems/3sum/submissions/2137444552/
+//  URL      : https://leetcode.com/problems/3sum/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 10, 2026
@@ -30,7 +30,7 @@ class Solution {
                     while(l< r && nums[l]==nums[l+1])l++;
                     while(l< r && nums[r]==nums[r-1])r--;
 
-                    i++;
+                    l++;
                     r--;
                  }
                  else if(sum> 0)r--;
