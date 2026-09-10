@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-169-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-170-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-44-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-118-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-119-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -66,6 +66,7 @@
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | `chooseatype` | Sep 7, 2026 |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | `Java` | Aug 31, 2026 |
+| 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | 🟡 Medium | `chooseatype` | Sep 10, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `MySQL` | Jul 29, 2026 |
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | `chooseatype` | Aug 18, 2026 |
@@ -182,4 +183,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 10 Sep 2026 09:22:14 GMT*
+*Last updated: Thu, 10 Sep 2026 09:27:09 GMT*
