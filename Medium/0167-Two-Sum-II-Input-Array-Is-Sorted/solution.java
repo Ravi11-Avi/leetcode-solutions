@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.9 MB
+//  Memory   : 42.3 MB
 //  Solved   : September 10, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -20,7 +20,7 @@ class Solution {
                 return new int[]{i,map.get(c)};
             }
 
-            map.put(num[i], i);
+            map.put(num[i]+1, i+1);
         }
 
         return new int[]{};
