@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0015. 3Sum
-//  URL      : https://leetcode.com/problems/3sum/submissions/2118950902/
+//  URL      : https://leetcode.com/problems/3sum/description/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 25, 2026
+//  Solved   : September 10, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
@@ -26,20 +26,16 @@ class Solution {
                     l++;
                 }else if(sum == 0){
 
-                        na.add(Arrays.asList(
-                        nums[i],
-                        nums[l],
-                        nums[r]
-                    ));
+                na.add(Arrays.asList(nums[i],nums[l],nums[r]));
                 
                     
+                l++;
+                r--;
+                while(l < r && nums[l] == nums[l - 1])
                     l++;
-                    r--;
-                    while(l < r && nums[l] == nums[l - 1])
-                        l++;
 
-                    while(l < r && nums[r] == nums[r + 1])
-                        r--;
+                while(l < r && nums[r] == nums[r + 1])
+                    r--;
                 }
             }
         }
