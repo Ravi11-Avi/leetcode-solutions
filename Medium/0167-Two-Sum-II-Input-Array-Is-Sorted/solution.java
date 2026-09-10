@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.5 MB
+//  Memory   : 42.9 MB
 //  Solved   : September 10, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -17,10 +17,10 @@ class Solution {
             int c =  target-  num[i];
 
             if (map.containsKey(c)){
-                return new int[]{num[i],c};
+                return new int[]{i,map.get(c)};
             }
 
-            map.put(num[i], c);
+            map.put(num[i], i);
         }
 
         return new int[]{};
