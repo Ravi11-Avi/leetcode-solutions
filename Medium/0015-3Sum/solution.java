@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0015. 3Sum
-//  URL      : https://leetcode.com/problems/3sum/
+//  URL      : https://leetcode.com/problems/3sum/submissions/2137445137/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 1 ms
-//  Memory   : 42.8 MB
+//  Runtime  : 36 ms
+//  Memory   : 58.9 MB
 //  Solved   : September 10, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -32,7 +32,7 @@ class Solution {
                     while(l< r && nums[l]==nums[l+1])l++;
                     while(l< r && nums[r]==nums[r-1])r--;
 
-                    i++;
+                    l++;
                     r--;
                  }
                  else if(sum> 0)r--;
