@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0018. 4Sum
-//  URL      : https://leetcode.com/problems/4sum/
+//  URL      : https://leetcode.com/problems/4sum/submissions/2137479175/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 10, 2026
@@ -20,7 +20,7 @@ class Solution {
                 int l = j+1, r = nums.length-1;
 
                 while(l< r){
-                    int sum    =  nums[i]+ nums[j]+ nums[l]+ nums[r];
+                    long sum    = (long) nums[i]+ nums[j]+ nums[l]+ nums[r];
 
                     if (sum == target){
                         result.add(Arrays.asList(nums[i],nums[j], nums[l], nums[r]));
