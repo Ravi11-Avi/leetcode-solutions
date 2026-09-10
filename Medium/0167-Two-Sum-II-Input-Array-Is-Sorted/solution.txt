@@ -1,16 +1,26 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0167. Two Sum II - Input Array Is Sorted
-//  URL      : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/
+//  URL      : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 10, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
-    public int[] twoSum(int[] numbers, int target) {
+    public int[] twoSum(int[] num, int target) {
         HashMap <Integer, Integer> map =  new HashMap<>();
-        int[] result   =  new int[2];
+       
 
-        for (int )
+        for (int i = 0 ; i< num.length ; i++ ){
+            int c =  target-  num[i];
+
+            if (map.containsKey(c)){
+                return new int[]{num[i],c};
+            }
+
+            map.put(num[i], c);
+        }
+
+        return new int[]{};
     }
 }
