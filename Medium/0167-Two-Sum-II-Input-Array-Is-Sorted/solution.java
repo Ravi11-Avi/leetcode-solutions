@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0167. Two Sum II - Input Array Is Sorted
-//  URL      : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+//  URL      : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2137326458/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.8 MB
+//  Runtime  : 9 ms
+//  Memory   : 50 MB
 //  Solved   : September 10, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -17,7 +17,7 @@ class Solution {
             int c =  target-  num[i];
 
             if (map.containsKey(c)){
-                return new int[]{i+1,map.get(c)+1};
+                return new int[]{map.get(c)+1,i+1};
             }
 
             map.put(num[i], i);
