@@ -1,0 +1,30 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0977. Squares of a Sorted Array
+//  URL      : https://leetcode.com/problems/squares-of-a-sorted-array/
+//  Difficulty : Easy
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 43.1 MB
+//  Solved   : September 10, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int[] sortedSquares(int[] nums) {
+
+
+       PriorityQueue<Integer> pq = new  PriorityQueue<>();
+
+       for (int i : nums){
+        pq.add(i^2);
+       }
+
+       int[] result = new int[pq.size()];
+        int index = 0;
+
+        while (!pq.isEmpty()) {
+            result[index++] = pq.poll();
+        }
+
+        return result ; 
+    }
+}
