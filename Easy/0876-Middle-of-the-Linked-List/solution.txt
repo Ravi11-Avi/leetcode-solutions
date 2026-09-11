@@ -1,0 +1,23 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0876. Middle of the Linked List
+//  URL      : https://leetcode.com/problems/middle-of-the-linked-list/description/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : September 11, 2026
+// ═══════════════════════════════════════════════════════
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        
+    }
+}
