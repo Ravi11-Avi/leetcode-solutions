@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-181-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-182-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-50-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-124-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-125-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -97,6 +97,7 @@
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | `chooseatype` | Aug 2, 2026 |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `Java` | Aug 28, 2026 |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `chooseatype` | Aug 28, 2026 |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | `Java` | Sep 9, 2026 |
@@ -194,4 +195,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 05:18:13 GMT*
+*Last updated: Fri, 11 Sep 2026 05:20:50 GMT*
