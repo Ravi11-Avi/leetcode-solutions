@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-180-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-49-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-181-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-50-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-124-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -82,6 +82,7 @@
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `Java` | Aug 12, 2026 |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | `Java` | Sep 7, 2026 |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | `chooseatype` | Sep 7, 2026 |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `Java` | Sep 5, 2026 |
@@ -193,4 +194,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 05:01:48 GMT*
+*Last updated: Fri, 11 Sep 2026 05:16:38 GMT*
