@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-188-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-54-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-189-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-55-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-127-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -162,6 +162,7 @@
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/submissions/2105369443/) | 🔴 Hard | `chooseatype` | Aug 13, 2026 |
 | 0833 | [Bus Routes](https://leetcode.com/problems/bus-routes/submissions/2105369443/) | 🟢 Easy | `unknown` | Aug 13, 2026 |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 🟡 Medium | `chooseatype` | Aug 14, 2026 |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0908 | [Remove Nth Node From End of List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `unknown` | Sep 11, 2026 |
@@ -201,4 +202,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 06:00:56 GMT*
+*Last updated: Fri, 11 Sep 2026 06:01:11 GMT*
