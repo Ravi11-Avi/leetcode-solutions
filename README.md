@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-186-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-187-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-53-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-126-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-127-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -24,6 +24,7 @@
 | 0018 | [4Sum](https://leetcode.com/problems/4sum/submissions/2137479175/) | 🟡 Medium | `Java` | Sep 10, 2026 |
 | 0019 | [Is Subsequence](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟢 Easy | `unknown` | Sep 11, 2026 |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2047175509/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | `Java` | Sep 11, 2026 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `Java` | Sep 2, 2026 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2127050794/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
@@ -199,4 +200,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 05:44:43 GMT*
+*Last updated: Fri, 11 Sep 2026 06:00:02 GMT*
