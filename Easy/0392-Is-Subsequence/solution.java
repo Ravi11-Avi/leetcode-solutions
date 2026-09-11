@@ -4,7 +4,7 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.5 MB
+//  Memory   : 42.4 MB
 //  Solved   : September 11, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -13,13 +13,15 @@ class Solution {
         
         if (s.length()==0) return true;
 
+        
+
         int spoint = 0 ;
         int tpointer= 0;
 
 
         while (tpointer< t.length()){
             if (s.charAt(spoint)== t.charAt(tpointer))spoint++;
-            if (tpointer == s.length()-1) return true;
+            if (spoint == s.length()) return true;
 
             tpointer++;
         }
