@@ -4,7 +4,7 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 41.8 MB
+//  Memory   : 42.1 MB
 //  Solved   : September 11, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -26,7 +26,7 @@ class Solution {
         int number = 0;
          while (n>0){
             int digit =  n%10 ;
-            number =number*10 +digit;
+            number =number*10 +(digit *digit);
             n /=10;
          }
 
