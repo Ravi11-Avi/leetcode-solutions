@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0141. Linked List Cycle
-//  URL      : https://leetcode.com/problems/linked-list-cycle/
+//  URL      : https://leetcode.com/problems/linked-list-cycle/submissions/2138164757/
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.5 MB
+//  Memory   : 46.6 MB
 //  Solved   : September 11, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -27,7 +27,7 @@ public class Solution {
         ListNode first  =  head ;
         ListNode second  =  head ;
 
-        while ( second.next !=null && second !=  null){
+        while ( first !=null && first.next !=  null){
             first = first.next.next;
             second = second.next;
 
