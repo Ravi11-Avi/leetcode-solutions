@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0027. Remove Element
+//  URL      : https://leetcode.com/problems/remove-element/description/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : September 11, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int removeElement(int[] nums, int val) {
+        
+    }
+}
