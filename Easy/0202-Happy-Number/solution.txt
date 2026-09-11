@@ -24,7 +24,7 @@ class Solution {
         int number = 0;
          while (n>0){
             int digit =  n%10 ;
-            number =number*10 +digit;
+            number =totalSum += digit * digit;;
             n /=10;
          }
 
