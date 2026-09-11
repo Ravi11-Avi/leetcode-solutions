@@ -4,31 +4,35 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.7 MB
+//  Memory   : 42.9 MB
 //  Solved   : September 11, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public int compress(char[] chars) {
-       HashMap <Character,  Integer> map =  new HashMap <>();
 
-       for(int i = 0 ; i< chars.length ; i ++){
-            map.put(chars[i], map.getOrDefault(chars[i],0)+1); 
+        int l = 0 , r = 0;
+       while (l != chars.length){
+        int count = 0;
+        char cc =  chars[l];
+
+
+        while(l< chars.length && chars[l]== cc){
+            l++;
+            count++;
+        }
+        chars[r]= cc;
+        r++;
+
+        if (count> 1){ 
+            for (char c: Integer.toString(count).toCharArray()){
+                chars[r]= c;
+                r++;
+            }
+
+        }
        }
-       StringBuilder sb =  new StringBuilder();
-
-
-       for (char  c : map.keySet()){
-            if (map.get(c)== 1) sb.append(c);
-            else{
-                sb.append(c);
-                sb.append(  map.get(c));
-
-            }         
-       }
-       return sb.length();
-       
-
+       return r;
        
     }
 }
