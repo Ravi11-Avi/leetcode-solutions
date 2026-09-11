@@ -1,0 +1,24 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0141. Linked List Cycle
+//  URL      : https://leetcode.com/problems/linked-list-cycle/submissions/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : September 11, 2026
+// ═══════════════════════════════════════════════════════
+
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+public class Solution {
+    public boolean hasCycle(ListNode head) {
+        
+    }
+}
