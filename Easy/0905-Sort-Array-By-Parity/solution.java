@@ -4,7 +4,7 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.9 MB
+//  Memory   : 42.5 MB
 //  Solved   : September 11, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -13,9 +13,9 @@ class Solution {
         int l = 0;
         int r = nums.length -1;
         while (l< r){
-            if (nums[l]%2 !=0){
+            if (nums[l]%2 ==0){
 
-                if (nums[l]%2 ==0){
+                if (nums[l]%2 !=0){
                     int temp  =  nums[l];
                     nums[l++]=  nums[r];
                     nums[r--]= temp ;
