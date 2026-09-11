@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-195-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-196-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-58-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-130-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-131-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -39,6 +39,7 @@
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/submissions/2123531324/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `Java` | Aug 29, 2026 |
+| 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | `Java` | Sep 11, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `chooseatype` | Jul 30, 2026 |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `Java` | Aug 3, 2026 |
@@ -208,4 +209,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 08:36:14 GMT*
+*Last updated: Fri, 11 Sep 2026 09:13:48 GMT*
