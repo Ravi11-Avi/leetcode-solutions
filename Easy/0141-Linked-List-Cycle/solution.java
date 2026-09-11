@@ -4,7 +4,7 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.7 MB
+//  Memory   : 42.5 MB
 //  Solved   : September 11, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -27,7 +27,7 @@ public class Solution {
         ListNode first  =  head ;
         ListNode second  =  head ;
 
-        while ( first!= null || second !=  null){
+        while ( second.next !=null && second !=  null){
             first = first.next.next;
             second = second.next;
 
