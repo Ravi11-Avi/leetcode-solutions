@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0905. Sort Array By Parity
-//  URL      : https://leetcode.com/problems/sort-array-by-parity/
+//  URL      : https://leetcode.com/problems/sort-array-by-parity/submissions/2138604372/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : September 11, 2026
@@ -13,10 +13,11 @@ class Solution {
         while (l< r){
             if (nums[l]%2 !=0){
 
-                if (nums[l]%2 ==0){
+                if (nums[r]%2 ==0){
                     int temp  =  nums[l];
-                    nums[l]=  nums[r];
-                    nums[r]= temp ;
+                    nums[l++]=  nums[r];
+                    nums[r--]= temp ;
+                    
 
                 }
                 else{
