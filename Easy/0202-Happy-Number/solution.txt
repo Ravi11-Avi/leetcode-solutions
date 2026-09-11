@@ -8,6 +8,27 @@
 
 class Solution {
     public boolean isHappy(int n) {
-        
+
+        HashSet<Integer> set  = new HashSet<>();
+
+        while(n!= 1 && !set.contains(n)){
+            set.add(n);
+            n = newNumber(n);
+
+        }
+
+        return n==1;
+    }
+
+    public int newNumber(int n ){
+        int number = 0;
+         while (n>0){
+            int digit =  n%10 ;
+            number =number*10 +digit;
+            n /=10;
+         }
+
+
+         return number ;
     }
 }
