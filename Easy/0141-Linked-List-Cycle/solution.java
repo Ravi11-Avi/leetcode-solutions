@@ -27,7 +27,7 @@ public class Solution {
         ListNode first  =  head ;
         ListNode second  =  head ;
 
-        while (first.next !=null || first!= null || second !=  null || second.next != null){
+        while ( first!= null || second !=  null){
             first = first.next.next;
             second = second.next;
 
