@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-178-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-47-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-179-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-48-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-124-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -66,6 +66,7 @@
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | `chooseatype` | Aug 17, 2026 |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | `Java` | Sep 2, 2026 |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/submissions/2128334669/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | `chooseatype` | Sep 7, 2026 |
@@ -191,4 +192,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 04:51:41 GMT*
+*Last updated: Fri, 11 Sep 2026 04:56:44 GMT*
