@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0141. Linked List Cycle
-//  URL      : https://leetcode.com/problems/linked-list-cycle/submissions/
+//  URL      : https://leetcode.com/problems/linked-list-cycle/submissions/2051001769/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : September 11, 2026
@@ -18,7 +18,22 @@
  * }
  */
 public class Solution {
+
     public boolean hasCycle(ListNode head) {
-        
+
+        if (head == null || head.next == null)return false;
+        ListNode first  =  head ;
+        ListNode second  =  head ;
+
+        while (first.next ==null || first== null || second ==  null || second.next == null){
+            first = first.next.next;
+            second = second.next;
+
+            if (second == first){
+                return true ;
+            }
+        }
+
+        return false;
     }
 }
