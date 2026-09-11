@@ -174,7 +174,7 @@
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
-| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
+| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0908 | [Remove Nth Node From End of List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `unknown` | Sep 11, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
@@ -219,4 +219,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 13:52:11 GMT*
+*Last updated: Fri, 11 Sep 2026 13:52:26 GMT*
