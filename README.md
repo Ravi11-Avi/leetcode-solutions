@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-187-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-53-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-188-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-54-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-127-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -164,6 +164,7 @@
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 🟡 Medium | `chooseatype` | Aug 14, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
+| 0908 | [Remove Nth Node From End of List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `unknown` | Sep 11, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | `Java` | Sep 10, 2026 |
@@ -200,4 +201,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 06:00:25 GMT*
+*Last updated: Fri, 11 Sep 2026 06:00:56 GMT*
