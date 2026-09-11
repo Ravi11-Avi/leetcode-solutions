@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0019. Remove Nth Node From End of List
-//  URL      : https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2047175509/
+//  URL      : https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2138222897/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 11, 2026
@@ -18,6 +18,25 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        
+        ListNode dummy =  new ListNode(0);
+        dummy.next  =  head;
+
+        ListNode first =  dummy;
+        ListNode sec =  dummy;
+
+        for(int i = 0 ; i<n ; i++){
+            first =  first.next;
+        }
+
+        while (first.next!= null){
+            first =  first.next;
+            sec =  sec.next;
+
+        }
+
+        sec.next= sec.next.next;
+
+        return dummy.next;
+
     }
 }
