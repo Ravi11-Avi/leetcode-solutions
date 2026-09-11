@@ -81,7 +81,7 @@
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `Java` | Aug 12, 2026 |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
-| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/submissions/) | 🟢 Easy | `chooseatype` | Aug 16, 2026 |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | `Java` | Sep 7, 2026 |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | `chooseatype` | Sep 7, 2026 |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `Java` | Sep 5, 2026 |
@@ -193,4 +193,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 05:01:22 GMT*
+*Last updated: Fri, 11 Sep 2026 05:01:48 GMT*
