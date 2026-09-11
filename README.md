@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-183-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-51-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-184-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-52-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-125-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -112,6 +112,7 @@
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2132891040/) | 🟡 Medium | `chooseatype` | Sep 6, 2026 |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2132891040/) | 🟡 Medium | `Java` | Sep 6, 2026 |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | `Java` | Sep 11, 2026 |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | `chooseatype` | Aug 11, 2026 |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | `chooseatype` | Sep 8, 2026 |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/2092250296/) | 🟡 Medium | `Java` | Aug 3, 2026 |
@@ -196,4 +197,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 05:41:01 GMT*
+*Last updated: Fri, 11 Sep 2026 05:41:35 GMT*
