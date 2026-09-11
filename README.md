@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-199-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-200-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-59-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-133-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-134-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -130,6 +130,7 @@
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | 🟡 Medium | `Java` | Sep 8, 2026 |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/2134749268/) | 🟡 Medium | `chooseatype` | Sep 8, 2026 |
 | 0443 | [String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | `Java` | Sep 11, 2026 |
+| 0443 | [String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/submissions/2102402056/) | 🟢 Easy | `chooseatype` | Aug 11, 2026 |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 🟢 Easy | `Java` | Aug 11, 2026 |
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `Java` | Aug 1, 2026 |
@@ -212,4 +213,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 11:35:17 GMT*
+*Last updated: Fri, 11 Sep 2026 11:42:58 GMT*
