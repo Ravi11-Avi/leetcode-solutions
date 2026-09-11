@@ -15,13 +15,19 @@ class Solution {
 
                 if (nums[l]%2 ==0){
                     int temp  =  nums[l];
-                    nums[l++]=  nums[r];
-                    nums[r--]= temp ;
+                    nums[l]=  nums[r];
+                    nums[r]= temp ;
 
                 }
-                r--;
+                else{
+                    r--;
+                }
+                
             }
-            l++;
+            else{
+                l++;
+            }
+            
         }
 
         return nums;
