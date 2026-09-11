@@ -65,7 +65,7 @@
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | `chooseatype` | Aug 17, 2026 |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
-| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/2051001769/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/2138161832/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | `Java` | Sep 2, 2026 |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/submissions/2128334669/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
@@ -192,4 +192,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 04:57:32 GMT*
+*Last updated: Fri, 11 Sep 2026 04:57:51 GMT*
