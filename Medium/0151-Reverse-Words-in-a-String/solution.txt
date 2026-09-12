@@ -9,7 +9,7 @@
 class Solution {
     public String reverseWords(String s) {
         
-        String[] word =  s.split(" ");
+        String[] word =  s.trim().split(" ");
 
         int l= 0 ;
         int r= word.length -1;
