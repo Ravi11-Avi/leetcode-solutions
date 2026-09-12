@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-219-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-67-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-220-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-68-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-145-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -123,6 +123,7 @@
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | `chooseatype` | Sep 12, 2026 |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | `Java` | Sep 12, 2026 |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 🟢 Easy | `Java` | Sep 12, 2026 |
+| 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 🟢 Easy | `chooseatype` | Sep 12, 2026 |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | `Java` | Sep 5, 2026 |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | `chooseatype` | Sep 5, 2026 |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | `chooseatype` | Sep 10, 2026 |
@@ -232,4 +233,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 12 Sep 2026 10:41:19 GMT*
+*Last updated: Sat, 12 Sep 2026 10:42:33 GMT*
