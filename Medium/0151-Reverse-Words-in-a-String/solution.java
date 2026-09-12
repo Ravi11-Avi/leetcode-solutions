@@ -4,14 +4,14 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.8 MB
+//  Memory   : 42.6 MB
 //  Solved   : September 12, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public String reverseWords(String s) {
         
-        String[] word =  s.split(" ");
+        String[] word =  s.trim().split(" ");
 
         int l= 0 ;
         int r= word.length -1;
