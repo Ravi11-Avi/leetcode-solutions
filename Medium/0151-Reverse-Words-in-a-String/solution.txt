@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0151. Reverse Words in a String
-//  URL      : https://leetcode.com/problems/reverse-words-in-a-string/
+//  URL      : https://leetcode.com/problems/reverse-words-in-a-string/submissions/2139380938/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 12, 2026
@@ -9,7 +9,7 @@
 class Solution {
     public String reverseWords(String s) {
         
-        String[] word =  s.trim().split(" ");
+        String[] word =  s.trim().split("\\s+");
 
         int l= 0 ;
         int r= word.length -1;
