@@ -120,7 +120,7 @@
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `Java` | Aug 16, 2026 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | `Java` | Sep 8, 2026 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | `chooseatype` | Sep 8, 2026 |
-| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | 🟢 Easy | `chooseatype` | Sep 12, 2026 |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | `chooseatype` | Sep 12, 2026 |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | `Java` | Sep 12, 2026 |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | `Java` | Sep 5, 2026 |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | `chooseatype` | Sep 5, 2026 |
@@ -231,4 +231,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 12 Sep 2026 10:27:53 GMT*
+*Last updated: Sat, 12 Sep 2026 10:28:08 GMT*
