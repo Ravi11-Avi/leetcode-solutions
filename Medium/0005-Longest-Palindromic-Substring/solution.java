@@ -4,29 +4,34 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 43 MB
+//  Memory   : 42.8 MB
 //  Solved   : September 12, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public String longestPalindrome(String s) {
 
-        String p  =  new String();
         
+
+        String p  =  new String();
+        if (s == null || s.length() <= 1) {
+            return s; 
+        }        
 
         for (int i =  0; i < s.length(); i++){
             int l = i-1;
             int r  = i+1 ;
 
             while (l>=0 && r<s.length()&& s.charAt(l)== s.charAt(r)){
-                 p = s.substring(l,r);
+                 p = s.substring(l,r+1);
                 l--;
                 r++;
             }
             l=i;
+            r= i+1;
             while (l>=0 && r<s.length()&& s.charAt(l)== s.charAt(r)){
                 
-                 p = s.substring(l,r);
+                 p = s.substring(l,r+1);
                 l--;
                 r++;
             }
