@@ -1,0 +1,38 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0541. Reverse String II
+//  URL      : https://leetcode.com/problems/reverse-string-ii/
+//  Difficulty : Easy
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.2 MB
+//  Solved   : September 12, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public String reverseStr(String s, int k) {
+    
+    char[] ab = s.toCharArray();
+
+
+    for (int i = 0 ; i < ab.length ; i += 2*k){
+
+        int l  =  i ;
+        int r = Math.min(i+k -1, ab.length-1) ; 
+
+        while(l< r){
+            char temp  =  ab[l];
+            ab[l]= ab[r];
+            ab[r]= temp ;
+
+            l++;
+            r--;
+        }
+
+
+        
+    }
+    
+
+    return new String(ab);
+    }
+}
