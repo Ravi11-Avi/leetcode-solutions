@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-210-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-211-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-63-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-140-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-141-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -14,6 +14,7 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `chooseatype` | Aug 16, 2026 |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2108190875/) | 🟢 Easy | `Java` | Aug 16, 2026 |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
+| 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | `Java` | Sep 12, 2026 |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/2136378113/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `chooseatype` | Sep 10, 2026 |
@@ -223,4 +224,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 12 Sep 2026 08:43:23 GMT*
+*Last updated: Sat, 12 Sep 2026 09:14:53 GMT*
