@@ -16,8 +16,13 @@
 
                 while (i < start.length() && start.charAt(i) == '_')  i++;
                 while (j < target.length() && target.charAt(j) == '_') j++;
+                if (i == start.length()|| j ==start.length()){
+                    return i== j;
+                }
 
                 if(start.charAt(i)!= target.charAt(j)) return false;
+
+                
 
                 if (start.charAt(i)=='L'&& i< j)return false;
                 if (start.charAt(i)=='R'&& i> j)return false;
