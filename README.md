@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-225-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-71-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-226-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-72-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-147-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -224,6 +224,7 @@
 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/?envType=daily-question&envId=2026-08-14) | 🟢 Easy | `chooseatype` | Aug 14, 2026 |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | 🟡 Medium | `Java` | Sep 12, 2026 |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | 🟡 Medium | `chooseatype` | Sep 12, 2026 |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | 🟢 Easy | `Java` | Sep 12, 2026 |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-06) | 🟢 Easy | `Java` | Aug 6, 2026 |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-06) | 🟢 Easy | `chooseatype` | Aug 6, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/submissions/2086203209/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
@@ -238,4 +239,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 12 Sep 2026 12:25:34 GMT*
+*Last updated: Sat, 12 Sep 2026 14:10:30 GMT*
