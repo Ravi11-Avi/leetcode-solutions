@@ -1,41 +1,29 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 2938. Separate Black and White Balls
-//  URL      : https://leetcode.com/problems/separate-black-and-white-balls/submissions/
+//  URL      : https://leetcode.com/problems/separate-black-and-white-balls/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 7 ms
-//  Memory   : 47.8 MB
+//  Runtime  : 0 ms
+//  Memory   : 42.6 MB
 //  Solved   : September 12, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public long minimumSteps(String s) {
-       int i = 0 ;
-       int j = s.length()-1 ;
-       long count= 0;
 
-       char[] arr=  s.toCharArray();
+        long totalbal = 0;
 
-       while(i< j){
+        long bb = 0;
 
-                while (i < j && arr[i] == '0')i++;
-                while (i < j && arr[j] == '1')j--;
-            
-                if (i<j){
-                    char temp =  arr[i];
-                    arr[i]= arr[j];
-                    arr[j]= temp;
-                    count+= (j-i);
-                     i++;
-                    j--;
+        for (int i = 0 ; i< s.length(); i ++){
+            if (s.charAt(i)=='1'){
+                bb++;
+
+            }else{
+                totalbal += bb;
             }
-           
-                
-
-
-            
-       } 
-
-       return count;
+        }
+        return totalbal;
+        
     }
 }
