@@ -1,0 +1,31 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0643. Maximum Average Subarray I
+//  URL      : https://leetcode.com/problems/maximum-average-subarray-i/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : September 12, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public double findMaxAverage(int[] nums, int k) {
+        
+        int ts  = 0;
+    
+        
+        for (int  i = 0 ; i < k;i++)ts+=nums[i];
+
+        int max= ts;
+
+        int l = 0 , r= k;
+
+        while(r< nums.length ){
+            ts = ts+nums[r++]-nums[l++];
+
+            if(ts  > max)max = ts;
+        }
+
+        return (double)max/k;
+            
+        
+    }
+}
