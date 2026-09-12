@@ -4,28 +4,36 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.8 MB
+//  Memory   : 42.6 MB
 //  Solved   : September 12, 2026
 // ═══════════════════════════════════════════════════════
 
-class Solution {
-    public boolean canChange(String start, String target) {
-        if (start.length() != target.length() )return false;
-        int i = 0 ; 
-        int j  =0;
+    class Solution {
+        public boolean canChange(String start, String target) {
+            if (start.length() != target.length() )return false;
+            int i = 0 ; 
+            int j  =0;
 
-        while (i< start.length() && j< target.length()){
+            while (i< start.length() && j< target.length()){
 
-            while (i < start.length() && start.charAt(i) == '_')  i++;
-            while (j < target.length() && target.charAt(j) == '_') j++;
+                while (i < start.length() && start.charAt(i) == '_')  i++;
+                while (j < target.length() && target.charAt(j) == '_') j++;
+                if (i == start.length()|| j ==start.length()){
+                    return i== j;
+                }
 
-            if(start.charAt(i)!= target.charAt(j)) return false;
-            i++;
-            j++;
+                if(start.charAt(i)!= target.charAt(j)) return false;
 
-        
+                
+
+                if (start.charAt(i)=='L'&& i< j)return false;
+                if (start.charAt(i)=='R'&& i> j)return false;
+                i++;
+                j++;
+
+            
+            }
+
+            return true;
         }
-
-        return true;
     }
-}
