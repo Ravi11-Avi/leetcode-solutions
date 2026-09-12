@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 2938. Separate Black and White Balls
-//  URL      : https://leetcode.com/problems/separate-black-and-white-balls/
+//  URL      : https://leetcode.com/problems/separate-black-and-white-balls/submissions/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Runtime  : 7 ms
+//  Memory   : 47.8 MB
 //  Solved   : September 12, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -25,10 +25,11 @@ class Solution {
                     char temp =  arr[i];
                     arr[i]= arr[j];
                     arr[j]= temp;
-                    count+= (i-j);
+                    count+= (j-i);
+                     i++;
+                    j--;
             }
-            i++;
-            j--;
+           
                 
 
 
