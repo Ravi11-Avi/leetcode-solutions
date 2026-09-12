@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-221-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-69-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-222-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-70-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-145-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -149,6 +149,7 @@
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | 🟡 Medium | `Java` | Aug 2, 2026 |
 | 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | 🟢 Easy | `chooseatype` | Sep 12, 2026 |
+| 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | 🟢 Easy | `Java` | Sep 12, 2026 |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | `Java` | Aug 13, 2026 |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | `chooseatype` | Aug 13, 2026 |
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | `chooseatype` | Aug 14, 2026 |
@@ -234,4 +235,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 12 Sep 2026 11:19:53 GMT*
+*Last updated: Sat, 12 Sep 2026 11:20:57 GMT*
