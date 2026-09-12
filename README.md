@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-206-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-207-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-63-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-136-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-137-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -196,6 +196,7 @@
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/?envType=daily-question&envId=2026-08-30) | 🟡 Medium | `chooseatype` | Aug 30, 2026 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2138313891/) | 🟡 Medium | `Java` | Sep 11, 2026 |
+| 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | 🟡 Medium | `Java` | Sep 12, 2026 |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | 🟡 Medium | `Java` | Sep 11, 2026 |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/?envType=daily-question&envId=2026-08-12) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
@@ -219,4 +220,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 11 Sep 2026 13:57:12 GMT*
+*Last updated: Sat, 12 Sep 2026 08:14:38 GMT*
