@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-212-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-63-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-213-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-64-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-142-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
@@ -153,6 +153,7 @@
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/submissions/2131699039/) | 🟡 Medium | `Java` | Sep 5, 2026 |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/submissions/2131699039/) | 🟡 Medium | `chooseatype` | Sep 5, 2026 |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 🟢 Easy | `chooseatype` | Aug 1, 2026 |
+| 0647 | [Longest Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/description/) | 🟢 Easy | `unknown` | Sep 12, 2026 |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/2099514696/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/2099514696/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
@@ -225,4 +226,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 12 Sep 2026 09:24:06 GMT*
+*Last updated: Sat, 12 Sep 2026 09:24:28 GMT*
