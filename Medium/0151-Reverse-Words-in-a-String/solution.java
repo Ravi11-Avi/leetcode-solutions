@@ -1,0 +1,39 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0151. Reverse Words in a String
+//  URL      : https://leetcode.com/problems/reverse-words-in-a-string/
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.8 MB
+//  Solved   : September 12, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public String reverseWords(String s) {
+        
+        String[] word =  s.split(" ");
+
+        int l= 0 ;
+        int r= word.length -1;
+
+        while (l< r){
+            String temp  = word[l];
+            word[l]= word[r];
+            word[r] = temp;
+            
+            l++;
+            r--;
+
+        }
+        StringBuilder sb =  new StringBuilder();
+
+        for(int  i = 0  ; i < word.length -1 ; i ++){
+            sb.append (word[i]);
+            sb.append(" ");
+        }
+        sb.append(word[word.length -1]);
+
+
+        return sb.toString();
+    }
+}
