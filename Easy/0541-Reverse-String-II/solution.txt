@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0541. Reverse String II
-//  URL      : https://leetcode.com/problems/reverse-string-ii/
+//  URL      : https://leetcode.com/problems/reverse-string-ii/description/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : September 12, 2026
@@ -15,7 +15,7 @@ class Solution {
     for (int i = 0 ; i < ab.length ; i += 2*k){
 
         int l  =  i ;
-        int r = i+k -1 ; 
+        int r = Math.min(i+k -1, ab.length-1) ; 
 
         while(l< r){
             char temp  =  ab[l];
