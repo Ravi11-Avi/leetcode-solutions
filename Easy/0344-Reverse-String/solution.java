@@ -1,0 +1,24 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0344. Reverse String
+//  URL      : https://leetcode.com/problems/reverse-string/
+//  Difficulty : Easy
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.8 MB
+//  Solved   : September 12, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public void reverseString(char[] s) {
+        
+        int l = 0 , r = s.length-1;
+
+        while(l<r){
+            char temp  = s[l];
+            s[l]= s[r];
+            s[r] =temp;
+            l++;
+            r--;
+        }
+    }
+}
