@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 43 MB
+//  Memory   : 42.9 MB
 //  Solved   : September 12, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -13,25 +13,14 @@ class Solution {
         
         String[] word =  s.trim().split("\\s+");
 
-        int l= 0 ;
-        int r= word.length -1;
-
-        while (l< r){
-            String temp  = word[l];
-            word[l]= word[r];
-            word[r] = temp;
-            
-            l++;
-            r--;
-
-        }
         StringBuilder sb =  new StringBuilder();
 
-        for(int  i = 0  ; i < word.length -1 ; i ++){
-            sb.append (word[i]);
-            sb.append(" ");
+        for (int i = word.length-1 ; i >=0; i--){
+            if (i!=0){
+                sb.append(" ");
+            }
+            sb.append(word[i]);
         }
-        sb.append(word[word.length -1]);
 
 
         return sb.toString();
