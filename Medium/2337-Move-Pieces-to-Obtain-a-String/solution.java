@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 2337. Move Pieces to Obtain a String
-//  URL      : https://leetcode.com/problems/move-pieces-to-obtain-a-string/
+//  URL      : https://leetcode.com/problems/move-pieces-to-obtain-a-string/submissions/2139293988/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Runtime  : 16 ms
+//  Memory   : 47.7 MB
 //  Solved   : September 12, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -14,7 +14,7 @@
             int i = 0 ; 
             int j  =0;
 
-            while (i< start.length() && j< target.length()){
+            while (i< start.length() || j< target.length()){
 
                 while (i < start.length() && start.charAt(i) == '_')  i++;
                 while (j < target.length() && target.charAt(j) == '_') j++;
