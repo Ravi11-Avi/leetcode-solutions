@@ -13,7 +13,7 @@
 |---|---------|------------|----------|--------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `chooseatype` | Aug 16, 2026 |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2108190875/) | 🟢 Easy | `Java` | Aug 16, 2026 |
-| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/) | 🟡 Medium | `chooseatype` | Sep 13, 2026 |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | `Java` | Sep 12, 2026 |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/2139338508/) | 🟡 Medium | `chooseatype` | Sep 12, 2026 |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/2136378113/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
@@ -240,4 +240,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 12 Sep 2026 14:17:22 GMT*
+*Last updated: Sun, 13 Sep 2026 05:31:17 GMT*
