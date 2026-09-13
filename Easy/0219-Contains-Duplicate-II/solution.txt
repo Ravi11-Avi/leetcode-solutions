@@ -1,0 +1,23 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0219. Contains Duplicate II
+//  URL      : https://leetcode.com/problems/contains-duplicate-ii/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : September 13, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public boolean containsNearbyDuplicate(int[] nums, int k) {
+        HashSet<Integer> w = new HashSet<>();
+        for(int i = 0 ; i<nums.length  ; i++){
+           if(i>k){
+            w.remove(nums[i-k-1]);
+           }
+           if(!w.add(nums[i])){
+            w.add(nums[i]);
+            return true;
+           }
+        }
+        return false;
+    }
+}
