@@ -103,7 +103,7 @@
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | `chooseatype` | Sep 13, 2026 |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `Java` | Sep 5, 2026 |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `chooseatype` | Sep 5, 2026 |
-| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | `chooseatype` | Sep 13, 2026 |
+| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/2140922912/) | 🟢 Easy | `chooseatype` | Sep 14, 2026 |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | `Java` | Sep 14, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
@@ -245,4 +245,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 13 Sep 2026 18:32:53 GMT*
+*Last updated: Sun, 13 Sep 2026 18:33:18 GMT*
