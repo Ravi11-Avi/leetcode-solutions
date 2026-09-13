@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-228-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-229-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-73-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-148-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-149-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -99,6 +99,7 @@
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | `Java` | Sep 7, 2026 |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | `chooseatype` | Sep 7, 2026 |
+| 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | `Java` | Sep 13, 2026 |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `Java` | Sep 5, 2026 |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `chooseatype` | Sep 5, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
@@ -241,4 +242,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 13 Sep 2026 05:38:54 GMT*
+*Last updated: Sun, 13 Sep 2026 18:09:33 GMT*
