@@ -1,0 +1,26 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0209. Minimum Size Subarray Sum
+//  URL      : https://leetcode.com/problems/minimum-size-subarray-sum/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 13, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int minSubArrayLen(int target, int[] nums) {
+        int l = 0, r = 0,  min = Integer.MAX_VALUE , currentsum = 0;
+        
+
+        while (r< nums.length ){
+            if (currentsum < target) {
+                currentsum += nums[r++];
+            }
+            while (currentsum>=target){
+                min = Math.min(min,r-l );
+                currentsum -= nums[l++];
+            }
+        }
+
+        return min == Integer.MAX_VALUE ? 0 : min;
+    }
+}
