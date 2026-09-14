@@ -1,0 +1,57 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0076. Minimum Window Substring
+//  URL      : https://leetcode.com/problems/minimum-window-substring/
+//  Difficulty : Hard
+//  Language : chooseatype
+//  Solved   : September 14, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public String minWindow(String s, String t) {
+        if (t.length() > s.length())return "";
+
+        int[] targetc =  new int[126];
+        int[] window =  new int[126];
+        int l = 0 , formed  =0;
+        int requiredU = 0;
+
+        for (char c : t.toCharArray()){
+            if(targetc[c]== 0)requiredU ++;
+            targetc[c]++;
+        }
+        int minLength = Integer.MAX_VALUE;
+        int minLeft = 0;        
+
+        for (int r = 0 ; r < s.length(); r++){
+            char currentright  = s.charAt(r);
+            window[currentright]++;
+
+            if (targetc[currentright]> 0  && window[currentright]== targetc[currentright]){
+                formed++;
+            }
+
+            while (formed ==  requiredU){
+                if(r-l+1 < minLength){
+                    minLength = r-l+1;
+                    minLeft =l;
+
+                }
+                char leftchar = s.charAt(l);
+                window[leftchar]--;
+
+                if (targetc[leftchar]> 0 && targetc[leftchar]> window[leftchar])formed--;
+                l++;
+            }
+
+            
+        }
+
+
+
+
+    
+    
+        return minLength == Integer.MAX_VALUE ? "" : s.substring(minLeft, minLeft + minLength);
+
+    }
+}
