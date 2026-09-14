@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-239-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-240-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-75-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-155-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-156-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-9-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -199,6 +199,7 @@
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | `Java` | Sep 14, 2026 |
+| 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | `chooseatype` | Sep 14, 2026 |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/submissions/2138604372/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0908 | [Remove Nth Node From End of List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `unknown` | Sep 11, 2026 |
@@ -252,4 +253,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Mon, 14 Sep 2026 18:18:52 GMT*
+*Last updated: Mon, 14 Sep 2026 18:19:42 GMT*
