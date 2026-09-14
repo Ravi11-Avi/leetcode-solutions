@@ -4,10 +4,10 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-232-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-233-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-75-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-150-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-7-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-8-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -40,6 +40,7 @@
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
+| 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | `Java` | Sep 14, 2026 |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/submissions/2123531324/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `Java` | Aug 29, 2026 |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | `Java` | Sep 11, 2026 |
@@ -245,4 +246,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 13 Sep 2026 18:33:18 GMT*
+*Last updated: Mon, 14 Sep 2026 06:55:34 GMT*
