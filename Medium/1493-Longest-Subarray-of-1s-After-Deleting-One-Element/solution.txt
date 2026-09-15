@@ -1,0 +1,25 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1493. Longest Subarray of 1's After Deleting One Element
+//  URL      : https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 15, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int longestSubarray(int[] nums) {
+        int l = 0 , count = 0  ,  max0freq = 0 ; 
+
+        for(int  r= 0 ;r< nums.length; r++){
+            if (nums[r]==0)max0freq++;
+
+            while(max0freq > 1){
+                if (nums[l]==0)max0freq-- ; 
+                l++;
+            }
+
+            count= Math.max(count,  r-l);
+        }
+        return count ;
+    }
+}
