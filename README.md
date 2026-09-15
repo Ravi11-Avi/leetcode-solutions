@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-244-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-245-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-78-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-157-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-158-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-9-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -215,6 +215,7 @@
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | `chooseatype` | Sep 15, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `Java` | Aug 19, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `chooseatype` | Aug 19, 2026 |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 🟡 Medium | `Java` | Sep 15, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2099966096/) | 🟡 Medium | `chooseatype` | Aug 9, 2026 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `Java` | Sep 11, 2026 |
@@ -257,4 +258,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Mon, 14 Sep 2026 20:16:33 GMT*
+*Last updated: Tue, 15 Sep 2026 07:00:10 GMT*
