@@ -1,0 +1,34 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+//  URL      : https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 15, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int longestSubarray(int[] nums, int limit) {
+         ArrayDeque<Integer> inc   = new ArrayDeque<>();
+         ArrayDeque<Integer> dec   = new ArrayDeque<>();
+
+         int res = 0 ,  l = 0 ;
+
+         for (int r= 0 ; r < nums.length ; r++){
+            while (!inc.isEmpty()&& inc.getLast()> nums[r])inc.removeLast();      
+            while (!dec.isEmpty()&& dec.getLast()< nums[r])dec.removeLast();
+            
+            inc.addLast(nums[r]);
+            dec.addLast(nums[r]);
+
+            while(dec.getFirst()- inc.getFirst()> limit){
+                if(inc.getFirst()== nums[l])inc.removeFirst();
+                if(dec.getFirst()== nums[l])dec.removeFirst();
+                
+                l++;
+            }
+
+            res =  Math.max(res, r-l+1);
+         }
+         return res;
+    }
+}
