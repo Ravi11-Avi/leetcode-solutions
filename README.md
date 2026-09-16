@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-248-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-78-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-249-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-79-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-161-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-9-red?style=flat-square)
 
@@ -213,6 +213,7 @@
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `Java` | Aug 10, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `chooseatype` | Aug 10, 2026 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | `chooseatype` | Sep 15, 2026 |
+| 1046 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2143956861/) | 🟢 Easy | `Java` | Sep 16, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `Java` | Aug 19, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `chooseatype` | Aug 19, 2026 |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 🟡 Medium | `Java` | Sep 15, 2026 |
@@ -261,4 +262,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 15 Sep 2026 09:56:19 GMT*
+*Last updated: Wed, 16 Sep 2026 17:41:46 GMT*
