@@ -1,0 +1,34 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1838. Frequency of the Most Frequent Element
+//  URL      : https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 17, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int maxFrequency(int[] nums, int k) {
+
+        Arrays.sort(nums);
+
+        int maxfre = 0 , l = 0 ;
+        long windsum = 0;
+
+        for (int r = 0 ; r < nums.length ; r ++){
+
+            windsum +=  nums[r];
+
+            while((long)nums[r]* (r-l+1) - windsum > k){
+                windsum -= nums[l];
+                l++;
+            }
+
+            maxfre = Math.max(maxfre ,  r-l+1);
+        }
+
+        return maxfre;
+        
+
+
+    }
+}
