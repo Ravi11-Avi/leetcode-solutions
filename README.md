@@ -4,10 +4,10 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-257-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-258-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-79-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-169-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-9-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-10-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -116,6 +116,7 @@
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `Java` | Aug 3, 2026 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
+| 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | `Java` | Sep 17, 2026 |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | `chooseatype` | Aug 2, 2026 |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
@@ -270,4 +271,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 17 Sep 2026 11:25:45 GMT*
+*Last updated: Thu, 17 Sep 2026 11:42:56 GMT*
