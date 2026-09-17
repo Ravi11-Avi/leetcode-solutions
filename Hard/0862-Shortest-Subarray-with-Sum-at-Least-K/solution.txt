@@ -16,6 +16,8 @@ class Solution {
 
 
             while(currentsum> k && l< r){
+
+                if (nums[r]== k) return 1;
                 currentsum-= nums[l];
                 l++;
             }
