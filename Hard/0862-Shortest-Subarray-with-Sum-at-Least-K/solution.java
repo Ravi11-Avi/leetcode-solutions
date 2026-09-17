@@ -4,7 +4,7 @@
 //  Difficulty : Hard
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.7 MB
+//  Memory   : 42.4 MB
 //  Solved   : September 17, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -18,11 +18,15 @@ class Solution {
 
 
             while(currentsum> k && l< r){
+
+                if (nums[r]== k) return 1;
                 currentsum-= nums[l];
                 l++;
             }
-                
-                max= Math.max(max, r-l+1);
+                if (r-l+1>=k){
+                   max= Math.max(max, r-l+1);
+
+                }
 
 
         }
