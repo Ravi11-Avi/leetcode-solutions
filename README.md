@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-252-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-253-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-79-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-164-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-165-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-9-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -238,6 +238,7 @@
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/submissions/2139293988/) | 🟡 Medium | `chooseatype` | Sep 12, 2026 |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | 🟡 Medium | `Java` | Sep 11, 2026 |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | `Java` | Sep 17, 2026 |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | 🟡 Medium | `Java` | Sep 12, 2026 |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/submissions/2139308153/) | 🟡 Medium | `chooseatype` | Sep 12, 2026 |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/?envType=daily-question&envId=2026-08-12) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
@@ -265,4 +266,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 17 Sep 2026 09:26:25 GMT*
+*Last updated: Thu, 17 Sep 2026 09:38:31 GMT*
