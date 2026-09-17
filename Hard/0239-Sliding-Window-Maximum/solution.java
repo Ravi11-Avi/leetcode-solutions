@@ -11,17 +11,18 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         
+        
 
         int l = 0 ;
         int r = k;
 
-        int[] result =  new int[nums.length +1];
+        int[] result =  new int[nums.length -k +1];
         int idx= 0 ;
 
-        while(r < nums.length){
+        while(r <= nums.length){
 
-            int max =  0 ; 
-            for(int i = l ; i< r+1 ; i++)max = Math.max(max,nums[i]);
+            int max =  Integer.MIN_VALUE; 
+            for(int i = l ; i< r ; i++)max = Math.max(max,nums[i]);
 
             result[idx++]= max; 
             l++;
