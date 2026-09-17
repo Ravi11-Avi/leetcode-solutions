@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-250-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-251-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-79-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-162-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-163-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-9-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -225,6 +225,7 @@
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | `Java` | Sep 17, 2026 |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | `chooseatype` | Sep 17, 2026 |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/2101556362/) | 🟢 Easy | `Java` | Aug 10, 2026 |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
 | 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | 🟡 Medium | `Java` | Aug 27, 2026 |
@@ -263,4 +264,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 17 Sep 2026 08:47:00 GMT*
+*Last updated: Thu, 17 Sep 2026 08:51:02 GMT*
