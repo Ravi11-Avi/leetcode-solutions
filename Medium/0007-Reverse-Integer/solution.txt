@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0007. Reverse Integer
+//  URL      : https://leetcode.com/problems/reverse-integer/submissions/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 19, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int reverse(int x) {
+        
+    }
+}
