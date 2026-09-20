@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-264-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-80-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-265-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-81-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-171-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-13-red?style=flat-square)
 
@@ -268,6 +268,7 @@
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/?envType=daily-question&envId=2026-09-11) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20) | 🟢 Easy | `Java` | Sep 20, 2026 |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20) | 🟢 Easy | `chooseatype` | Sep 20, 2026 |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22) | 🟢 Easy | `chooseatype` | Aug 22, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `Java` | Aug 4, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
@@ -277,4 +278,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 20 Sep 2026 17:59:08 GMT*
+*Last updated: Sun, 20 Sep 2026 18:06:26 GMT*
