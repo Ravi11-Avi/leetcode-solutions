@@ -10,13 +10,11 @@ class Solution {
     public int reverseDegree(String s) {
         int sum = 0;
         
-
+        i =1;
         for (int i = 0;i<s.length() ;i++){
             char c =  s.charAt(i);
 
-            int ss =  'z'-c+1;
-
-            sum += (i+1)*ss;
+            sum += (i++)*('z'-c+1);
         }
         return sum;
     }
