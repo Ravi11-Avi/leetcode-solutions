@@ -4,7 +4,7 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 41.8 MB
+//  Memory   : 42.9 MB
 //  Solved   : September 20, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -13,12 +13,10 @@ class Solution {
         int sum = 0;
         
 
-        for (char c : s.toCharArray()){
-            if (c >= 'A' && c <= 'Z') {
-                sum += ('Z' - c + 1);
-            }
+        for (int i = 0;i<s.length() ;i++){
+            char c =  s.charAt(i);
 
-
+            sum += (i+1)*('z'-c+1);
         }
         return sum;
     }
