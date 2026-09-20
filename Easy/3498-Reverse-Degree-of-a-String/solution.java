@@ -4,20 +4,14 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.4 MB
+//  Memory   : 42.7 MB
 //  Solved   : September 20, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public int reverseDegree(String s) {
-        int sum = 0;
-        
-        int i =1;
-        for (char c  : s.toCharArray()){
-            
-
-            sum += (i++)*('z'-c+1);
-        }
+        int sum = 0, i =1;
+        for (char c  : s.toCharArray())sum += (i++)*('z'-c+1);
         return sum;
     }
 }
