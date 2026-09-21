@@ -1,18 +1,41 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 2762. Continuous Subarrays
-//  URL      : https://leetcode.com/problems/continuous-subarrays/
+//  URL      : https://leetcode.com/problems/continuous-subarrays/submissions/2148815319/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.9 MB
+//  Runtime  : 19 ms
+//  Memory   : 85.5 MB
 //  Solved   : September 21, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public long continuousSubarrays(int[] nums) {
-        
-        long res = (long) nums.length* (nums.length +1)/2;
+        Deque<Integer> maxdq =  new ArrayDeque<>();
+        Deque<Integer> mindq =  new ArrayDeque<>();
 
-        return res;
+        int l = 0 ;
+        long subarray = 0 ;
+
+        for (int r= 0 ; r< nums.length ; r++){
+            while (!maxdq.isEmpty() && nums[maxdq.peekLast()] <= nums[r]){
+                maxdq.pollLast();
+            }
+            maxdq.addLast(r);
+            while (!mindq.isEmpty() && nums[mindq.peekLast()] >= nums[r]){
+                mindq.pollLast();
+            }
+            mindq.addLast(r);
+
+            while(!mindq.isEmpty() && !maxdq.isEmpty() && nums[maxdq.peekFirst()]- nums[mindq.peekFirst()]  > 2   ){
+                l++;
+                if (mindq.peekFirst()< l) mindq.pollFirst();
+                if (maxdq.peekFirst()< l) maxdq.pollFirst();
+            }
+
+            subarray +=(r-l+1);
+        }
+
+        return subarray ;
+        
     }
 }
