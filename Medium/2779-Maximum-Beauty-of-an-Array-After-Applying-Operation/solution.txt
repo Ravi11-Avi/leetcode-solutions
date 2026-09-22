@@ -1,0 +1,27 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 2779. Maximum Beauty of an Array After Applying Operation
+//  URL      : https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 22, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int maximumBeauty(int[] nums, int k) {
+        Arrays.sort(nums);
+
+       int l = 0 , max = 0;
+
+       for (int r = 0 ;  r < nums.length ; r++){
+
+        while (nums[r]- nums[l]> 2*k){
+            l++;
+        }
+
+        max  =  Math.max(max , r-l+1);
+
+       }
+
+       return max;
+    }
+}
