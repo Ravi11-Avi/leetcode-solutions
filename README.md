@@ -231,7 +231,7 @@
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | `Java` | Sep 17, 2026 |
-| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | `chooseatype` | Sep 17, 2026 |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2150453641/?envType=daily-question&envId=2026-09-23) | 🟡 Medium | `chooseatype` | Sep 23, 2026 |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | 🟡 Medium | `chooseatype` | Sep 17, 2026 |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/2101556362/) | 🟢 Easy | `Java` | Aug 10, 2026 |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
@@ -280,4 +280,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 22 Sep 2026 12:30:12 GMT*
+*Last updated: Wed, 23 Sep 2026 04:57:10 GMT*
