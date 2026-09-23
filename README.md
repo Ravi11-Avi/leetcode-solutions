@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-268-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-82-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-269-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-83-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-173-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-13-red?style=flat-square)
 
@@ -233,6 +233,7 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | `Java` | Sep 17, 2026 |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2150453641/?envType=daily-question&envId=2026-09-23) | 🟡 Medium | `chooseatype` | Sep 23, 2026 |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | 🟢 Easy | `Java` | Sep 23, 2026 |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | 🟢 Easy | `chooseatype` | Sep 23, 2026 |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | 🟡 Medium | `chooseatype` | Sep 17, 2026 |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/2101556362/) | 🟢 Easy | `Java` | Aug 10, 2026 |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
@@ -281,4 +282,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 23 Sep 2026 06:10:44 GMT*
+*Last updated: Wed, 23 Sep 2026 06:14:00 GMT*
