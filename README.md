@@ -262,7 +262,7 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `Java` | Jul 31, 2026 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31) | 🟡 Medium | `chooseatype` | Jul 31, 2026 |
 | 3026 | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/) | 🟡 Medium | `Java` | Sep 24, 2026 |
-| 3026 | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/) | 🟡 Medium | `chooseatype` | Sep 24, 2026 |
+| 3026 | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/submissions/2152248371/) | 🟡 Medium | `chooseatype` | Sep 24, 2026 |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/?envType=daily-question&envId=2026-08-20) | 🟢 Easy | `Java` | Aug 20, 2026 |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/?envType=daily-question&envId=2026-08-20) | 🟢 Easy | `chooseatype` | Aug 20, 2026 |
 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/?envType=daily-question&envId=2026-08-14) | 🟢 Easy | `chooseatype` | Aug 14, 2026 |
@@ -287,4 +287,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 24 Sep 2026 17:08:13 GMT*
+*Last updated: Thu, 24 Sep 2026 17:08:28 GMT*
