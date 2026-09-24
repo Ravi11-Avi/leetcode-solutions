@@ -4,26 +4,31 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.3 MB
+//  Memory   : 42.6 MB
 //  Solved   : September 24, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        int  l = 0 , max= 0;
+        long  px = 0 , max= Long.MIN_VALUE;
 
-        for (int r = 0 ;r<nums.length ; r++){
+        HashMap<Integer , Long> map  =  new HashMap<>();
 
+        for (int n :  nums){
+            if(!map.containsKey(n)){
+                map.put(n,px );
+            } 
 
-            if (Math.abs(nums[r]- nums[l])==k){
-                int sum = 0;
-                for (int i = r ; i<= l ; i-- )sum += nums[i];
-                max =  Math.max(max, sum);
+            px+= n;
 
-            }
+            if (map.containsKey(n+k))   {
 
-            
-                
+                max = Math.max(max , px - map.get(n+k));
+            }       
+            if (map.containsKey(n-k))   {
+
+                max = Math.max(max , px - map.get(n-k));
+            }               
         
         }
         return max;
