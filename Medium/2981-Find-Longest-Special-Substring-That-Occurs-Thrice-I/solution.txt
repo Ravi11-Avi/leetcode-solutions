@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 2981. Find Longest Special Substring That Occurs Thrice I
-//  URL      : https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
+//  URL      : https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/submissions/2151848891/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 24, 2026
