@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 3026. Maximum Good Subarray Sum
-//  URL      : https://leetcode.com/problems/maximum-good-subarray-sum/
+//  URL      : https://leetcode.com/problems/maximum-good-subarray-sum/submissions/2152248371/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 24, 2026
@@ -26,10 +26,7 @@ class Solution {
             if (map.containsKey(n-k))   {
 
                 max = Math.max(max , px - map.get(n-k));
-            }       
-            
-            
-                
+            }               
         
         }
         return max;
