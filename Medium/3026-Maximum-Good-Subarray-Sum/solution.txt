@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 3026. Maximum Good Subarray Sum
-//  URL      : https://leetcode.com/problems/maximum-good-subarray-sum/submissions/2152248371/
+//  URL      : https://leetcode.com/problems/maximum-good-subarray-sum/submissions/2152253133/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 24, 2026
@@ -29,6 +29,6 @@ class Solution {
             }               
         
         }
-        return max;
+        return max== Long.MIN_VALUE  ? 0 : max;
     }
 }
