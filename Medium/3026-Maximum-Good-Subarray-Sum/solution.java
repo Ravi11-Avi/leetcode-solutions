@@ -31,6 +31,6 @@ class Solution {
             }               
         
         }
-        return max;
+        return max== Long.MIN_VALUE  ? 0 : max;
     }
 }
