@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-274-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-84-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-275-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-85-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-177-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-13-red?style=flat-square)
 
@@ -30,6 +30,7 @@
 | 0019 | [Is Subsequence](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟢 Easy | `unknown` | Sep 11, 2026 |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2138222897/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | `Java` | Sep 11, 2026 |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `Java` | Sep 25, 2026 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
@@ -287,4 +288,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 24 Sep 2026 17:12:17 GMT*
+*Last updated: Fri, 25 Sep 2026 08:36:35 GMT*
