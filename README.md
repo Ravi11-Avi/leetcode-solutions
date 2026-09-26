@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-277-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-278-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-86-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-178-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-179-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-13-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -235,6 +235,7 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | `Java` | Sep 17, 2026 |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2150453641/?envType=daily-question&envId=2026-09-23) | 🟡 Medium | `chooseatype` | Sep 23, 2026 |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/?envType=daily-question&envId=2026-09-26) | 🟡 Medium | `Java` | Sep 27, 2026 |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/?envType=daily-question&envId=2026-09-26) | 🟡 Medium | `chooseatype` | Sep 27, 2026 |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | 🟢 Easy | `Java` | Sep 23, 2026 |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | 🟢 Easy | `chooseatype` | Sep 23, 2026 |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | 🟡 Medium | `chooseatype` | Sep 17, 2026 |
@@ -290,4 +291,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 26 Sep 2026 20:21:31 GMT*
+*Last updated: Sat, 26 Sep 2026 20:23:53 GMT*
