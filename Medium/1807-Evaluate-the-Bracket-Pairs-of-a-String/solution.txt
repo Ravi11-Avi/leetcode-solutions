@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1807. Evaluate the Bracket Pairs of a String
-//  URL      : https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/?envType=daily-question&envId=2026-09-26
+//  URL      : https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/?envType=daily-question&envId=2026-09-26
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : September 27, 2026
@@ -9,6 +9,10 @@
 class Solution {
     public String evaluate(String s, List<List<String>> k) {
 
+        Map<String, String> map = new HashMap<>();
+        for (List<String> pair : k) {
+            map.put(pair.get(0), pair.get(1));
+        }
         StringBuilder sb =  new StringBuilder();
         StringBuilder news =  new StringBuilder();
         boolean open =  false;
@@ -21,13 +25,18 @@ class Solution {
                 open  =  false;
                 boolean found = false;
 
-                for (int j = 0 ; j <k.size(); j++ ){
-                    if (k.get(j).get(0).equals(sb.toString())){
-                        news.append(k.get(j).get(1));
-                        found = true;
-                        break;
-                    }
+                // for (int j = 0 ; j <k.size(); j++ ){
+                //     if (k.get(j).get(0).equals(sb.toString())){
+                //         news.append(k.get(j).get(1));
+                //         found = true;
+                //         break;
+                //     }
+                // }
+                if (map.containsKey(sb.toString())){
+                    news.append(map.get(sb.toString()));
+                    found = true;
                 }
+                
                 if (!found) {
                     news.append("?");
                 }
