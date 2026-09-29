@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-278-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-86-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-279-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-87-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-179-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-13-red?style=flat-square)
 
@@ -232,6 +232,7 @@
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | 🟡 Medium | `chooseatype` | Sep 15, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/?envType=daily-question&envId=2026-09-29) | 🟢 Easy | `Java` | Sep 30, 2026 |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | `Java` | Sep 17, 2026 |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2150453641/?envType=daily-question&envId=2026-09-23) | 🟡 Medium | `chooseatype` | Sep 23, 2026 |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/?envType=daily-question&envId=2026-09-26) | 🟡 Medium | `Java` | Sep 27, 2026 |
@@ -291,4 +292,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 27 Sep 2026 05:05:02 GMT*
+*Last updated: Tue, 29 Sep 2026 19:58:27 GMT*
