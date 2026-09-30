@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-280-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-281-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-88-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-179-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-180-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-13-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -222,6 +222,7 @@
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `chooseatype` | Aug 10, 2026 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | `chooseatype` | Sep 15, 2026 |
 | 1046 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2143956861/) | 🟢 Easy | `Java` | Sep 16, 2026 |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/?envType=daily-question&envId=2026-09-30) | 🟡 Medium | `Java` | Sep 30, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `Java` | Aug 19, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `chooseatype` | Aug 19, 2026 |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 🟡 Medium | `Java` | Sep 15, 2026 |
@@ -293,4 +294,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 29 Sep 2026 19:58:56 GMT*
+*Last updated: Wed, 30 Sep 2026 04:59:46 GMT*
