@@ -1,0 +1,38 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 3346. Maximum Frequency of an Element After Performing Operations I
+//  URL      : https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : September 30, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int maxFrequency(int[] nums, int k, int numOperations) {
+        int max = 0 ;
+
+        for (int i : nums){
+            List<Integer> list =  new ArrayList<>();
+            int l = 0 ,r = nums.length -1 ;
+            int lowrange =  i-k;
+            int highrange = i+k; 
+
+            for (int n :  nums){
+                if (n>= lowrange && n<=  highrange)list.add(n);
+            }
+            int same= 0;
+
+            for (int num : list){
+                if (num == i){
+                    same++;
+                }
+            }
+
+            int op  =  Math.min(list.size() - same, numOperations);
+
+            max =  Math.max(max ,  op+ same);
+
+        }
+
+        return max;
+    }
+}
