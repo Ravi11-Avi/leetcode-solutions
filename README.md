@@ -4,10 +4,10 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-284-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-285-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-88-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-182-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-14-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-15-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -36,6 +36,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/?envType=daily-question&envId=2026-10-03) | 🔴 Hard | `Java` | Oct 3, 2026 |
+| 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/?envType=daily-question&envId=2026-10-03) | 🔴 Hard | `chooseatype` | Oct 3, 2026 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `Java` | Sep 2, 2026 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2127050794/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
@@ -297,4 +298,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 03 Oct 2026 10:40:21 GMT*
+*Last updated: Sat, 03 Oct 2026 10:42:29 GMT*
