@@ -1,16 +1,16 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0043. Multiply Strings
-//  URL      : https://leetcode.com/problems/multiply-strings/
+//  URL      : https://leetcode.com/problems/multiply-strings/submissions/2161501181/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : October 4, 2026
 // ═══════════════════════════════════════════════════════
 
+import java.math.BigInteger;
 class Solution {
     public String multiply(String num1, String num2) {
-        int a  =    Integer.parseInt(num1);
-        int b  =  Integer.parseInt(num2);
+       
 
-        return Integer.toString(a*b);
+        return new BigInteger(num1).multiply(new BigInteger(num2)).toString();
     }
 }
