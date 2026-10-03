@@ -43,7 +43,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | `Java` | Oct 4, 2026 |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | `chooseatype` | Oct 4, 2026 |
-| 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | `chooseatype` | Oct 4, 2026 |
+| 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/submissions/2161501181/) | 🟡 Medium | `chooseatype` | Oct 4, 2026 |
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | `Java` | Oct 4, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2127050794/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `Java` | Sep 1, 2026 |
@@ -306,4 +306,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 03 Oct 2026 22:05:35 GMT*
+*Last updated: Sat, 03 Oct 2026 22:06:34 GMT*
