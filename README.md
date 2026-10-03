@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-293-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-294-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-90-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-188-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-189-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-15-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -51,6 +51,7 @@
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | `chooseatype` | Aug 4, 2026 |
+| 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | `Java` | Oct 4, 2026 |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | `Java` | Sep 14, 2026 |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | `chooseatype` | Sep 14, 2026 |
@@ -306,4 +307,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 03 Oct 2026 22:06:34 GMT*
+*Last updated: Sat, 03 Oct 2026 22:19:47 GMT*
