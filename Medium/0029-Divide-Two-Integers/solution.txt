@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0029. Divide Two Integers
+//  URL      : https://leetcode.com/problems/divide-two-integers/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : October 4, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int divide(int dividend, int divisor) {
+        return (int) dividend/ divisor;
+    }
+}
