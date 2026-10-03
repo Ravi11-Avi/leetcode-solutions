@@ -1,0 +1,33 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 2553. Separate the Digits in an Array
+//  URL      : https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-10-03
+//  Difficulty : Easy
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.8 MB
+//  Solved   : October 3, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int[] separateDigits(int[] nums) {
+        ArrayList<Integer> aa =  new ArrayList<>();
+        int idx = 0 ;
+
+        for (int i :  nums){
+            while(i>0){
+                aa.add(i%10);
+                i /=10;
+            }
+        }
+
+
+        int[] res =  new int[aa.size()];
+
+
+        for (int i = 0 ; i < aa.size(); i++){
+            res[i]= aa.get(i);
+        }
+
+        return res;
+    }
+}
