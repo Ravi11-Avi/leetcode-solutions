@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-285-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-88-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-286-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-89-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-182-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-15-red?style=flat-square)
 
@@ -260,6 +260,7 @@
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | `chooseatype` | Sep 17, 2026 |
 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | 🟡 Medium | `Java` | Sep 17, 2026 |
 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | 🟡 Medium | `chooseatype` | Sep 17, 2026 |
+| 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-10-03) | 🟢 Easy | `Java` | Oct 3, 2026 |
 | 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/submissions/2148815319/) | 🟡 Medium | `Java` | Sep 21, 2026 |
 | 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/submissions/2148815319/) | 🟡 Medium | `chooseatype` | Sep 21, 2026 |
 | 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | 🟡 Medium | `chooseatype` | Sep 22, 2026 |
@@ -298,4 +299,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 03 Oct 2026 10:42:29 GMT*
+*Last updated: Sat, 03 Oct 2026 10:51:18 GMT*
