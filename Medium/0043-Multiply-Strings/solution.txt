@@ -1,0 +1,16 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0043. Multiply Strings
+//  URL      : https://leetcode.com/problems/multiply-strings/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : October 4, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public String multiply(String num1, String num2) {
+        int a  =    Integer.parseInt(num1);
+        int b  =  Integer.parseInt(num2);
+
+        return Integer.toString(a*b);
+    }
+}
