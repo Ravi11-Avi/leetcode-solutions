@@ -8,31 +8,32 @@
 
 class Solution {
     public int maxFrequency(int[] nums, int k, int numOperations) {
-        int max = 0 ;
+        int currmax = nums[0];
+        int result =0;
 
-        for (int i : nums){
-            List<Integer> list =  new ArrayList<>();
-            int lowrange =  i-k;
-            int highrange = i+k; 
+        for (int i :  nums)if (currmax < i)currmax = i;
 
-            for (int n :  nums){
-                if (n>= lowrange && n<=  highrange)list.add(n);
-            }
-            int same= 0;
+        int[] freq = new int[currmax +k+1];
 
-            for (int num : list){
-                if (num == i){
-                    same++;
-                }
-            }
+        for (int i : nums )freq[i]+=1;
+        for(int i = 1 ; i< freq.length ; i++)freq[i] += freq[i-1];
 
-            int op  =  Math.min(list.size() - same, numOperations);
+        for(int i = 0; i < freq.length ; i++){
+            int l = Math.max(0, i - k);
+            int r = Math.min(freq.length - 1, i + k);
 
-            max =  Math.max(max ,  op+ same);
+            int totalcon = freq[r] - (l > 0 ? freq[l - 1] : 0);
+            int original = freq[i] - (i > 0 ? freq[i - 1] : 0);
 
+            int needxon = totalcon - original;
+
+            int aa =  original+ Math.min(needxon,numOperations);
+
+
+            result = Math.max(result ,aa);
         }
-
-        return max;
+        return result;
+        
         
     }
 }
