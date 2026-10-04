@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 3346. Maximum Frequency of an Element After Performing Operations I
-//  URL      : https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/
+//  URL      : https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/editorial/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : October 4, 2026
