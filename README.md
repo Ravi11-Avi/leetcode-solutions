@@ -292,7 +292,7 @@
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | 🟢 Easy | `chooseatype` | Sep 12, 2026 |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-06) | 🟢 Easy | `Java` | Aug 6, 2026 |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-06) | 🟢 Easy | `chooseatype` | Aug 6, 2026 |
-| 3346 | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | 🟡 Medium | `chooseatype` | Oct 4, 2026 |
+| 3346 | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/editorial/) | 🟡 Medium | `chooseatype` | Oct 4, 2026 |
 | 3346 | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | 🟡 Medium | `Java` | Oct 4, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/submissions/2086203209/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
@@ -309,4 +309,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 04 Oct 2026 12:37:58 GMT*
+*Last updated: Sun, 04 Oct 2026 16:48:44 GMT*
