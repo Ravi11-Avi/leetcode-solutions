@@ -3,7 +3,7 @@
 //  URL      : https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : September 30, 2026
+//  Solved   : October 4, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
@@ -12,7 +12,6 @@ class Solution {
 
         for (int i : nums){
             List<Integer> list =  new ArrayList<>();
-            int l = 0 ,r = nums.length -1 ;
             int lowrange =  i-k;
             int highrange = i+k; 
 
@@ -34,5 +33,6 @@ class Solution {
         }
 
         return max;
+        
     }
 }
