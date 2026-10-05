@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-298-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-299-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-90-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-191-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-192-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-17-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -214,6 +214,7 @@
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/?envType=daily-question&envId=2026-09-14) | 🟢 Easy | `chooseatype` | Sep 14, 2026 |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/submissions/2141911461/?envType=daily-question&envId=2026-09-14) | 🟢 Easy | `Java` | Sep 15, 2026 |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 🟡 Medium | `chooseatype` | Aug 14, 2026 |
+| 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/?envType=daily-question&envId=2026-10-05) | 🟡 Medium | `chooseatype` | Oct 5, 2026 |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | 🔴 Hard | `Java` | Sep 17, 2026 |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | 🔴 Hard | `chooseatype` | Sep 17, 2026 |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
@@ -311,4 +312,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 04 Oct 2026 17:52:40 GMT*
+*Last updated: Mon, 05 Oct 2026 08:32:59 GMT*
