@@ -1,0 +1,32 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0567. Permutation in String
+//  URL      : https://leetcode.com/problems/permutation-in-string/
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : October 5, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public boolean checkInclusion(String s1, String s2) {
+        HashMap<Character, Integer> smap =  new HashMap<>();
+        HashMap<Character, Integer> s2map = new HashMap<>();
+
+        for (char c : s1.toCharArray())smap.put(c, smap.getOrDefault(c,0)+1);
+
+        int l = 0 , r = 1 ; 
+
+        while (r< s2.length()){
+            s2map.put(s2.charAt(l), s2map.getOrDefault(s2.charAt(l),0)+1);
+            s2map.put(s2.charAt(r), s2map.getOrDefault(s2.charAt(r),0)+1);
+
+            if (smap.equals(s2map))return true;
+
+
+            s2map.remove(s2.charAt(l++));
+            s2map.remove(s2.charAt(r++));
+            
+        }
+        return false;
+
+    }
+}
