@@ -183,7 +183,7 @@
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2125775033/) | 🟡 Medium | `Java` | Aug 31, 2026 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | `chooseatype` | Oct 5, 2026 |
-| 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | `Java` | Oct 5, 2026 |
+| 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/2163320194/) | 🟡 Medium | `Java` | Oct 5, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
@@ -315,4 +315,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Mon, 05 Oct 2026 16:06:48 GMT*
+*Last updated: Mon, 05 Oct 2026 16:07:56 GMT*
