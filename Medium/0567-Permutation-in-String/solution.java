@@ -1,15 +1,16 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0567. Permutation in String
-//  URL      : https://leetcode.com/problems/permutation-in-string/
+//  URL      : https://leetcode.com/problems/permutation-in-string/submissions/2163320194/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Runtime  : 27 ms
+//  Memory   : 47.1 MB
 //  Solved   : October 5, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
+         if (s1.length() > s2.length()) return false;
         HashMap<Character, Integer> smap =  new HashMap<>();
         HashMap<Character, Integer> s2map = new HashMap<>();
 
@@ -21,12 +22,14 @@ class Solution {
         int l = 0 , r = s1.length()-1 ; 
 
         while (r< s2.length()){
-            if (smap.equals(s2map)) return true;
+            
 
 
             char rightChar = s2.charAt(r);
             s2map.put(rightChar, s2map.getOrDefault(rightChar, 0) + 1);
-            r++;
+            if (smap.equals(s2map)) return true;
+
+            
             char leftChar = s2.charAt(l);
             if (s2map.get(leftChar) == 1) {
                 s2map.remove(leftChar); 
@@ -34,10 +37,11 @@ class Solution {
                 s2map.put(leftChar, s2map.get(leftChar) - 1); 
             }
             l++;
+            r++;
             
             
         }
-        return smap.equals(s2map);
+        return false;
 
     }
 }
