@@ -1,0 +1,31 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0856. Score of Parentheses
+//  URL      : https://leetcode.com/problems/score-of-parentheses/?envType=daily-question&envId=2026-10-05
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : October 5, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int scoreOfParentheses(String s) {
+        Stack<Integer> stack =  new Stack<>();
+
+
+      int result = 0 ;
+
+      for (char c: s.toCharArray()){
+        if(c=='('){
+            stack.push(result);
+            result = 0 ;
+            
+        }else{
+            int insc =  result;
+            int dbl =  Math.max(2* insc , 1);
+
+            result = dbl + stack.pop();
+        }
+      } 
+
+      return result; 
+    }
+}
