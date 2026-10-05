@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-300-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-301-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-91-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-192-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-193-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-17-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -182,6 +182,7 @@
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | `chooseatype` | Aug 14, 2026 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2125775033/) | 🟡 Medium | `Java` | Aug 31, 2026 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
+| 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | `chooseatype` | Oct 5, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 Easy | `chooseatype` | Jul 29, 2026 |
@@ -313,4 +314,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Mon, 05 Oct 2026 14:52:06 GMT*
+*Last updated: Mon, 05 Oct 2026 15:58:47 GMT*
