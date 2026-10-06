@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Memory   : 43 MB
 //  Solved   : October 6, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -34,7 +34,8 @@ class Solution {
 
         while (!queue.isEmpty()){
             List<Integer> curr =  new ArrayList<>();
-            for(int  i =0 ;  i< queue.size(); i++){
+            int ss =  queue.size();
+            for(int  i =0 ;  i< ss; i++){
                 TreeNode current =  queue.poll();
                 curr.add(current.val);
 
