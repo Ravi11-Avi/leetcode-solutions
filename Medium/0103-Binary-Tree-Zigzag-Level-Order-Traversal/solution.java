@@ -4,8 +4,8 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.7 MB
-//  Solved   : August 9, 2026
+//  Memory   : 42.8 MB
+//  Solved   : October 6, 2026
 // ═══════════════════════════════════════════════════════
 
 /**
@@ -26,44 +26,34 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         
-        List<List<Integer>> ans =  new ArrayList<>();
-
-        if (root== null) return ans ;
-        Boolean zz =  true;
-
+        List<List<Integer>> result = new ArrayList<>();
+        if(root ==  null) return result;
         Queue<TreeNode> queue =  new LinkedList<>();
         queue.offer(root);
+        boolean ziz=  true;
 
-        while (queue.isEmpty()){
-            int size = queue.size();
-            List<Integer> rn =  new ArrayList<>();
 
-            if (zz){
-                for(int i = 0; i < size  ; i++){
-                    TreeNode curr = queue.poll();
-                    rn.add(curr.val);
 
-                    if(curr.left != null)queue.offer(curr.left); 
-                    if(curr.right != null)queue.offer(curr.right); 
-                }
-                ans.add(new ArrayList<>(rn));
+        while (!queue.isEmpty()){
+            int size =  queue.size();
+            List<Integer> currlevel  =  new ArrayList<>();
 
-                zz= false;
-            }else{
-                for(int i = size-1; i >=0  ; i--){
-                    TreeNode curr = queue.poll();
-                    rn.add(curr.val);
+            for (int i = 0 ; i< size ; i++){
+                TreeNode curr =  queue.poll();
 
-                    if(curr.left != null)queue.offer(curr.left); 
-                    if(curr.right != null)queue.offer(curr.right); 
-                }
-                ans.add(new ArrayList<>(rn));
+                if (ziz)currlevel.addLast(curr.val);
+                else currlevel.addFirst(curr.val);
 
-                zz= true;
 
+                if (curr.left!=  null)queue.add(curr.left);
+                if (curr.right!=  null)queue.add(curr.right);
+                
             }
+            result.add(currlevel);
+            ziz= !ziz;
         }
+        return result ;
 
-        return ans;
+
     }
 }
