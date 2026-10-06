@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-302-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-303-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-91-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-194-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-195-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-17-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -228,6 +228,7 @@
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/submissions/2138604372/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0908 | [Remove Nth Node From End of List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `unknown` | Sep 11, 2026 |
+| 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/?envType=daily-question&envId=2026-10-06) | 🟡 Medium | `chooseatype` | Oct 6, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | `Java` | Aug 3, 2026 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/2092658228/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | `Java` | Sep 10, 2026 |
@@ -315,4 +316,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Mon, 05 Oct 2026 16:07:56 GMT*
+*Last updated: Tue, 06 Oct 2026 06:06:06 GMT*
