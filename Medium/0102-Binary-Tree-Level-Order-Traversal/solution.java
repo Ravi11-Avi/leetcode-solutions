@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 43 MB
+//  Memory   : 42.6 MB
 //  Solved   : October 6, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -46,7 +46,7 @@ class Solution {
                     queue.offer(current.right);
                 }
 
-
+                
             }
             result.add(curr);
         }
