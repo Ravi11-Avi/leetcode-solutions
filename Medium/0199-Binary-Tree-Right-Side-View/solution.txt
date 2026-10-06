@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0199. Binary Tree Right Side View
-//  URL      : https://leetcode.com/problems/binary-tree-right-side-view/
+//  URL      : https://leetcode.com/problems/binary-tree-right-side-view/description/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 1, 2026
+//  Solved   : October 6, 2026
 // ═══════════════════════════════════════════════════════
 
 /**
