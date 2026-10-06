@@ -44,9 +44,9 @@ class Solution {
                     queue.offer(current.right);
                 }
 
-    
+                
             }
-           
+            result.add(curr);
         }
 
         return result ; 
