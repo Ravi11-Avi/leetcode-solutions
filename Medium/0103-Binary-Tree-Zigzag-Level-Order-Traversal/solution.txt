@@ -3,7 +3,7 @@
 //  URL      : https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 9, 2026
+//  Solved   : October 6, 2026
 // ═══════════════════════════════════════════════════════
 
 /**
@@ -39,10 +39,10 @@ class Solution {
                     TreeNode curr = queue.poll();
 
                     if (zz){
-                                                rn.addLast(curr.val);
+                            rn.addLast(curr.val);
 
                     }else{
-                                                rn.addFirst(curr.val);
+                            rn.addFirst(curr.val);
 
                     }
                     
