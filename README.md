@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-307-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-92-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-308-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-93-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-196-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-19-red?style=flat-square)
 
@@ -240,6 +240,7 @@
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `chooseatype` | Aug 10, 2026 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | `chooseatype` | Sep 15, 2026 |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/?envType=daily-question&envId=2026-10-08) | 🟢 Easy | `Java` | Oct 8, 2026 |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/?envType=daily-question&envId=2026-10-08) | 🟢 Easy | `chooseatype` | Oct 8, 2026 |
 | 1046 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2143956861/) | 🟢 Easy | `Java` | Sep 16, 2026 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/?envType=daily-question&envId=2026-09-30) | 🟡 Medium | `Java` | Sep 30, 2026 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/?envType=daily-question&envId=2026-09-30) | 🟡 Medium | `chooseatype` | Sep 30, 2026 |
@@ -320,4 +321,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 08 Oct 2026 06:27:11 GMT*
+*Last updated: Thu, 08 Oct 2026 06:42:17 GMT*
