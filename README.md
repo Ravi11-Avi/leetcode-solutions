@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-308-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-309-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-93-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-196-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-197-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-19-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -252,6 +252,7 @@
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | 🟡 Medium | `Java` | Sep 15, 2026 |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | 🟡 Medium | `chooseatype` | Sep 15, 2026 |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/?envType=daily-question&envId=2026-10-09) | 🟡 Medium | `chooseatype` | Oct 9, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/?envType=daily-question&envId=2026-09-29) | 🟢 Easy | `Java` | Sep 30, 2026 |
@@ -321,4 +322,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 08 Oct 2026 06:42:17 GMT*
+*Last updated: Fri, 09 Oct 2026 05:07:24 GMT*
