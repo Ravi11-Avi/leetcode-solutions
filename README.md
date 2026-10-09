@@ -252,7 +252,7 @@
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | `Java` | Aug 9, 2026 |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | 🟡 Medium | `Java` | Sep 15, 2026 |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | 🟡 Medium | `chooseatype` | Sep 15, 2026 |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/?envType=daily-question&envId=2026-10-09) | 🟡 Medium | `chooseatype` | Oct 9, 2026 |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/submissions/2166960733/?envType=daily-question&envId=2026-10-09) | 🟡 Medium | `chooseatype` | Oct 9, 2026 |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/submissions/2166960733/?envType=daily-question&envId=2026-10-09) | 🟡 Medium | `Java` | Oct 9, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
@@ -323,4 +323,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 09 Oct 2026 05:18:46 GMT*
+*Last updated: Fri, 09 Oct 2026 05:19:09 GMT*
