@@ -1,0 +1,41 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1541. Minimum Insertions to Balance a Parentheses String
+//  URL      : https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/submissions/2166960733/?envType=daily-question&envId=2026-10-09
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 8 ms
+//  Memory   : 47.6 MB
+//  Solved   : October 9, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int minInsertions(String s) {
+        
+        Stack<Integer> stack = new Stack<>();
+        int need =0;
+        int ins =  0 ;
+
+
+        for (char c: s.toCharArray()){
+            if (c=='('){
+                
+                if (need%2!=0){
+                    ins++;
+                    need--;
+                }
+                need+=2;
+                
+            }
+            else{
+                need--;
+                if (need<0){
+                        need=1;
+                        ins++;
+                }
+            }
+
+        }
+        return need+ ins;
+
+    }
+}
