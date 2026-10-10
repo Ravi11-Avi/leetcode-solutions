@@ -1,0 +1,18 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0190. Reverse Bits
+//  URL      : https://leetcode.com/problems/reverse-bits/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : October 10, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int reverseBits(int n) {
+        String bits  =  Integer.toBinaryString(n);
+        String paddedBits = String.format("%32s", bits).replace(' ', '0');
+        String news =  new StringBuilder(paddedBits).reverse().toString();
+        int ab =  Integer.parseInt(news, 2);
+        return ab;
+    }
+    
+}
