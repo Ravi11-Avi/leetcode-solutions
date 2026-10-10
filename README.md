@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-311-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-94-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-312-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-95-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-198-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-19-red?style=flat-square)
 
@@ -107,6 +107,7 @@
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | `Java` | Aug 31, 2026 |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | 🟡 Medium | `chooseatype` | Sep 10, 2026 |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2137326458/) | 🟡 Medium | `Java` | Sep 10, 2026 |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | `Java` | Oct 10, 2026 |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 🟢 Easy | `chooseatype` | Oct 10, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `chooseatype` | Jul 31, 2026 |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/submissions/2086097875/) | 🟢 Easy | `MySQL` | Jul 29, 2026 |
@@ -324,4 +325,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 10 Oct 2026 10:19:54 GMT*
+*Last updated: Sat, 10 Oct 2026 10:23:23 GMT*
