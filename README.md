@@ -36,7 +36,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | `chooseatype` | Oct 4, 2026 |
-| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | `Java` | Oct 4, 2026 |
+| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | `Java` | Oct 11, 2026 |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/?envType=daily-question&envId=2026-10-03) | 🔴 Hard | `Java` | Oct 3, 2026 |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/?envType=daily-question&envId=2026-10-03) | 🔴 Hard | `chooseatype` | Oct 3, 2026 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2128373720/) | 🟡 Medium | `Java` | Sep 2, 2026 |
@@ -328,4 +328,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 11 Oct 2026 08:48:32 GMT*
+*Last updated: Sun, 11 Oct 2026 08:49:47 GMT*
