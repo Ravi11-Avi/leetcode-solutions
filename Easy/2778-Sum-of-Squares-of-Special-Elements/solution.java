@@ -1,0 +1,19 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 2778. Sum of Squares of Special Elements
+//  URL      : https://leetcode.com/problems/sum-of-squares-of-special-elements/?envType=daily-question&envId=2026-10-11
+//  Difficulty : Easy
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 42.8 MB
+//  Solved   : October 11, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int sumOfSquares(int[] nums) {
+        int res= 0 ;
+        int n =nums.length;
+        for (int i = 0 ; i < n; i++)if (n%(i+1)== 0)res+= Math.pow(nums[i],2);
+                    
+        return res;
+    }
+}
