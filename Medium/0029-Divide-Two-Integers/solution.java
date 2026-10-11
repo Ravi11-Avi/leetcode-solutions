@@ -4,19 +4,21 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 41.7 MB
-//  Solved   : October 4, 2026
+//  Memory   : 41.8 MB
+//  Solved   : October 11, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
     public int divide(int dividend, int divisor) {
        int res =1 ;
        int curr = divisor;
+       int prev = 0;
 
        while(curr <= dividend){
+        prev = curr;
         curr= curr*(res++);
        }
 
-       return res;
+       return prev;
     }
 }
