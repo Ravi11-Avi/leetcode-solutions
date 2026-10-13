@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0062. Unique Paths
-//  URL      : https://leetcode.com/problems/unique-paths/
+//  URL      : https://leetcode.com/problems/unique-paths/submissions/2170666738/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 4, 2026
+//  Solved   : October 13, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
