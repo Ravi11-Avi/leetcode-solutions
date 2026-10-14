@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-316-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-99-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-317-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-100-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-198-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-19-red?style=flat-square)
 
@@ -68,6 +68,7 @@
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/submissions/2123672183/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `Java` | Aug 29, 2026 |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | 🟢 Easy | `chooseatype` | Oct 14, 2026 |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | `Java` | Oct 14, 2026 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | `chooseatype` | Oct 6, 2026 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | `Java` | Oct 6, 2026 |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | `Java` | Oct 6, 2026 |
@@ -329,4 +330,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 14 Oct 2026 12:58:56 GMT*
+*Last updated: Wed, 14 Oct 2026 12:59:19 GMT*
