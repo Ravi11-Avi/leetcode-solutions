@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0100. Same Tree
-//  URL      : https://leetcode.com/problems/same-tree/submissions/
+//  URL      : https://leetcode.com/problems/same-tree/submissions/2172133022/
 //  Difficulty : Easy
-//  Language : chooseatype
-//  Solved   : October 14, 2026
+//  Language : unknown
+//  Solved   : October 15, 2026
 // ═══════════════════════════════════════════════════════
 
 /**
@@ -23,6 +23,10 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        
+     
+        if (p == null && q == null) return true;
+        if(p == null || q == null) return false;
+        if(p.val != q.val)return false;
+        return isSameTree(p.left, q.left)&& isSameTree(p.right ,q.right );
     }
 }
