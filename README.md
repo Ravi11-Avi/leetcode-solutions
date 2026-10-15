@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-319-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-102-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-320-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-103-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-198-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-19-red?style=flat-square)
 
@@ -294,6 +294,7 @@
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/?envType=daily-question&envId=2026-10-11) | 🟢 Easy | `Java` | Oct 11, 2026 |
 | 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | 🟡 Medium | `chooseatype` | Sep 22, 2026 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15) | 🟢 Easy | `Java` | Oct 15, 2026 |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15) | 🟢 Easy | `chooseatype` | Oct 15, 2026 |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | 🟡 Medium | `Java` | Sep 12, 2026 |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/submissions/2139308153/) | 🟡 Medium | `chooseatype` | Sep 12, 2026 |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/?envType=daily-question&envId=2026-08-12) | 🟡 Medium | `chooseatype` | Aug 12, 2026 |
@@ -332,4 +333,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 15 Oct 2026 13:41:06 GMT*
+*Last updated: Thu, 15 Oct 2026 13:41:28 GMT*
