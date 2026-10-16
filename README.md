@@ -295,7 +295,7 @@
 | 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | 🟡 Medium | `chooseatype` | Sep 22, 2026 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15) | 🟢 Easy | `Java` | Oct 15, 2026 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15) | 🟢 Easy | `chooseatype` | Oct 15, 2026 |
-| 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/submissions/2173572477/?envType=daily-question&envId=2026-10-16) | 🔴 Hard | `chooseatype` | Oct 16, 2026 |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/?envType=daily-question&envId=2026-10-16) | 🔴 Hard | `chooseatype` | Oct 16, 2026 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/?envType=daily-question&envId=2026-10-16) | 🔴 Hard | `Java` | Oct 16, 2026 |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | 🟡 Medium | `Java` | Sep 12, 2026 |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/submissions/2139308153/) | 🟡 Medium | `chooseatype` | Sep 12, 2026 |
@@ -335,4 +335,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 16 Oct 2026 05:34:43 GMT*
+*Last updated: Fri, 16 Oct 2026 05:35:07 GMT*
