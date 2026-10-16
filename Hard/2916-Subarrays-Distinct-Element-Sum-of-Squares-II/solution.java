@@ -4,7 +4,7 @@
 //  Difficulty : Hard
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 41.2 MB
+//  Memory   : 41.7 MB
 //  Solved   : October 16, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -15,12 +15,19 @@ class Solution {
         long MOD = 1_000_000_007;
 
         for(int i = 0 ; i< n ;i++){
-            HashSet<Integer> set =  new HashSet<>();
+            // HashSet<Integer> set =  new HashSet<>();
+            boolean[] seen = new boolean[100005];
+            int dc = 0;
 
             for(int j =i; j< n ; j++){
-                set.add(nums[j]);
-                long r =  set.size();
-                sum= (sum+( r*r))%MOD;
+                if (!seen[nums[j]]) {
+                    seen[nums[j]] = true;
+                    dc++;
+                }
+                // set.add(nums[j]);
+                // long r =  set.size();
+                // sum= (sum+( r*r))%MOD;
+                sum = (sum + (dc * dc)) % MOD;
 
             }
         }
