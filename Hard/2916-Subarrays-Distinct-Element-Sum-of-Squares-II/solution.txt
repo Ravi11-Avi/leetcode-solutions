@@ -1,0 +1,26 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 2916. Subarrays Distinct Element Sum of Squares II
+//  URL      : https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/?envType=daily-question&envId=2026-10-16
+//  Difficulty : Hard
+//  Language : chooseatype
+//  Solved   : October 16, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int sumCounts(int[] nums) {
+        int n  =  nums.length;
+        int sum= 0;
+
+        for(int i = 0 ; i< n ;i++){
+            HashSet<Integer> set =  new HashSet<>();
+
+            for(int j =i; j< n ; j++){
+                set.add(nums[j]);
+                int r =  set.size();
+                sum+= r*r;
+
+            }
+        }
+        return sum;
+    }
+}
