@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-322-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-323-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-103-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-198-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-199-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -326,6 +326,7 @@
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20) | 🟢 Easy | `Java` | Sep 20, 2026 |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/submissions/2147980238/?envType=daily-question&envId=2026-09-20) | 🟢 Easy | `chooseatype` | Sep 20, 2026 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/?envType=daily-question&envId=2026-09-24) | 🟢 Easy | `chooseatype` | Sep 24, 2026 |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/?envType=daily-question&envId=2026-10-17) | 🟡 Medium | `Java` | Oct 17, 2026 |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22) | 🟢 Easy | `chooseatype` | Aug 22, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `Java` | Aug 4, 2026 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | `chooseatype` | Aug 4, 2026 |
@@ -335,4 +336,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Fri, 16 Oct 2026 05:35:07 GMT*
+*Last updated: Sat, 17 Oct 2026 10:51:38 GMT*
