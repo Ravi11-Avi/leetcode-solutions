@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 41.6 MB
+//  Memory   : 41.8 MB
 //  Solved   : October 17, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -27,14 +27,15 @@ class Solution {
     public int maxLevelSum(TreeNode root) {
         int maxl = 0 ; 
         if (root == null) return maxl;
-        int maxsum =0;
+        int maxsum =Integer.MIN_VALUE;
+        int level =1;
+
 
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
 
         while(!q.isEmpty()){
             int n = q.size();
-            int level =1;
             int sum= 0;
 
             for (int i = 0 ; i < n ; i++){
