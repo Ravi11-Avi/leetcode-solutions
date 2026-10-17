@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-324-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-325-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-103-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-200-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-201-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -250,6 +250,7 @@
 | 1046 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2143956861/) | 🟢 Easy | `Java` | Sep 16, 2026 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/?envType=daily-question&envId=2026-09-30) | 🟡 Medium | `Java` | Sep 30, 2026 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/?envType=daily-question&envId=2026-09-30) | 🟡 Medium | `chooseatype` | Sep 30, 2026 |
+| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | 🟡 Medium | `Java` | Oct 17, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `Java` | Aug 19, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/?envType=daily-question&envId=2026-08-19) | 🟡 Medium | `chooseatype` | Aug 19, 2026 |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 🟡 Medium | `Java` | Sep 15, 2026 |
@@ -337,4 +338,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 17 Oct 2026 10:53:09 GMT*
+*Last updated: Sat, 17 Oct 2026 12:57:36 GMT*
