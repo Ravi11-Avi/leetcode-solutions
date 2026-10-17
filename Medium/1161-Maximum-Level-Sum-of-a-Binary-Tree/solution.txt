@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1161. Maximum Level Sum of a Binary Tree
-//  URL      : https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+//  URL      : https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2174567969/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : October 17, 2026
@@ -25,7 +25,7 @@ class Solution {
     public int maxLevelSum(TreeNode root) {
         int maxl = 0 ; 
         if (root == null) return maxl;
-        int maxsum =0;
+        int maxsum =Integer.MIN_VALUE;
         int level =1;
 
 
