@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0105. Construct Binary Tree from Preorder and Inorder Traversal
-//  URL      : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+//  URL      : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 7, 2026
+//  Solved   : October 18, 2026
 // ═══════════════════════════════════════════════════════
 
 /**
