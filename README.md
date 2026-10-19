@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-327-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-104-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-328-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-105-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-202-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
 
@@ -278,6 +278,7 @@
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | 🟢 Easy | `chooseatype` | Aug 10, 2026 |
 | 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | 🟡 Medium | `Java` | Aug 27, 2026 |
 | 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | 🟡 Medium | `chooseatype` | Aug 27, 2026 |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/?envType=daily-question&envId=2026-10-19) | 🟢 Easy | `chooseatype` | Oct 19, 2026 |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/?envType=daily-question&envId=2026-08-30) | 🟡 Medium | `chooseatype` | Aug 30, 2026 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2138313891/) | 🟡 Medium | `Java` | Sep 11, 2026 |
@@ -340,4 +341,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 17 Oct 2026 21:50:34 GMT*
+*Last updated: Mon, 19 Oct 2026 14:09:59 GMT*
