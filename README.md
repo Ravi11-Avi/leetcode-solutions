@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-331-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-332-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-107-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-203-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-204-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -246,6 +246,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | `Java` | Sep 10, 2026 |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | `chooseatype` | Sep 10, 2026 |
 | 0988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | 🟡 Medium | `Java` | Oct 21, 2026 |
+| 0988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | 🟡 Medium | `chooseatype` | Oct 21, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `Java` | Aug 10, 2026 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/2101489244/) | 🟡 Medium | `chooseatype` | Aug 10, 2026 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | `chooseatype` | Sep 15, 2026 |
@@ -344,4 +345,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Wed, 21 Oct 2026 06:52:17 GMT*
+*Last updated: Wed, 21 Oct 2026 06:54:11 GMT*
