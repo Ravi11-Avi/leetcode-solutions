@@ -131,7 +131,7 @@
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/2140922912/) | 🟢 Easy | `chooseatype` | Sep 14, 2026 |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | `Java` | Sep 14, 2026 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | 🟢 Easy | `chooseatype` | Oct 19, 2026 |
-| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/2177422108/) | 🟢 Easy | `Java` | Oct 21, 2026 |
+| 0226 | [0](https://leetcode.com/problems/invert-binary-tree/submissions/2177422108/) | 🟢 Easy | `java` | Oct 21, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
@@ -343,4 +343,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 20 Oct 2026 20:23:10 GMT*
+*Last updated: Wed, 21 Oct 2026 04:52:31 GMT*
