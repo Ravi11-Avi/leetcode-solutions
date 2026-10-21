@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0988. Smallest String Starting From Leaf
-//  URL      : https://leetcode.com/problems/smallest-string-starting-from-leaf/
+//  URL      : https://leetcode.com/problems/smallest-string-starting-from-leaf/submissions/2177709497/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 41.4 MB
+//  Runtime  : 2 ms
+//  Memory   : 46 MB
 //  Solved   : October 21, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -31,7 +31,7 @@ class Solution {
     }
     public void dfs( TreeNode root ,  StringBuilder sb ){
         if(root == null ) return ;
-        sb.append((char)('a'- root.val));
+        sb.append((char)('a'+ root.val));
 
         if (root.left == null && root.right == null){
             sb.reverse();
@@ -39,15 +39,16 @@ class Solution {
 
             sb.reverse();
 
-            if(current== null || current.compareTo(ss)<0){
+            if(ss== null || current.compareTo(ss)<0){
                 ss= current;
             }
-            dfs(root.left, sb);
+           
+
+        }
+         dfs(root.left, sb);
             dfs(root.right, sb);
             sb.deleteCharAt(sb.length()-1);
             return ;
-
-        }
 
     }
 }
