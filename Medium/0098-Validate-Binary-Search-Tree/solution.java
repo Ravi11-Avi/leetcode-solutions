@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0098. Validate Binary Search Tree
-//  URL      : https://leetcode.com/problems/validate-binary-search-tree/
+//  URL      : https://leetcode.com/problems/validate-binary-search-tree/submissions/2179199579/
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 41.4 MB
+//  Memory   : 44.8 MB
 //  Solved   : October 23, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -30,7 +30,7 @@
         public boolean finder(TreeNode node , Integer min , Integer  max){
              if(node ==  null )return true ;
 
-             if (max!= null&& max <= node.val || min!= null && min >= node.val)return false;
+             if (max!= null&& max >= node.val || min!= null && min<= node.val)return false;
 
              return finder(node.left , node.val , max)&&finder(node.right, min , node.val);
         }
