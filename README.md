@@ -64,7 +64,7 @@
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `Java` | Jul 30, 2026 |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | `chooseatype` | Jul 30, 2026 |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `Java` | Oct 23, 2026 |
-| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `chooseatype` | Oct 23, 2026 |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/submissions/2123672183/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `Java` | Aug 29, 2026 |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | 🟢 Easy | `chooseatype` | Oct 14, 2026 |
@@ -345,4 +345,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 22 Oct 2026 21:23:02 GMT*
+*Last updated: Thu, 22 Oct 2026 21:23:20 GMT*
