@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0098. Validate Binary Search Tree
-//  URL      : https://leetcode.com/problems/validate-binary-search-tree/
+//  URL      : https://leetcode.com/problems/validate-binary-search-tree/submissions/2179199579/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : October 23, 2026
