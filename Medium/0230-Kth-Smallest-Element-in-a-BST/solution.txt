@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0230. Kth Smallest Element in a BST
-//  URL      : https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+//  URL      : https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 5, 2026
+//  Solved   : October 24, 2026
 // ═══════════════════════════════════════════════════════
 
 /**
