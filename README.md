@@ -136,7 +136,7 @@
 | 0226 | [0](https://leetcode.com/problems/invert-binary-tree/submissions/2177422108/) | 🟢 Easy | `java` | Oct 21, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟢 Easy | `Java` | Jul 29, 2026 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/submissions/2085325138/) | 🟢 Easy | `unknown` | Jul 29, 2026 |
-| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | `chooseatype` | Aug 5, 2026 |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | 🟡 Medium | `chooseatype` | Oct 24, 2026 |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | `Java` | Aug 5, 2026 |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2096745552/) | 🟡 Medium | `chooseatype` | Aug 6, 2026 |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2096745552/) | 🟡 Medium | `Java` | Aug 6, 2026 |
@@ -347,4 +347,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 24 Oct 2026 11:14:46 GMT*
+*Last updated: Sat, 24 Oct 2026 11:15:17 GMT*
