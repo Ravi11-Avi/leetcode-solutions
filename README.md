@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-334-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-108-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-335-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-109-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-205-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
 
@@ -186,6 +186,7 @@
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
 | 0493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | `Java` | Aug 4, 2026 |
 | 0493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | `chooseatype` | Aug 4, 2026 |
+| 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | 🟢 Easy | `chooseatype` | Oct 24, 2026 |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/2090519622/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | 🟡 Medium | `Java` | Aug 2, 2026 |
 | 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | 🟢 Easy | `chooseatype` | Aug 3, 2026 |
@@ -347,4 +348,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 24 Oct 2026 11:15:17 GMT*
+*Last updated: Sat, 24 Oct 2026 12:48:46 GMT*
