@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 44.2 MB
+//  Memory   : 43.3 MB
 //  Solved   : October 27, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -25,6 +25,7 @@ class Solution {
             x*=x;
             bi /=2;
         }
+       
 
         return ans;
     }
