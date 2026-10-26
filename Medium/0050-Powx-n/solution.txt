@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0050. Pow(x, n)
-//  URL      : https://leetcode.com/problems/powx-n/submissions/
+//  URL      : https://leetcode.com/problems/powx-n/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : October 27, 2026
