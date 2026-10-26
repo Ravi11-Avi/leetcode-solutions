@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-335-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-336-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-109-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-205-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-206-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -47,6 +47,7 @@
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | `Java` | Oct 4, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2127050794/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `Java` | Sep 1, 2026 |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | 🟡 Medium | `chooseatype` | Oct 27, 2026 |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0062 | [Reverse Pairs](https://leetcode.com/problems/unique-paths/submissions/2093134810/) | 🟢 Easy | `java` | Aug 4, 2026 |
@@ -348,4 +349,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 24 Oct 2026 12:48:46 GMT*
+*Last updated: Mon, 26 Oct 2026 19:12:23 GMT*
