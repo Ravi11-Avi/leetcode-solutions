@@ -47,7 +47,7 @@
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | `Java` | Oct 4, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2127050794/) | 🟡 Medium | `chooseatype` | Sep 1, 2026 |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `Java` | Sep 1, 2026 |
-| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | `chooseatype` | Oct 27, 2026 |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/2182555067/) | 🟡 Medium | `chooseatype` | Oct 27, 2026 |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | `Java` | Oct 27, 2026 |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
@@ -350,4 +350,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Mon, 26 Oct 2026 19:15:13 GMT*
+*Last updated: Mon, 26 Oct 2026 19:15:47 GMT*
