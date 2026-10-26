@@ -1,0 +1,31 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0050. Pow(x, n)
+//  URL      : https://leetcode.com/problems/powx-n/
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 44.2 MB
+//  Solved   : October 27, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public double myPow(double x, int n) {
+        long  bi =  n;
+
+        if(n <  0){
+            x= 1/x;
+            bi = -bi;
+        }
+        double ans  =  1 ;
+
+        while(bi>0){
+            if(bi%2 == 1 ){
+                ans *= x;
+            }
+            x*=x;
+            bi /=2;
+        }
+
+        return ans;
+    }
+}
