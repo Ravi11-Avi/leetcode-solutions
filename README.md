@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-337-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-109-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-338-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-110-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-207-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
 
@@ -55,6 +55,7 @@
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/submissions/2170666738/) | 🟡 Medium | `chooseatype` | Oct 13, 2026 |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | `Java` | Oct 4, 2026 |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | `chooseatype` | Oct 4, 2026 |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one/submissions/) | 🟢 Easy | `chooseatype` | Oct 28, 2026 |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | `chooseatype` | Oct 5, 2026 |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | `Java` | Sep 14, 2026 |
@@ -350,4 +351,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Mon, 26 Oct 2026 19:15:47 GMT*
+*Last updated: Wed, 28 Oct 2026 13:50:50 GMT*
