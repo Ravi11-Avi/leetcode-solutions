@@ -1,0 +1,13 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0066. Plus One
+//  URL      : https://leetcode.com/problems/plus-one/submissions/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : October 28, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int[] plusOne(int[] digits) {
+        
+    }
+}
