@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0167. Two Sum II - Input Array Is Sorted
-//  URL      : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+//  URL      : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2185069487/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : September 10, 2026
+//  Solved   : October 30, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
