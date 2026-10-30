@@ -156,7 +156,7 @@
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
 | 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/?envType=daily-question&envId=2026-10-07) | 🔴 Hard | `Java` | Oct 7, 2026 |
-| 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/?envType=daily-question&envId=2026-10-07) | 🔴 Hard | `chooseatype` | Oct 7, 2026 |
+| 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/submissions/2185823819/) | 🔴 Hard | `chooseatype` | Oct 31, 2026 |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `chooseatype` | Aug 16, 2026 |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `Java` | Aug 16, 2026 |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | `Java` | Sep 8, 2026 |
@@ -351,4 +351,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 29 Oct 2026 21:02:01 GMT*
+*Last updated: Fri, 30 Oct 2026 21:45:30 GMT*
