@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0301. Remove Invalid Parentheses
-//  URL      : https://leetcode.com/problems/remove-invalid-parentheses/?envType=daily-question&envId=2026-10-07
+//  URL      : https://leetcode.com/problems/remove-invalid-parentheses/submissions/2185823819/
 //  Difficulty : Hard
 //  Language : chooseatype
-//  Solved   : October 7, 2026
+//  Solved   : October 31, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
