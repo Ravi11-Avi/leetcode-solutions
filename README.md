@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-346-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-116-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-347-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-117-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-208-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
@@ -205,6 +205,7 @@
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | 🟢 Easy | `Java` | Sep 12, 2026 |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | `Java` | Aug 13, 2026 |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | `chooseatype` | Aug 13, 2026 |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | `chooseatype` | Oct 31, 2026 |
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | `chooseatype` | Aug 14, 2026 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2125775033/) | 🟡 Medium | `Java` | Aug 31, 2026 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | 🟡 Medium | `chooseatype` | Aug 31, 2026 |
@@ -359,4 +360,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 31 Oct 2026 13:59:11 GMT*
+*Last updated: Sat, 31 Oct 2026 14:00:09 GMT*
