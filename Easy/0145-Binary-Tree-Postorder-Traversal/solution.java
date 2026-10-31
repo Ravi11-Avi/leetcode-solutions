@@ -4,7 +4,7 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.3 MB
+//  Memory   : 41.9 MB
 //  Solved   : October 31, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -28,11 +28,10 @@ class Solution {
         List<Integer> aa =  new ArrayList<>();
         if (root ==  null)return aa;
 
-        postorderTraversal(root.left);
-        postorderTraversal(root.right);
+        aa.addAll(postorderTraversal(root.left));
+        aa.addAll(postorderTraversal(root.right));
         aa.add(root.val);
         return aa;
-
         
     }
 }
