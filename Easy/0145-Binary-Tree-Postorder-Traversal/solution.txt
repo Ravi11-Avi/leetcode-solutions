@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0145. Binary Tree Postorder Traversal
-//  URL      : https://leetcode.com/problems/binary-tree-postorder-traversal/
+//  URL      : https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2053310030/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : October 31, 2026
@@ -23,6 +23,13 @@
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
+        List<Integer> aa =  new ArrayList<>();
+        if (root ==  null)return aa;
+
+        postorderTraversal(root.right);
+        postorderTraversal(root.left);
+        aa.add(root.val);
+        return aa;
         
     }
 }
