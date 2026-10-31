@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0110. Balanced Binary Tree
-//  URL      : https://leetcode.com/problems/balanced-binary-tree/submissions/2052014162/
+//  URL      : https://leetcode.com/problems/balanced-binary-tree/submissions/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : October 31, 2026
@@ -23,6 +23,16 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        
+        if (root ==  null) return true ;
+
+        if (Math.abs(height(root.left)- height(root.right))>1)return false;
+        return isBalanced(root.left)&& isBalanced(root.right);
+    }
+    public int height(TreeNode node){
+        if (node ==  null)return 0;
+        int left = height(node.left)+1;
+        int right = height(node.right)+1;
+
+        return Math.max(left, right);
     }
 }
