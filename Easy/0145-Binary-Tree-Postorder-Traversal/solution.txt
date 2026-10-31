@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0145. Binary Tree Postorder Traversal
-//  URL      : https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2053310030/
+//  URL      : https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2186208673/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : October 31, 2026
@@ -26,8 +26,8 @@ class Solution {
         List<Integer> aa =  new ArrayList<>();
         if (root ==  null)return aa;
 
-        postorderTraversal(root.right);
-        postorderTraversal(root.left);
+        aa.addAll(postorderTraversal(root.left));
+        aa.addAll(postorderTraversal(root.right));
         aa.add(root.val);
         return aa;
         
