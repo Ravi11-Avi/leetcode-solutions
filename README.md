@@ -84,7 +84,7 @@
 | 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 🟡 Medium | `Java` | Aug 7, 2026 |
 | 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/2098045007/) | 🟡 Medium | `chooseatype` | Aug 8, 2026 |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | `chooseatype` | Aug 1, 2026 |
-| 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/2052014162/) | 🟢 Easy | `chooseatype` | Oct 31, 2026 |
+| 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | 🟢 Easy | `chooseatype` | Oct 31, 2026 |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | `Java` | Oct 31, 2026 |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/?envType=problem-list-v2&envId=depth-first-search) | 🟢 Easy | `chooseatype` | Aug 29, 2026 |
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/) | 🟢 Easy | `java` | Aug 2, 2026 |
@@ -355,4 +355,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 31 Oct 2026 13:20:45 GMT*
+*Last updated: Sat, 31 Oct 2026 13:21:07 GMT*
