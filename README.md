@@ -4,10 +4,10 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-342-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-343-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-114-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-207-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -94,6 +94,7 @@
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/2123690461/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `Java` | Aug 29, 2026 |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/?envType=problem-list-v2&envId=depth-first-search) | 🟡 Medium | `chooseatype` | Aug 29, 2026 |
+| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | 🔴 Hard | `chooseatype` | Oct 31, 2026 |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | `Java` | Aug 17, 2026 |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/submissions/2110146172/) | 🔴 Hard | `chooseatype` | Aug 17, 2026 |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | `Java` | Sep 2, 2026 |
@@ -355,4 +356,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 31 Oct 2026 13:21:07 GMT*
+*Last updated: Sat, 31 Oct 2026 13:21:42 GMT*
