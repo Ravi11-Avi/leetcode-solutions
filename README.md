@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-344-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-115-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-345-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-116-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-207-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
@@ -113,6 +113,7 @@
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | `Java` | Sep 2, 2026 |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/submissions/2128334669/) | 🟡 Medium | `chooseatype` | Sep 2, 2026 |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `chooseatype` | Oct 31, 2026 |
+| 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `Java` | Oct 31, 2026 |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | `chooseatype` | Sep 7, 2026 |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | `chooseatype` | Sep 12, 2026 |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | `Java` | Sep 12, 2026 |
@@ -357,4 +358,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 31 Oct 2026 13:21:57 GMT*
+*Last updated: Sat, 31 Oct 2026 13:25:58 GMT*
