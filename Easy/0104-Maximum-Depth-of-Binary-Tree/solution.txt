@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0104. Maximum Depth of Binary Tree
-//  URL      : https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/
+//  URL      : https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2186198657/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : October 31, 2026
@@ -23,6 +23,11 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        return dfs(root,)
+        if (root ==  null )return 0;
+
+        int left =  maxDepth(root.left)+1;
+        int right =  maxDepth(root.right)+1;
+
+        return Math.max(left, right);
     }
 }
