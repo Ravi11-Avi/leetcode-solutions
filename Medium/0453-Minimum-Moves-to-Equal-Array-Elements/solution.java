@@ -4,7 +4,7 @@
 //  Difficulty : Medium
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 41.8 MB
+//  Memory   : 41.6 MB
 //  Solved   : November 1, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -19,6 +19,6 @@ class Solution {
 
         }
 
-        return  (int)(sum -( nums.length* min));
+        return  (int)(sum -(long)nums.length* min);
     }
 }
