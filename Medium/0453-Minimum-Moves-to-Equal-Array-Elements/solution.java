@@ -1,0 +1,24 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0453. Minimum Moves to Equal Array Elements
+//  URL      : https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01
+//  Difficulty : Medium
+//  Language : Java
+//  Runtime  : 0 ms
+//  Memory   : 41.8 MB
+//  Solved   : November 1, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int minMoves(int[] nums) {
+        long sum  = 0;
+        int min= nums[0];
+
+        for (int i :  nums){
+            sum+=i;
+            if (i> min)min = i;
+
+        }
+
+        return  (int)(sum -( nums.length* min));
+    }
+}
