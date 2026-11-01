@@ -13,10 +13,10 @@ class Solution {
 
         for (int i :  nums){
             sum+=i;
-            if (i> min)min = i;
+            if (i< min)min = i;
 
         }
 
-        return  (int)(Math.abs(sum -( nums.length* min)));
+        return  (int)(sum -(long)nums.length* min);
     }
 }
