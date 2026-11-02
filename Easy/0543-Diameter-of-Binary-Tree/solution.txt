@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0543. Diameter of Binary Tree
-//  URL      : https://leetcode.com/problems/diameter-of-binary-tree/
+//  URL      : https://leetcode.com/problems/diameter-of-binary-tree/submissions/
 //  Difficulty : Easy
 //  Language : chooseatype
-//  Solved   : October 31, 2026
+//  Solved   : November 3, 2026
 // ═══════════════════════════════════════════════════════
 
 /**
