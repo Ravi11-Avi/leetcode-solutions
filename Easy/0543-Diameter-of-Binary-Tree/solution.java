@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0543. Diameter of Binary Tree
-//  URL      : https://leetcode.com/problems/diameter-of-binary-tree/
+//  URL      : https://leetcode.com/problems/diameter-of-binary-tree/submissions/2188058575/
 //  Difficulty : Easy
 //  Language : Java
-//  Runtime  : 0 ms
-//  Memory   : 41.7 MB
+//  Runtime  : 179 ms
+//  Memory   : 47.4 MB
 //  Solved   : November 3, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -29,7 +29,7 @@ class Solution {
         if (root ==  null )return 0;
 
         int d1  = diameterOfBinaryTree(root.left);
-        int d2  = diameterOfBinaryTree(root.left);
+        int d2  = diameterOfBinaryTree(root.right);
 
         int d3 =  height(root.left)+ height(root.right);
 
@@ -41,7 +41,7 @@ class Solution {
         if (node ==  null) return 0;
 
         int left =  height(node.left)+1 ;
-        int right =  height(node.left)+1 ;
+        int right =  height(node.right)+1 ;
 
         return Math.max(left, right);
     }
