@@ -65,8 +65,11 @@ class Solution {
     }
     public void parrentfinder (TreeNode node , TreeNode parrent){
         if (node == null) return; 
-        map.put(node.left, node);
-        map.put(node.right, node);
+
+        TreeNode curr =  node  ;
+        map.put(node , parrent);
+        parrentfinder(node.left, curr);
+        parrentfinder(node.right, curr);
         return;
     }
 
