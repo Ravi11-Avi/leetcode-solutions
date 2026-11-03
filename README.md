@@ -4,9 +4,9 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-351-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-352-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-118-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-211-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-212-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -251,6 +251,7 @@
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | 🔴 Hard | `Java` | Sep 17, 2026 |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | 🔴 Hard | `chooseatype` | Sep 17, 2026 |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | 🟡 Medium | `chooseatype` | Nov 3, 2026 |
+| 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | 🟡 Medium | `Java` | Nov 3, 2026 |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `Java` | Sep 9, 2026 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
@@ -364,4 +365,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 03 Nov 2026 07:39:02 GMT*
+*Last updated: Tue, 03 Nov 2026 07:41:35 GMT*
