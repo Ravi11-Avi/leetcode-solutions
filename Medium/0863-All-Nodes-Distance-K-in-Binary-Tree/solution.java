@@ -1,10 +1,10 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0863. All Nodes Distance K in Binary Tree
-//  URL      : https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+//  URL      : https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/2188399760/
 //  Difficulty : Medium
 //  Language : Java
-//  Runtime  : 10 ms
-//  Memory   : 42 MB
+//  Runtime  : 16 ms
+//  Memory   : 43.5 MB
 //  Solved   : November 3, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -68,10 +68,9 @@ class Solution {
     public void parrentfinder (TreeNode node , TreeNode parrent){
         if (node == null) return; 
 
-        TreeNode curr =  node  ;
         map.put(node , parrent);
-        parrentfinder(node.left, curr);
-        parrentfinder(node.right, curr);
+        parrentfinder(node.left, node);
+        parrentfinder(node.right, node);
         return;
     }
 
