@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0300. Longest Increasing Subsequence
-//  URL      : https://leetcode.com/problems/longest-increasing-subsequence/
+//  URL      : https://leetcode.com/problems/longest-increasing-subsequence/submissions/2190930405/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : September 9, 2026
+//  Solved   : November 7, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
