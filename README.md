@@ -161,7 +161,7 @@
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `Java` | Aug 28, 2026 |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | `chooseatype` | Aug 28, 2026 |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | `Java` | Sep 9, 2026 |
-| 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | `chooseatype` | Sep 9, 2026 |
+| 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/2190930405/) | 🟡 Medium | `chooseatype` | Nov 7, 2026 |
 | 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/?envType=daily-question&envId=2026-10-07) | 🔴 Hard | `Java` | Oct 7, 2026 |
 | 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/submissions/2185823819/) | 🔴 Hard | `chooseatype` | Oct 31, 2026 |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | `chooseatype` | Aug 16, 2026 |
@@ -367,4 +367,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 05 Nov 2026 12:26:58 GMT*
+*Last updated: Fri, 06 Nov 2026 19:32:44 GMT*
