@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0392. Is Subsequence
-//  URL      : https://leetcode.com/problems/is-subsequence/submissions/2138205691/
+//  URL      : https://leetcode.com/problems/is-subsequence/submissions/2191244095/
 //  Difficulty : Easy
 //  Language : chooseatype
-//  Solved   : September 11, 2026
+//  Solved   : November 7, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
