@@ -180,7 +180,7 @@
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2132891040/) | 🟡 Medium | `Java` | Sep 6, 2026 |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/2191244095/) | 🟢 Easy | `chooseatype` | Nov 7, 2026 |
-| 0392 | [-](https://leetcode.com/problems/is-subsequence/submissions/2191244095/) | 🟢 Easy | `unknown` | Nov 7, 2026 |
+| 0392 | [0](https://leetcode.com/problems/is-subsequence/submissions/2191244095/) | 🟢 Easy | `unknown` | Nov 9, 2026 |
 | 0403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | `chooseatype` | Aug 11, 2026 |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | `chooseatype` | Sep 8, 2026 |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | `Java` | Sep 14, 2026 |
@@ -368,4 +368,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 07 Nov 2026 11:54:26 GMT*
+*Last updated: Sun, 08 Nov 2026 19:56:19 GMT*
