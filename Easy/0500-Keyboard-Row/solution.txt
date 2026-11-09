@@ -1,0 +1,55 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0500. Keyboard Row
+//  URL      : https://leetcode.com/problems/keyboard-row/submissions/2192643472/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : November 9, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public String[] findWords(String[] words) {
+
+        int [] alrow = new int[26] ;
+        
+        String [] row =  {"qwertyuiop","asdfghjkl","zxcvbnm"};
+
+        for (int i = 0 ;  i< row.length ; i ++){
+            for (char c : row[i].toCharArray()){
+                alrow[c-'a'] = i;
+            }
+        }
+
+        // String[] result   = new String [words.length ];
+        // int idx = 0;
+
+        List<String> sl = new ArrayList<>();
+
+        for (String ss : words){
+            if(ss.isEmpty()) continue;
+
+            String currWord =  ss.toLowerCase();
+            int target = alrow[currWord.charAt(0)-'a'];
+            boolean isValid = true  ; 
+
+            for (int i  = 1 ; i< currWord.length() ;  i++){
+                if (alrow[currWord.charAt(i)-'a']!= target){
+                    isValid  =  false;
+                    break;
+                }
+            }
+
+
+            if (isValid){
+                // result[idx++] = ss;
+
+                sl.add(ss);
+
+
+        }
+        }
+
+
+        return sl.toArray(new String[0]);
+
+    }
+}
