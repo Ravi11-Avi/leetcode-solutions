@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-356-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-122-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-357-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-123-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-212-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
@@ -182,6 +182,7 @@
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/2198057088/) | 🟢 Easy | `chooseatype` | Nov 17, 2026 |
 | 0392 | [0](https://leetcode.com/problems/is-subsequence/submissions/2191244095/) | 🟢 Easy | `unknown` | Nov 9, 2026 |
 | 0403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | `chooseatype` | Aug 11, 2026 |
+| 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | 🟢 Easy | `chooseatype` | Nov 19, 2026 |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | `chooseatype` | Sep 8, 2026 |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | `Java` | Sep 14, 2026 |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | `chooseatype` | Sep 14, 2026 |
@@ -369,4 +370,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Tue, 17 Nov 2026 14:35:18 GMT*
+*Last updated: Thu, 19 Nov 2026 17:22:32 GMT*
