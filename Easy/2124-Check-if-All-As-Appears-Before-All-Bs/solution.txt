@@ -1,0 +1,20 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 2124. Check if All A's Appears Before All B's
+//  URL      : https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/?envType=daily-question&envId=2026-11-22
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : November 22, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public boolean checkString(String s) {
+        int i = 0 , j =1 ; 
+        while (j<s.length()){
+            if (s.charAt(i)-s.charAt(j)>0)return false;
+             i++;
+            j++;
+        }
+       
+        return true;
+    }
+}
