@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-361-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-127-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-362-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-128-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-212-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
@@ -313,6 +313,7 @@
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/?envType=daily-question&envId=2026-08-30) | 🟡 Medium | `chooseatype` | Aug 30, 2026 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | 🟡 Medium | `chooseatype` | Sep 11, 2026 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2138313891/) | 🟡 Medium | `Java` | Sep 11, 2026 |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/?envType=daily-question&envId=2026-11-22) | 🟢 Easy | `chooseatype` | Nov 22, 2026 |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/?envType=daily-question&envId=2026-11-21) | 🟢 Easy | `Java` | Nov 22, 2026 |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/?envType=daily-question&envId=2026-11-21) | 🟢 Easy | `chooseatype` | Nov 22, 2026 |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/submissions/2139293988/) | 🟡 Medium | `Java` | Sep 12, 2026 |
@@ -374,4 +375,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sat, 21 Nov 2026 22:25:22 GMT*
+*Last updated: Sun, 22 Nov 2026 12:47:54 GMT*
