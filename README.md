@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-362-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-128-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-363-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-129-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-212-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
@@ -180,6 +180,7 @@
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2132891040/) | 🟡 Medium | `Java` | Sep 6, 2026 |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | `Java` | Nov 21, 2026 |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | `chooseatype` | Nov 21, 2026 |
+| 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | `chooseatype` | Nov 25, 2026 |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | `Java` | Sep 11, 2026 |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/2198057088/) | 🟢 Easy | `chooseatype` | Nov 17, 2026 |
 | 0392 | [0](https://leetcode.com/problems/is-subsequence/submissions/2191244095/) | 🟢 Easy | `unknown` | Nov 9, 2026 |
@@ -375,4 +376,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Sun, 22 Nov 2026 12:47:54 GMT*
+*Last updated: Tue, 24 Nov 2026 20:50:37 GMT*
