@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-364-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-130-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-365-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-131-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-212-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
@@ -360,6 +360,7 @@
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | 🔴 Hard | `Java` | Oct 4, 2026 |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | 🔴 Hard | `chooseatype` | Oct 4, 2026 |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/?envType=daily-question&envId=2026-11-26) | 🟢 Easy | `chooseatype` | Nov 27, 2026 |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/submissions/2204207351/?envType=daily-question&envId=2026-11-26) | 🟢 Easy | `Java` | Nov 27, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/submissions/2086203209/) | 🟡 Medium | `MySQL` | Jul 29, 2026 |
 | 3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/) | 🟡 Medium | `chooseatype` | Jul 29, 2026 |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/?envType=daily-question&envId=2026-09-11) | 🟢 Easy | `Java` | Sep 11, 2026 |
@@ -377,4 +378,4 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | `chooseatype` | Sep 2, 2026 |
 
 ---
-*Last updated: Thu, 26 Nov 2026 22:27:02 GMT*
+*Last updated: Thu, 26 Nov 2026 22:27:19 GMT*
